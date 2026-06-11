@@ -1,0 +1,355 @@
+{
+  "source": {
+    "file": "Lesson_45_2025-03-21.pdf",
+    "lesson": null,
+    "date": "2025-03-21"
+  },
+  "notes": "HANDWRITTEN – agent vision extraction needed. Fill in entries array.",
+  "pages": [
+    "content/pages/note_2025_03_21/p01.png"
+  ],
+  "entries": [
+    {
+      "id": "lesson_45_2025_03_21-0000",
+      "farsi": "برنده",
+      "transliteration": "barande",
+      "english": "winner",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_45_2025-03-21.pdf",
+        "lesson": 45,
+        "date": "2025-03-21",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_45_2025_03_21-0001",
+      "farsi": "بازنده",
+      "transliteration": "bazande",
+      "english": "loser",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_45_2025-03-21.pdf",
+        "lesson": 45,
+        "date": "2025-03-21",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_45_2025_03_21-0002",
+      "farsi": "سلاح",
+      "transliteration": "aslahe",
+      "english": "weapon",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_45_2025-03-21.pdf",
+        "lesson": 45,
+        "date": "2025-03-21",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_45_2025_03_21-0003",
+      "farsi": "راننده",
+      "transliteration": "rānande",
+      "english": "driver",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_45_2025-03-21.pdf",
+        "lesson": 45,
+        "date": "2025-03-21",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_45_2025_03_21-0004",
+      "farsi": "نادر",
+      "transliteration": "nāder",
+      "english": "rare",
+      "partOfSpeech": "adjective",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_45_2025-03-21.pdf",
+        "lesson": 45,
+        "date": "2025-03-21",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_45_2025_03_21-0005",
+      "farsi": "سفارت",
+      "transliteration": "sefārat",
+      "english": "embassy",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_45_2025-03-21.pdf",
+        "lesson": 45,
+        "date": "2025-03-21",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_45_2025_03_21-0006",
+      "farsi": "سفیر",
+      "transliteration": "safir",
+      "english": "ambassador",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_45_2025-03-21.pdf",
+        "lesson": 45,
+        "date": "2025-03-21",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_45_2025_03_21-0007",
+      "farsi": "جلوی چیزی را گرفتن",
+      "transliteration": "jelooye chizi ro gereftan",
+      "english": "to stop / to prevent",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_45_2025-03-21.pdf",
+        "lesson": 45,
+        "date": "2025-03-21",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_45_2025_03_21-0008",
+      "farsi": "کنار گذاشتن",
+      "transliteration": "kenār gozāshtan",
+      "english": "to put aside",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_45_2025-03-21.pdf",
+        "lesson": 45,
+        "date": "2025-03-21",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_45_2025_03_21-0009",
+      "farsi": "ظرفیت",
+      "transliteration": "zarfiyat",
+      "english": "1) capacity  2) director",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_45_2025-03-21.pdf",
+        "lesson": 45,
+        "date": "2025-03-21",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_45_2025_03_21-0010",
+      "farsi": "دفاع",
+      "transliteration": "defā'",
+      "english": "defense",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_45_2025-03-21.pdf",
+        "lesson": 45,
+        "date": "2025-03-21",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_45_2025_03_21-0011",
+      "farsi": "صلح",
+      "transliteration": "solh",
+      "english": "peace",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_45_2025-03-21.pdf",
+        "lesson": 45,
+        "date": "2025-03-21",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_45_2025_03_21-0012",
+      "farsi": "بدهی",
+      "transliteration": "badehi",
+      "english": "debt",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_45_2025-03-21.pdf",
+        "lesson": 45,
+        "date": "2025-03-21",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_45_2025_03_21-0013",
+      "farsi": "وابستگی",
+      "transliteration": "vābastegi",
+      "english": "independence (antonym: استقلال)",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_45_2025-03-21.pdf",
+        "lesson": 45,
+        "date": "2025-03-21",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_45_2025_03_21-0014",
+      "farsi": "مدل پایه",
+      "transliteration": "modele pāye",
+      "english": "base model",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_45_2025-03-21.pdf",
+        "lesson": 45,
+        "date": "2025-03-21",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_45_2025_03_21-0015",
+      "farsi": "دست کم گرفتن",
+      "transliteration": "daste kam gereftan",
+      "english": "to underestimate",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_45_2025-03-21.pdf",
+        "lesson": 45,
+        "date": "2025-03-21",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_45_2025_03_21-0016",
+      "farsi": "منابع",
+      "transliteration": "monābe",
+      "english": "resources",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_45_2025-03-21.pdf",
+        "lesson": 45,
+        "date": "2025-03-21",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_45_2025_03_21-0017",
+      "farsi": "تحریم",
+      "transliteration": "tahrim",
+      "english": "sanction",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_45_2025-03-21.pdf",
+        "lesson": 45,
+        "date": "2025-03-21",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_45_2025_03_21-0018",
+      "farsi": "آلودگی",
+      "transliteration": "āloodegi",
+      "english": "pollution",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_45_2025-03-21.pdf",
+        "lesson": 45,
+        "date": "2025-03-21",
+        "page": 1
+      },
+      "needsReview": true
+    }
+  ]
+}

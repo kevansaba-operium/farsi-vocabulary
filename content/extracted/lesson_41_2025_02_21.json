@@ -1,0 +1,265 @@
+{
+  "source": {
+    "file": "Lesson_41_2025-02-21.pdf",
+    "lesson": null,
+    "date": "2025-02-21"
+  },
+  "notes": "HANDWRITTEN – agent vision extraction needed. Fill in entries array.",
+  "pages": [
+    "content/pages/note_2025_02_21/p01.png"
+  ],
+  "entries": [
+    {
+      "id": "lesson_41_2025_02_21-0000",
+      "farsi": "قبیله",
+      "transliteration": "ghabile",
+      "english": "tribe",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_41_2025-02-21.pdf",
+        "lesson": 41,
+        "date": "2025-02-21",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_41_2025_02_21-0001",
+      "farsi": "به طور میانگین",
+      "transliteration": "be tore miyāngin",
+      "english": "on average",
+      "partOfSpeech": "adverb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_41_2025-02-21.pdf",
+        "lesson": 41,
+        "date": "2025-02-21",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_41_2025_02_21-0002",
+      "farsi": "حافظه",
+      "transliteration": "hāfeze",
+      "english": "memory (what we can memorize things by)",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_41_2025-02-21.pdf",
+        "lesson": 41,
+        "date": "2025-02-21",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_41_2025_02_21-0003",
+      "farsi": "دوقلو",
+      "transliteration": "doghalloo",
+      "english": "twin",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_41_2025-02-21.pdf",
+        "lesson": 41,
+        "date": "2025-02-21",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_41_2025_02_21-0004",
+      "farsi": "دوقلوهای همسان",
+      "transliteration": "doghalooye hamsān",
+      "english": "perfect twin (identical twin)",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_41_2025-02-21.pdf",
+        "lesson": 41,
+        "date": "2025-02-21",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_41_2025_02_21-0005",
+      "farsi": "جایگزین کردن",
+      "transliteration": "jāygozin kardan",
+      "english": "to replace",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_41_2025-02-21.pdf",
+        "lesson": 41,
+        "date": "2025-02-21",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_41_2025_02_21-0006",
+      "farsi": "محیط",
+      "transliteration": "mohit",
+      "english": "environment",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_41_2025-02-21.pdf",
+        "lesson": 41,
+        "date": "2025-02-21",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_41_2025_02_21-0007",
+      "farsi": "تکامل",
+      "transliteration": "takāmol",
+      "english": "evolution",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_41_2025-02-21.pdf",
+        "lesson": 41,
+        "date": "2025-02-21",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_41_2025_02_21-0008",
+      "farsi": "بیمار",
+      "transliteration": "bimār",
+      "english": "sick (adj) / patient (noun)",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_41_2025-02-21.pdf",
+        "lesson": 41,
+        "date": "2025-02-21",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_41_2025_02_21-0009",
+      "farsi": "درمان",
+      "transliteration": "darmān",
+      "english": "treatment",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_41_2025-02-21.pdf",
+        "lesson": 41,
+        "date": "2025-02-21",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_41_2025_02_21-0010",
+      "farsi": "زده‌دون کردن",
+      "transliteration": "zede doon kardan",
+      "english": "to sterilize",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_41_2025-02-21.pdf",
+        "lesson": 41,
+        "date": "2025-02-21",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_41_2025_02_21-0011",
+      "farsi": "میمون",
+      "transliteration": "meymoon",
+      "english": "monkey",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_41_2025-02-21.pdf",
+        "lesson": 41,
+        "date": "2025-02-21",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_41_2025_02_21-0012",
+      "farsi": "مغز",
+      "transliteration": "maghz",
+      "english": "brain",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_41_2025-02-21.pdf",
+        "lesson": 41,
+        "date": "2025-02-21",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_41_2025_02_21-0013",
+      "farsi": "معمولی / متوسط",
+      "transliteration": "mamuli / motavaset",
+      "english": "typical American / average",
+      "partOfSpeech": "adjective",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_41_2025-02-21.pdf",
+        "lesson": 41,
+        "date": "2025-02-21",
+        "page": 1
+      },
+      "needsReview": true
+    }
+  ]
+}

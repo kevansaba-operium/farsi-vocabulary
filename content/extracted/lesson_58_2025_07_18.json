@@ -1,0 +1,265 @@
+{
+  "source": {
+    "file": "Lesson_58_2025-07-18.pdf",
+    "lesson": null,
+    "date": "2025-07-18"
+  },
+  "notes": "HANDWRITTEN – agent vision extraction needed. Fill in entries array.",
+  "pages": [
+    "content/pages/note_2025_07_18/p01.png"
+  ],
+  "entries": [
+    {
+      "id": "lesson_58_2025_07_18-0000",
+      "farsi": "اهمیت",
+      "transliteration": "ahamiyat",
+      "english": "importance",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_58_2025-07-18.pdf",
+        "lesson": 58,
+        "date": "2025-07-18",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_58_2025_07_18-0001",
+      "farsi": "اهمیت دادن",
+      "transliteration": "ahamiyat dādan",
+      "english": "to give importance",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_58_2025-07-18.pdf",
+        "lesson": 58,
+        "date": "2025-07-18",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_58_2025_07_18-0002",
+      "farsi": "کم اهمیت",
+      "transliteration": "kam ahamiyat",
+      "english": "not important",
+      "partOfSpeech": "adjective",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_58_2025-07-18.pdf",
+        "lesson": 58,
+        "date": "2025-07-18",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_58_2025_07_18-0003",
+      "farsi": "پراهمیت",
+      "transliteration": "por ahamiyat",
+      "english": "important",
+      "partOfSpeech": "adjective",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_58_2025-07-18.pdf",
+        "lesson": 58,
+        "date": "2025-07-18",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_58_2025_07_18-0004",
+      "farsi": "دهه",
+      "transliteration": "dahe",
+      "english": "decade",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_58_2025-07-18.pdf",
+        "lesson": 58,
+        "date": "2025-07-18",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_58_2025_07_18-0005",
+      "farsi": "نیروگاه هسته‌ای",
+      "transliteration": "niroagāhe haste'i",
+      "english": "nuclear power plant",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_58_2025-07-18.pdf",
+        "lesson": 58,
+        "date": "2025-07-18",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_58_2025_07_18-0006",
+      "farsi": "هسته",
+      "transliteration": "haste",
+      "english": "1) fruit stone  2) nucleus  3) gas",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_58_2025-07-18.pdf",
+        "lesson": 58,
+        "date": "2025-07-18",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_58_2025_07_18-0007",
+      "farsi": "آسیاب بادی",
+      "transliteration": "āsiyābe bādi",
+      "english": "wind mill",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_58_2025-07-18.pdf",
+        "lesson": 58,
+        "date": "2025-07-18",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_58_2025_07_18-0008",
+      "farsi": "توربین",
+      "transliteration": "toorbin",
+      "english": "wind turbine",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_58_2025-07-18.pdf",
+        "lesson": 58,
+        "date": "2025-07-18",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_58_2025_07_18-0009",
+      "farsi": "شبکه",
+      "transliteration": "shabake",
+      "english": "network / grid",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_58_2025-07-18.pdf",
+        "lesson": 58,
+        "date": "2025-07-18",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_58_2025_07_18-0010",
+      "farsi": "بطری",
+      "transliteration": "batri",
+      "english": "bottle",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_58_2025-07-18.pdf",
+        "lesson": 58,
+        "date": "2025-07-18",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_58_2025_07_18-0011",
+      "farsi": "بازیافت کردن",
+      "transliteration": "bāzyāft kardan",
+      "english": "to recycle",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_58_2025-07-18.pdf",
+        "lesson": 58,
+        "date": "2025-07-18",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_58_2025_07_18-0012",
+      "farsi": "گونه",
+      "transliteration": "goone",
+      "english": "species",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_58_2025-07-18.pdf",
+        "lesson": 58,
+        "date": "2025-07-18",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_58_2025_07_18-0013",
+      "farsi": "کود",
+      "transliteration": "kood",
+      "english": "fertilizer",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_58_2025-07-18.pdf",
+        "lesson": 58,
+        "date": "2025-07-18",
+        "page": 1
+      },
+      "needsReview": true
+    }
+  ]
+}

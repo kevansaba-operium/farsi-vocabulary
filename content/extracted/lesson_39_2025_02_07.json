@@ -1,0 +1,319 @@
+{
+  "source": {
+    "file": "Lesson_39_2025-02-07.pdf",
+    "lesson": null,
+    "date": "2025-02-07"
+  },
+  "notes": "HANDWRITTEN – agent vision extraction needed. Fill in entries array.",
+  "pages": [
+    "content/pages/note_2025_02_07/p01.png"
+  ],
+  "entries": [
+    {
+      "id": "lesson_39_2025_02_07-0000",
+      "farsi": "سرطان",
+      "transliteration": "saratān",
+      "english": "cancer",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_39_2025-02-07.pdf",
+        "lesson": 39,
+        "date": "2025-02-07",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_39_2025_02_07-0001",
+      "farsi": "سلول",
+      "transliteration": "salool",
+      "english": "cell",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_39_2025-02-07.pdf",
+        "lesson": 39,
+        "date": "2025-02-07",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_39_2025_02_07-0002",
+      "farsi": "غلظت",
+      "transliteration": "ghelzat",
+      "english": "concentration",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_39_2025-02-07.pdf",
+        "lesson": 39,
+        "date": "2025-02-07",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_39_2025_02_07-0003",
+      "farsi": "رشد",
+      "transliteration": "rashd",
+      "english": "growth",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_39_2025-02-07.pdf",
+        "lesson": 39,
+        "date": "2025-02-07",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_39_2025_02_07-0004",
+      "farsi": "رشد کردن",
+      "transliteration": "rashd kardan",
+      "english": "to grow",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_39_2025-02-07.pdf",
+        "lesson": 39,
+        "date": "2025-02-07",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_39_2025_02_07-0005",
+      "farsi": "محقق",
+      "transliteration": "mohaghghegh",
+      "english": "researcher",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_39_2025-02-07.pdf",
+        "lesson": 39,
+        "date": "2025-02-07",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_39_2025_02_07-0006",
+      "farsi": "راه حل",
+      "transliteration": "rāhe hal",
+      "english": "solution",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_39_2025-02-07.pdf",
+        "lesson": 39,
+        "date": "2025-02-07",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_39_2025_02_07-0007",
+      "farsi": "تأیید کردن",
+      "transliteration": "ta'yid kardan",
+      "english": "to approve",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_39_2025-02-07.pdf",
+        "lesson": 39,
+        "date": "2025-02-07",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_39_2025_02_07-0008",
+      "farsi": "تأیید شدن",
+      "transliteration": "ta'yid shodan",
+      "english": "to be approved",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_39_2025-02-07.pdf",
+        "lesson": 39,
+        "date": "2025-02-07",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_39_2025_02_07-0009",
+      "farsi": "گیرنده",
+      "transliteration": "girande",
+      "english": "receptor",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_39_2025-02-07.pdf",
+        "lesson": 39,
+        "date": "2025-02-07",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_39_2025_02_07-0010",
+      "farsi": "کشف",
+      "transliteration": "kashf",
+      "english": "discovery",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_39_2025-02-07.pdf",
+        "lesson": 39,
+        "date": "2025-02-07",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_39_2025_02_07-0011",
+      "farsi": "عوارض جانبی",
+      "transliteration": "avāreze jānebi",
+      "english": "side effects",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_39_2025-02-07.pdf",
+        "lesson": 39,
+        "date": "2025-02-07",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_39_2025_02_07-0012",
+      "farsi": "سرمایه",
+      "transliteration": "sarmāye",
+      "english": "capital",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_39_2025-02-07.pdf",
+        "lesson": 39,
+        "date": "2025-02-07",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_39_2025_02_07-0013",
+      "farsi": "سرمایه‌گذاری",
+      "transliteration": "sarmāyegozāri",
+      "english": "investment",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_39_2025-02-07.pdf",
+        "lesson": 39,
+        "date": "2025-02-07",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_39_2025_02_07-0014",
+      "farsi": "سرمایه‌گذاری کردن",
+      "transliteration": "sarmāye gozāri kardan",
+      "english": "to invest",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_39_2025-02-07.pdf",
+        "lesson": 39,
+        "date": "2025-02-07",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_39_2025_02_07-0015",
+      "farsi": "خلاصه کردن",
+      "transliteration": "kholāse kardan",
+      "english": "to summarize",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_39_2025-02-07.pdf",
+        "lesson": 39,
+        "date": "2025-02-07",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_39_2025_02_07-0016",
+      "farsi": "علاقه دارم / علاقه ندارم",
+      "transliteration": "alāghe dāram / alāghe nadāram",
+      "english": "I am interested in / I am not interested in",
+      "partOfSpeech": "phrase",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_39_2025-02-07.pdf",
+        "lesson": 39,
+        "date": "2025-02-07",
+        "page": 1
+      },
+      "needsReview": true
+    }
+  ]
+}

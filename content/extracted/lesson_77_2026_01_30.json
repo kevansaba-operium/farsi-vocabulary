@@ -1,0 +1,445 @@
+{
+  "source": {
+    "file": "Lesson_77_2026-01-30.pdf",
+    "lesson": null,
+    "date": "2026-01-30"
+  },
+  "notes": "HANDWRITTEN – agent vision extraction needed. Fill in entries array.",
+  "pages": [
+    "content/pages/note_2026_01_30/p01.png"
+  ],
+  "entries": [
+    {
+      "id": "lesson_77_2026_01_30-0000",
+      "farsi": "جزئیات",
+      "transliteration": "joz'iyāt",
+      "english": "details",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_77_2026-01-30.pdf",
+        "lesson": 77,
+        "date": "2026-01-30",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_77_2026_01_30-0001",
+      "farsi": "تیر",
+      "transliteration": "tir",
+      "english": "bullet",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_77_2026-01-30.pdf",
+        "lesson": 77,
+        "date": "2026-01-30",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_77_2026_01_30-0002",
+      "farsi": "هموطن",
+      "transliteration": "hamvatan",
+      "english": "compatriot / fellow citizen",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_77_2026-01-30.pdf",
+        "lesson": 77,
+        "date": "2026-01-30",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_77_2026_01_30-0003",
+      "farsi": "جنگ چریکی",
+      "transliteration": "jange cherikhi",
+      "english": "guerilla warfare",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_77_2026-01-30.pdf",
+        "lesson": 77,
+        "date": "2026-01-30",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_77_2026_01_30-0004",
+      "farsi": "عصبانی",
+      "transliteration": "asabāni",
+      "english": "pissed off / angry",
+      "partOfSpeech": "adjective",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_77_2026-01-30.pdf",
+        "lesson": 77,
+        "date": "2026-01-30",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_77_2026_01_30-0005",
+      "farsi": "در مقایسه با",
+      "transliteration": "dar moghāyese bā",
+      "english": "in comparison with",
+      "partOfSpeech": "adverb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_77_2026-01-30.pdf",
+        "lesson": 77,
+        "date": "2026-01-30",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_77_2026_01_30-0006",
+      "farsi": "ناو هواپیمابر",
+      "transliteration": "nāve havāpeymā bar",
+      "english": "aircraft carrier",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_77_2026-01-30.pdf",
+        "lesson": 77,
+        "date": "2026-01-30",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_77_2026_01_30-0007",
+      "farsi": "سرسبز",
+      "transliteration": "sar sabz",
+      "english": "very green (used for places)",
+      "partOfSpeech": "adjective",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_77_2026-01-30.pdf",
+        "lesson": 77,
+        "date": "2026-01-30",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_77_2026_01_30-0008",
+      "farsi": "آتش نشان",
+      "transliteration": "ātash neshān",
+      "english": "fire fighter",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_77_2026-01-30.pdf",
+        "lesson": 77,
+        "date": "2026-01-30",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_77_2026_01_30-0009",
+      "farsi": "آتش فشان",
+      "transliteration": "ātash fashān",
+      "english": "volcano",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_77_2026-01-30.pdf",
+        "lesson": 77,
+        "date": "2026-01-30",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_77_2026_01_30-0010",
+      "farsi": "اتفاق",
+      "transliteration": "ettefāgh",
+      "english": "coincidence / random event",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_77_2026-01-30.pdf",
+        "lesson": 77,
+        "date": "2026-01-30",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_77_2026_01_30-0011",
+      "farsi": "متمدن",
+      "transliteration": "motamadden",
+      "english": "civilized",
+      "partOfSpeech": "adjective",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_77_2026-01-30.pdf",
+        "lesson": 77,
+        "date": "2026-01-30",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_77_2026_01_30-0012",
+      "farsi": "تمدن",
+      "transliteration": "tamaddon",
+      "english": "civilization",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_77_2026-01-30.pdf",
+        "lesson": 77,
+        "date": "2026-01-30",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_77_2026_01_30-0013",
+      "farsi": "تنش",
+      "transliteration": "tanesh",
+      "english": "tension",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_77_2026-01-30.pdf",
+        "lesson": 77,
+        "date": "2026-01-30",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_77_2026_01_30-0014",
+      "farsi": "مقدار",
+      "transliteration": "meghdār",
+      "english": "amount / quantity",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_77_2026-01-30.pdf",
+        "lesson": 77,
+        "date": "2026-01-30",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_77_2026_01_30-0015",
+      "farsi": "مهمات",
+      "transliteration": "mohemāt",
+      "english": "ammunition",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_77_2026-01-30.pdf",
+        "lesson": 77,
+        "date": "2026-01-30",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_77_2026_01_30-0016",
+      "farsi": "تظاهرات",
+      "transliteration": "tazāhorāt",
+      "english": "demonstration / protest",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_77_2026-01-30.pdf",
+        "lesson": 77,
+        "date": "2026-01-30",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_77_2026_01_30-0017",
+      "farsi": "چشم انداز",
+      "transliteration": "cheshmandāz",
+      "english": "vision (for future) / perspective",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_77_2026-01-30.pdf",
+        "lesson": 77,
+        "date": "2026-01-30",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_77_2026_01_30-0018",
+      "farsi": "صبور",
+      "transliteration": "saboor",
+      "english": "patient (adjective)",
+      "partOfSpeech": "adjective",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_77_2026-01-30.pdf",
+        "lesson": 77,
+        "date": "2026-01-30",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_77_2026_01_30-0019",
+      "farsi": "نارنجک",
+      "transliteration": "nārenjak",
+      "english": "grenade",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_77_2026-01-30.pdf",
+        "lesson": 77,
+        "date": "2026-01-30",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_77_2026_01_30-0020",
+      "farsi": "فراخوان",
+      "transliteration": "farākhān",
+      "english": "a very official announcement or invite",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_77_2026-01-30.pdf",
+        "lesson": 77,
+        "date": "2026-01-30",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_77_2026_01_30-0021",
+      "farsi": "فراخوان دادن",
+      "transliteration": "farākhān dādan",
+      "english": "to make an official announcement",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_77_2026-01-30.pdf",
+        "lesson": 77,
+        "date": "2026-01-30",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_77_2026_01_30-0022",
+      "farsi": "تعریف کردن",
+      "transliteration": "ta'rif kardan",
+      "english": "1) to define  2) to story / tell about events",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_77_2026-01-30.pdf",
+        "lesson": 77,
+        "date": "2026-01-30",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_77_2026_01_30-0023",
+      "farsi": "تعرفه",
+      "transliteration": "ta'refe",
+      "english": "tariff",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_77_2026-01-30.pdf",
+        "lesson": 77,
+        "date": "2026-01-30",
+        "page": 1
+      },
+      "needsReview": true
+    }
+  ]
+}

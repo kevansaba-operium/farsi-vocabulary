@@ -1,0 +1,32 @@
+{
+  "source": {
+    "file": "Lesson_DUPLICATE_2025-09-29_Note_2025-09-29.pdf",
+    "lesson": null,
+    "date": "2025-09-29"
+  },
+  "notes": "HANDWRITTEN – agent vision extraction needed. Fill in entries array.",
+  "pages": [
+    "content/pages/note_2025_09_29/p01.png",
+    "content/pages/note_2025_09_29/p02.png"
+  ],
+  "entries": [
+    {
+      "id": "lesson_duplicate_2025_09_29_note_2025_09_29-0000",
+      "farsi": "تکراری",
+      "transliteration": "tekrāri",
+      "english": "duplicate (same content as another lesson)",
+      "partOfSpeech": "noun",
+      "notes": "This is a duplicate file",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_DUPLICATE_2025-09-29_Note_2025-09-29.pdf",
+        "lesson": null,
+        "date": "2025-09-29",
+        "page": 1
+      },
+      "needsReview": true
+    }
+  ]
+}

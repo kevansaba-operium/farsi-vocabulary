@@ -1,0 +1,500 @@
+{
+  "source": {
+    "file": "Lesson_06_2024-07-14.pdf",
+    "lesson": 6,
+    "date": "2024-07-14"
+  },
+  "notes": "HANDWRITTEN – agent vision extraction needed. Fill in entries array.",
+  "pages": [
+    "content/pages/lesson_06_2024_07_14/p01.png",
+    "content/pages/lesson_06_2024_07_14/p02.png"
+  ],
+  "entries": [
+    {
+      "id": "lesson_06_2024_07_14-0000",
+      "farsi": "آشپز",
+      "transliteration": "āshpaz",
+      "english": "cook (person)",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_06_2024-07-14.pdf",
+        "lesson": 6,
+        "date": "2024-07-14",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_06_2024_07_14-0001",
+      "farsi": "آشپزی",
+      "transliteration": "āshpazi",
+      "english": "cooking",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_06_2024-07-14.pdf",
+        "lesson": 6,
+        "date": "2024-07-14",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_06_2024_07_14-0002",
+      "farsi": "آشپزی کردن",
+      "transliteration": "āshpazi kardan",
+      "english": "to cook",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_06_2024-07-14.pdf",
+        "lesson": 6,
+        "date": "2024-07-14",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_06_2024_07_14-0003",
+      "farsi": "دولت",
+      "transliteration": "dolat",
+      "english": "government",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_06_2024-07-14.pdf",
+        "lesson": 6,
+        "date": "2024-07-14",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_06_2024_07_14-0004",
+      "farsi": "تعطیل کردن",
+      "transliteration": "ta'til kardan",
+      "english": "to stop / to close (transitive)",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_06_2024-07-14.pdf",
+        "lesson": 6,
+        "date": "2024-07-14",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_06_2024_07_14-0005",
+      "farsi": "تعطیل شدن",
+      "transliteration": "ta'til shodan",
+      "english": "to stop / to close (intransitive)",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_06_2024-07-14.pdf",
+        "lesson": 6,
+        "date": "2024-07-14",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_06_2024_07_14-0006",
+      "farsi": "حقوق",
+      "transliteration": "hoghoogh",
+      "english": "1) wage / salary  2) rights / law",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_06_2024-07-14.pdf",
+        "lesson": 6,
+        "date": "2024-07-14",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_06_2024_07_14-0007",
+      "farsi": "درآمد",
+      "transliteration": "darāmad",
+      "english": "income",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_06_2024-07-14.pdf",
+        "lesson": 6,
+        "date": "2024-07-14",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_06_2024_07_14-0008",
+      "farsi": "عرضه و تقاضا",
+      "transliteration": "arzeh va taghāzā",
+      "english": "offer and demand",
+      "partOfSpeech": "phrase",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_06_2024-07-14.pdf",
+        "lesson": 6,
+        "date": "2024-07-14",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_06_2024_07_14-0009",
+      "farsi": "تورم",
+      "transliteration": "tavam",
+      "english": "inflation",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_06_2024-07-14.pdf",
+        "lesson": 6,
+        "date": "2024-07-14",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_06_2024_07_14-0010",
+      "farsi": "پول درآوردن",
+      "transliteration": "pool darāvardan",
+      "english": "to make money",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_06_2024-07-14.pdf",
+        "lesson": 6,
+        "date": "2024-07-14",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_06_2024_07_14-0011",
+      "farsi": "درآوردن",
+      "transliteration": "darāvardan",
+      "english": "to take out",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_06_2024-07-14.pdf",
+        "lesson": 6,
+        "date": "2024-07-14",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_06_2024_07_14-0012",
+      "farsi": "در آمدن",
+      "transliteration": "dar āmadan",
+      "english": "to get out",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_06_2024-07-14.pdf",
+        "lesson": 6,
+        "date": "2024-07-14",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_06_2024_07_14-0013",
+      "farsi": "درصد",
+      "transliteration": "darsad",
+      "english": "percent",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_06_2024-07-14.pdf",
+        "lesson": 6,
+        "date": "2024-07-14",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_06_2024_07_14-0014",
+      "farsi": "مالیات",
+      "transliteration": "māliāt",
+      "english": "tax",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_06_2024-07-14.pdf",
+        "lesson": 6,
+        "date": "2024-07-14",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_06_2024_07_14-0015",
+      "farsi": "اقتصاد",
+      "transliteration": "eghtesād",
+      "english": "economics / economy",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_06_2024-07-14.pdf",
+        "lesson": 6,
+        "date": "2024-07-14",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_06_2024_07_14-0016",
+      "farsi": "موقعیت",
+      "transliteration": "mogheiyat",
+      "english": "situation / position",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_06_2024-07-14.pdf",
+        "lesson": 6,
+        "date": "2024-07-14",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_06_2024_07_14-0017",
+      "farsi": "قانون",
+      "transliteration": "ghānoon",
+      "english": "law",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_06_2024-07-14.pdf",
+        "lesson": 6,
+        "date": "2024-07-14",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_06_2024_07_14-0018",
+      "farsi": "ثروت",
+      "transliteration": "servat",
+      "english": "wealth",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_06_2024-07-14.pdf",
+        "lesson": 6,
+        "date": "2024-07-14",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_06_2024_07_14-0019",
+      "farsi": "ثروتمند",
+      "transliteration": "servatmand",
+      "english": "wealthy",
+      "partOfSpeech": "adjective",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_06_2024-07-14.pdf",
+        "lesson": 6,
+        "date": "2024-07-14",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_06_2024_07_14-0020",
+      "farsi": "پولدار",
+      "transliteration": "pooldār",
+      "english": "rich (more common)",
+      "partOfSpeech": "adjective",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_06_2024-07-14.pdf",
+        "lesson": 6,
+        "date": "2024-07-14",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_06_2024_07_14-0021",
+      "farsi": "اجازه",
+      "transliteration": "ejāze",
+      "english": "permission",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_06_2024-07-14.pdf",
+        "lesson": 6,
+        "date": "2024-07-14",
+        "page": 2
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_06_2024_07_14-0022",
+      "farsi": "عجیب",
+      "transliteration": "ajib",
+      "english": "weird",
+      "partOfSpeech": "adjective",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_06_2024-07-14.pdf",
+        "lesson": 6,
+        "date": "2024-07-14",
+        "page": 2
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_06_2024_07_14-0023",
+      "farsi": "حساس",
+      "transliteration": "hasās",
+      "english": "sensitive",
+      "partOfSpeech": "adjective",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_06_2024-07-14.pdf",
+        "lesson": 6,
+        "date": "2024-07-14",
+        "page": 2
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_06_2024_07_14-0024",
+      "farsi": "رگران سینه",
+      "transliteration": "rakran sine",
+      "english": "free style (music)",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_06_2024-07-14.pdf",
+        "lesson": 6,
+        "date": "2024-07-14",
+        "page": 2
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_06_2024_07_14-0025",
+      "farsi": "قور باغه",
+      "transliteration": "ghur bāghe",
+      "english": "branch / frog (used in an idiom)",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_06_2024-07-14.pdf",
+        "lesson": 6,
+        "date": "2024-07-14",
+        "page": 2
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_06_2024_07_14-0026",
+      "farsi": "حتی اگر",
+      "transliteration": "hattā agar",
+      "english": "even if",
+      "partOfSpeech": "conjunction",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_06_2024-07-14.pdf",
+        "lesson": 6,
+        "date": "2024-07-14",
+        "page": 2
+      },
+      "needsReview": true
+    }
+  ]
+}

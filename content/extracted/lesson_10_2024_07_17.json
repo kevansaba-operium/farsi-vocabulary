@@ -1,0 +1,195 @@
+{
+  "source": {
+    "file": "Lesson_10_2024-07-17.pdf",
+    "lesson": 10,
+    "date": "2024-07-17"
+  },
+  "notes": "HANDWRITTEN – agent vision extraction needed. Fill in entries array.",
+  "pages": [
+    "content/pages/lesson_10_2024_07_17/p01.png",
+    "content/pages/lesson_10_2024_07_17/p02.png",
+    "content/pages/lesson_10_2024_07_17/p03.png"
+  ],
+  "entries": [
+    {
+      "id": "lesson_10_2024_07_17-0000",
+      "farsi": "دست خط",
+      "transliteration": "dast khat",
+      "english": "handwriting",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_10_2024-07-17.pdf",
+        "lesson": 10,
+        "date": "2024-07-17",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_10_2024_07_17-0001",
+      "farsi": "البته",
+      "transliteration": "albate",
+      "english": "of course",
+      "partOfSpeech": "adverb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_10_2024-07-17.pdf",
+        "lesson": 10,
+        "date": "2024-07-17",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_10_2024_07_17-0002",
+      "farsi": "حرف",
+      "transliteration": "harf",
+      "english": "letter (a,b,c...)",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_10_2024-07-17.pdf",
+        "lesson": 10,
+        "date": "2024-07-17",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_10_2024_07_17-0003",
+      "farsi": "خاص",
+      "transliteration": "khās",
+      "english": "unique / special",
+      "partOfSpeech": "adjective",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_10_2024-07-17.pdf",
+        "lesson": 10,
+        "date": "2024-07-17",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_10_2024_07_17-0004",
+      "farsi": "مخصوص",
+      "transliteration": "makhsoos",
+      "english": "special / dedicated",
+      "partOfSpeech": "adjective",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_10_2024-07-17.pdf",
+        "lesson": 10,
+        "date": "2024-07-17",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_10_2024_07_17-0005",
+      "farsi": "خصوصاً",
+      "transliteration": "khosoosan",
+      "english": "specifically",
+      "partOfSpeech": "adverb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_10_2024-07-17.pdf",
+        "lesson": 10,
+        "date": "2024-07-17",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_10_2024_07_17-0006",
+      "farsi": "ریشه",
+      "transliteration": "rishe",
+      "english": "root",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_10_2024-07-17.pdf",
+        "lesson": 10,
+        "date": "2024-07-17",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_10_2024_07_17-0007",
+      "farsi": "رسیدن",
+      "transliteration": "rasidan",
+      "english": "to arrive",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_10_2024-07-17.pdf",
+        "lesson": 10,
+        "date": "2024-07-17",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_10_2024_07_17-0008",
+      "farsi": "رساندن",
+      "transliteration": "rasāndan",
+      "english": "to make something arrive / deliver",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_10_2024-07-17.pdf",
+        "lesson": 10,
+        "date": "2024-07-17",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_10_2024_07_17-0009",
+      "farsi": "راه انداختن",
+      "transliteration": "rāh andākhtan",
+      "english": "1) to start moving  2) to fall on the way",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_10_2024-07-17.pdf",
+        "lesson": 10,
+        "date": "2024-07-17",
+        "page": 1
+      },
+      "needsReview": true
+    }
+  ]
+}

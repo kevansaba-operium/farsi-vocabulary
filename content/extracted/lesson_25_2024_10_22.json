@@ -1,0 +1,195 @@
+{
+  "source": {
+    "file": "Lesson_25_2024-10-22.pdf",
+    "lesson": null,
+    "date": "2024-10-22"
+  },
+  "notes": "HANDWRITTEN – agent vision extraction needed. Fill in entries array.",
+  "pages": [
+    "content/pages/note_2024_10_22/p01.png",
+    "content/pages/note_2024_10_22/p02.png",
+    "content/pages/note_2024_10_22/p03.png"
+  ],
+  "entries": [
+    {
+      "id": "lesson_25_2024_10_22-0000",
+      "farsi": "سیر",
+      "transliteration": "sir",
+      "english": "1) garlic  2) satisfied / full",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_25_2024-10-22.pdf",
+        "lesson": 25,
+        "date": "2024-10-22",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_25_2024_10_22-0001",
+      "farsi": "آسیا",
+      "transliteration": "āsiyā",
+      "english": "Asia",
+      "partOfSpeech": "proper noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_25_2024-10-22.pdf",
+        "lesson": 25,
+        "date": "2024-10-22",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_25_2024_10_22-0002",
+      "farsi": "مطمئن",
+      "transliteration": "motma'en",
+      "english": "sure / certain",
+      "partOfSpeech": "adjective",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_25_2024-10-22.pdf",
+        "lesson": 25,
+        "date": "2024-10-22",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_25_2024_10_22-0003",
+      "farsi": "بافت",
+      "transliteration": "bāft",
+      "english": "texture",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_25_2024-10-22.pdf",
+        "lesson": 25,
+        "date": "2024-10-22",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_25_2024_10_22-0004",
+      "farsi": "سخت پسند",
+      "transliteration": "sakht pasand",
+      "english": "picky",
+      "partOfSpeech": "adjective",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_25_2024-10-22.pdf",
+        "lesson": 25,
+        "date": "2024-10-22",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_25_2024_10_22-0005",
+      "farsi": "بدغذا",
+      "transliteration": "bad ghazā",
+      "english": "a person who doesn't like all foods",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_25_2024-10-22.pdf",
+        "lesson": 25,
+        "date": "2024-10-22",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_25_2024_10_22-0006",
+      "farsi": "خوش‌غذا",
+      "transliteration": "khosh ghazā",
+      "english": "a person who eats everything",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_25_2024-10-22.pdf",
+        "lesson": 25,
+        "date": "2024-10-22",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_25_2024_10_22-0007",
+      "farsi": "غر زدن",
+      "transliteration": "ghor zadan",
+      "english": "to nag / to complain",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_25_2024-10-22.pdf",
+        "lesson": 25,
+        "date": "2024-10-22",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_25_2024_10_22-0008",
+      "farsi": "کلفت",
+      "transliteration": "koloft",
+      "english": "thick & girthy",
+      "partOfSpeech": "adjective",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_25_2024-10-22.pdf",
+        "lesson": 25,
+        "date": "2024-10-22",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_25_2024_10_22-0009",
+      "farsi": "سرآشپز",
+      "transliteration": "sar āshpaz",
+      "english": "chef",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_25_2024-10-22.pdf",
+        "lesson": 25,
+        "date": "2024-10-22",
+        "page": 1
+      },
+      "needsReview": true
+    }
+  ]
+}

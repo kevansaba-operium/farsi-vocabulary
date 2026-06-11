@@ -1,0 +1,355 @@
+{
+  "source": {
+    "file": "Lesson_50_2025-05-21.pdf",
+    "lesson": null,
+    "date": "2025-05-21"
+  },
+  "notes": "HANDWRITTEN – agent vision extraction needed. Fill in entries array.",
+  "pages": [
+    "content/pages/note_2025_05_21/p01.png"
+  ],
+  "entries": [
+    {
+      "id": "lesson_50_2025_05_21-0000",
+      "farsi": "هیجان‌زده",
+      "transliteration": "hayajānzade",
+      "english": "excited",
+      "partOfSpeech": "adjective",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_50_2025-05-21.pdf",
+        "lesson": 50,
+        "date": "2025-05-21",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_50_2025_05_21-0001",
+      "farsi": "اون یکی",
+      "transliteration": "oon yeki",
+      "english": "the other one",
+      "partOfSpeech": "pronoun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_50_2025-05-21.pdf",
+        "lesson": 50,
+        "date": "2025-05-21",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_50_2025_05_21-0002",
+      "farsi": "توانایی",
+      "transliteration": "tavānāyi",
+      "english": "ability",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_50_2025-05-21.pdf",
+        "lesson": 50,
+        "date": "2025-05-21",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_50_2025_05_21-0003",
+      "farsi": "ظرفیت",
+      "transliteration": "zarfiyat",
+      "english": "capacity",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_50_2025-05-21.pdf",
+        "lesson": 50,
+        "date": "2025-05-21",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_50_2025_05_21-0004",
+      "farsi": "خواب دیدن",
+      "transliteration": "khāb didan",
+      "english": "to see / have a dream",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_50_2025-05-21.pdf",
+        "lesson": 50,
+        "date": "2025-05-21",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_50_2025_05_21-0005",
+      "farsi": "سطح فارسی",
+      "transliteration": "sathe fārsi",
+      "english": "Farsi level",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_50_2025-05-21.pdf",
+        "lesson": 50,
+        "date": "2025-05-21",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_50_2025_05_21-0006",
+      "farsi": "معرفی کردن",
+      "transliteration": "mo'arefi kardan",
+      "english": "to introduce (more formal)",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_50_2025-05-21.pdf",
+        "lesson": 50,
+        "date": "2025-05-21",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_50_2025_05_21-0007",
+      "farsi": "آشنا کردن",
+      "transliteration": "āshnā kardan",
+      "english": "to introduce someone (more casual)",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_50_2025-05-21.pdf",
+        "lesson": 50,
+        "date": "2025-05-21",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_50_2025_05_21-0008",
+      "farsi": "تقلید کردن",
+      "transliteration": "taghlid kardan",
+      "english": "to copy / to imitate",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_50_2025-05-21.pdf",
+        "lesson": 50,
+        "date": "2025-05-21",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_50_2025_05_21-0009",
+      "farsi": "جزئی",
+      "transliteration": "joz'i",
+      "english": "subtle",
+      "partOfSpeech": "adjective",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_50_2025-05-21.pdf",
+        "lesson": 50,
+        "date": "2025-05-21",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_50_2025_05_21-0010",
+      "farsi": "وایسا",
+      "transliteration": "vāysā",
+      "english": "stop!",
+      "partOfSpeech": "interjection",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_50_2025-05-21.pdf",
+        "lesson": 50,
+        "date": "2025-05-21",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_50_2025_05_21-0011",
+      "farsi": "دقیق",
+      "transliteration": "daghi",
+      "english": "exact / concise",
+      "partOfSpeech": "adjective",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_50_2025-05-21.pdf",
+        "lesson": 50,
+        "date": "2025-05-21",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_50_2025_05_21-0012",
+      "farsi": "راجع به",
+      "transliteration": "rāje'be",
+      "english": "in regards to",
+      "partOfSpeech": "preposition",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_50_2025-05-21.pdf",
+        "lesson": 50,
+        "date": "2025-05-21",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_50_2025_05_21-0013",
+      "farsi": "آشنا",
+      "transliteration": "āshnā",
+      "english": "familiar",
+      "partOfSpeech": "adjective",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_50_2025-05-21.pdf",
+        "lesson": 50,
+        "date": "2025-05-21",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_50_2025_05_21-0014",
+      "farsi": "نا آشنا",
+      "transliteration": "nā āshnā",
+      "english": "unfamiliar",
+      "partOfSpeech": "adjective",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_50_2025-05-21.pdf",
+        "lesson": 50,
+        "date": "2025-05-21",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_50_2025_05_21-0015",
+      "farsi": "آشنا شدن",
+      "transliteration": "āshnā shodan",
+      "english": "to get to know someone",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_50_2025-05-21.pdf",
+        "lesson": 50,
+        "date": "2025-05-21",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_50_2025_05_21-0016",
+      "farsi": "کوه",
+      "transliteration": "kooh",
+      "english": "mountain",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_50_2025-05-21.pdf",
+        "lesson": 50,
+        "date": "2025-05-21",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_50_2025_05_21-0017",
+      "farsi": "کوهنورد",
+      "transliteration": "koohnord",
+      "english": "mountain climber",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_50_2025-05-21.pdf",
+        "lesson": 50,
+        "date": "2025-05-21",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_50_2025_05_21-0018",
+      "farsi": "سنگرنورد",
+      "transliteration": "sangronord",
+      "english": "rock climber",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_50_2025-05-21.pdf",
+        "lesson": 50,
+        "date": "2025-05-21",
+        "page": 1
+      },
+      "needsReview": true
+    }
+  ]
+}

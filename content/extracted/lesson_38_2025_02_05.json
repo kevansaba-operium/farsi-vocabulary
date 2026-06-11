@@ -1,0 +1,265 @@
+{
+  "source": {
+    "file": "Lesson_38_2025-02-05.pdf",
+    "lesson": null,
+    "date": "2025-02-05"
+  },
+  "notes": "HANDWRITTEN – agent vision extraction needed. Fill in entries array.",
+  "pages": [
+    "content/pages/note_2025_02_05/p01.png"
+  ],
+  "entries": [
+    {
+      "id": "lesson_38_2025_02_05-0000",
+      "farsi": "تاریخ",
+      "transliteration": "tārikh",
+      "english": "history / date",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_38_2025-02-05.pdf",
+        "lesson": 38,
+        "date": "2025-02-05",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_38_2025_02_05-0001",
+      "farsi": "آرنج",
+      "transliteration": "ārenj",
+      "english": "elbow",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_38_2025-02-05.pdf",
+        "lesson": 38,
+        "date": "2025-02-05",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_38_2025_02_05-0002",
+      "farsi": "تأخیر",
+      "transliteration": "ta'khir",
+      "english": "delay",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_38_2025-02-05.pdf",
+        "lesson": 38,
+        "date": "2025-02-05",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_38_2025_02_05-0003",
+      "farsi": "رئیس",
+      "transliteration": "ra'is",
+      "english": "boss",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_38_2025-02-05.pdf",
+        "lesson": 38,
+        "date": "2025-02-05",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_38_2025_02_05-0004",
+      "farsi": "رتبه‌بندی کردن",
+      "transliteration": "ratbe bandi kardan",
+      "english": "to rank / to prioritize",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_38_2025-02-05.pdf",
+        "lesson": 38,
+        "date": "2025-02-05",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_38_2025_02_05-0005",
+      "farsi": "هماهنگی",
+      "transliteration": "hamāhangi",
+      "english": "1) alignment  2) coordination",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_38_2025-02-05.pdf",
+        "lesson": 38,
+        "date": "2025-02-05",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_38_2025_02_05-0006",
+      "farsi": "دسترسی",
+      "transliteration": "dastasi",
+      "english": "access (noun)",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_38_2025-02-05.pdf",
+        "lesson": 38,
+        "date": "2025-02-05",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_38_2025_02_05-0007",
+      "farsi": "دسترسی داشتن",
+      "transliteration": "dastasi dāshtan",
+      "english": "to have access",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_38_2025-02-05.pdf",
+        "lesson": 38,
+        "date": "2025-02-05",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_38_2025_02_05-0008",
+      "farsi": "هوش",
+      "transliteration": "hoosh",
+      "english": "intelligence",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_38_2025-02-05.pdf",
+        "lesson": 38,
+        "date": "2025-02-05",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_38_2025_02_05-0009",
+      "farsi": "هوش مصنوعی",
+      "transliteration": "hooshe masno'i",
+      "english": "artificial intelligence (A.I.)",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_38_2025-02-05.pdf",
+        "lesson": 38,
+        "date": "2025-02-05",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_38_2025_02_05-0010",
+      "farsi": "پرسیدن",
+      "transliteration": "porsidan",
+      "english": "to ask (requires az preposition)",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_38_2025-02-05.pdf",
+        "lesson": 38,
+        "date": "2025-02-05",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_38_2025_02_05-0011",
+      "farsi": "اختراع",
+      "transliteration": "ekhtarā",
+      "english": "invention",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_38_2025-02-05.pdf",
+        "lesson": 38,
+        "date": "2025-02-05",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_38_2025_02_05-0012",
+      "farsi": "تغییر",
+      "transliteration": "taghyir",
+      "english": "change (noun)",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_38_2025-02-05.pdf",
+        "lesson": 38,
+        "date": "2025-02-05",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_38_2025_02_05-0013",
+      "farsi": "فهم",
+      "transliteration": "fahm",
+      "english": "comprehension",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_38_2025-02-05.pdf",
+        "lesson": 38,
+        "date": "2025-02-05",
+        "page": 1
+      },
+      "needsReview": true
+    }
+  ]
+}

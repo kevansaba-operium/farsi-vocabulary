@@ -1,0 +1,284 @@
+{
+  "source": {
+    "file": "Lesson_13_2024-07-30.pdf",
+    "lesson": 13,
+    "date": "2024-07-30"
+  },
+  "notes": "HANDWRITTEN – agent vision extraction needed. Fill in entries array.",
+  "pages": [
+    "content/pages/lesson_13_2024_07_30/p01.png",
+    "content/pages/lesson_13_2024_07_30/p02.png"
+  ],
+  "entries": [
+    {
+      "id": "lesson_13_2024_07_30-0000",
+      "farsi": "برق",
+      "transliteration": "bargh",
+      "english": "electricity",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_13_2024-07-30.pdf",
+        "lesson": 13,
+        "date": "2024-07-30",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_13_2024_07_30-0001",
+      "farsi": "لوله",
+      "transliteration": "lule",
+      "english": "pipe",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_13_2024-07-30.pdf",
+        "lesson": 13,
+        "date": "2024-07-30",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_13_2024_07_30-0002",
+      "farsi": "لوله کش",
+      "transliteration": "lule kash",
+      "english": "plumber",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_13_2024-07-30.pdf",
+        "lesson": 13,
+        "date": "2024-07-30",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_13_2024_07_30-0003",
+      "farsi": "کارگر",
+      "transliteration": "kārgar",
+      "english": "worker",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_13_2024-07-30.pdf",
+        "lesson": 13,
+        "date": "2024-07-30",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_13_2024_07_30-0004",
+      "farsi": "ساختمان",
+      "transliteration": "sākhtemān",
+      "english": "building",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_13_2024-07-30.pdf",
+        "lesson": 13,
+        "date": "2024-07-30",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_13_2024_07_30-0005",
+      "farsi": "کارملکی",
+      "transliteration": "kāre melki",
+      "english": "real estate (as a job)",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_13_2024-07-30.pdf",
+        "lesson": 13,
+        "date": "2024-07-30",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_13_2024_07_30-0006",
+      "farsi": "آملاکی",
+      "transliteration": "amlāki",
+      "english": "real estate agent",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_13_2024-07-30.pdf",
+        "lesson": 13,
+        "date": "2024-07-30",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_13_2024_07_30-0007",
+      "farsi": "حداقل",
+      "transliteration": "hadadal",
+      "english": "at least",
+      "partOfSpeech": "adverb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_13_2024-07-30.pdf",
+        "lesson": 13,
+        "date": "2024-07-30",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_13_2024_07_30-0008",
+      "farsi": "حداکثر",
+      "transliteration": "hadaksar",
+      "english": "at most",
+      "partOfSpeech": "adverb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_13_2024-07-30.pdf",
+        "lesson": 13,
+        "date": "2024-07-30",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_13_2024_07_30-0009",
+      "farsi": "بازسازی / نوسازی",
+      "transliteration": "bāzsāzi / nowsāzi",
+      "english": "renovation / again",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_13_2024-07-30.pdf",
+        "lesson": 13,
+        "date": "2024-07-30",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_13_2024_07_30-0010",
+      "farsi": "درنظرگرفتن",
+      "transliteration": "dar nazar gereftan",
+      "english": "to consider",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_13_2024-07-30.pdf",
+        "lesson": 13,
+        "date": "2024-07-30",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_13_2024_07_30-0011",
+      "farsi": "بودجه اولیه",
+      "transliteration": "bodjeh avalie",
+      "english": "initial budget",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_13_2024-07-30.pdf",
+        "lesson": 13,
+        "date": "2024-07-30",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_13_2024_07_30-0012",
+      "farsi": "اضافه کردن",
+      "transliteration": "ezāfe kardan",
+      "english": "to add",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_13_2024-07-30.pdf",
+        "lesson": 13,
+        "date": "2024-07-30",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_13_2024_07_30-0013",
+      "farsi": "فروشنده",
+      "transliteration": "forushande",
+      "english": "seller",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_13_2024-07-30.pdf",
+        "lesson": 13,
+        "date": "2024-07-30",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_13_2024_07_30-0014",
+      "farsi": "خریدار",
+      "transliteration": "kharidār",
+      "english": "buyer",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_13_2024-07-30.pdf",
+        "lesson": 13,
+        "date": "2024-07-30",
+        "page": 1
+      },
+      "needsReview": true
+    }
+  ]
+}

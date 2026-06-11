@@ -1,0 +1,249 @@
+{
+  "source": {
+    "file": "Lesson_12_2024-07-23.pdf",
+    "lesson": 12,
+    "date": "2024-07-23"
+  },
+  "notes": "HANDWRITTEN – agent vision extraction needed. Fill in entries array.",
+  "pages": [
+    "content/pages/lesson_12_2024_07_23/p01.png",
+    "content/pages/lesson_12_2024_07_23/p02.png",
+    "content/pages/lesson_12_2024_07_23/p03.png"
+  ],
+  "entries": [
+    {
+      "id": "lesson_12_2024_07_23-0000",
+      "farsi": "حسابی",
+      "transliteration": "hesābi",
+      "english": "very (adv) / decent (adj)",
+      "partOfSpeech": "adverb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_12_2024-07-23.pdf",
+        "lesson": 12,
+        "date": "2024-07-23",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_12_2024_07_23-0001",
+      "farsi": "آدم حسابی",
+      "transliteration": "ādam hesābi",
+      "english": "a decent person",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_12_2024-07-23.pdf",
+        "lesson": 12,
+        "date": "2024-07-23",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_12_2024_07_23-0002",
+      "farsi": "چپ گرا",
+      "transliteration": "chap garā",
+      "english": "left (political)",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_12_2024-07-23.pdf",
+        "lesson": 12,
+        "date": "2024-07-23",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_12_2024_07_23-0003",
+      "farsi": "راست گرا",
+      "transliteration": "rāst garā",
+      "english": "right (political)",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_12_2024-07-23.pdf",
+        "lesson": 12,
+        "date": "2024-07-23",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_12_2024_07_23-0004",
+      "farsi": "رسانه",
+      "transliteration": "rasāne",
+      "english": "media",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_12_2024-07-23.pdf",
+        "lesson": 12,
+        "date": "2024-07-23",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_12_2024_07_23-0005",
+      "farsi": "آزادی بیان",
+      "transliteration": "āzādi bayān",
+      "english": "freedom of speech",
+      "partOfSpeech": "phrase",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_12_2024-07-23.pdf",
+        "lesson": 12,
+        "date": "2024-07-23",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_12_2024_07_23-0006",
+      "farsi": "گوشی",
+      "transliteration": "gushi",
+      "english": "mobile phone",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_12_2024-07-23.pdf",
+        "lesson": 12,
+        "date": "2024-07-23",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_12_2024_07_23-0007",
+      "farsi": "باقی",
+      "transliteration": "bāghi",
+      "english": "the rest",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_12_2024-07-23.pdf",
+        "lesson": 12,
+        "date": "2024-07-23",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_12_2024_07_23-0008",
+      "farsi": "موقع",
+      "transliteration": "moghe",
+      "english": "time / moment",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_12_2024-07-23.pdf",
+        "lesson": 12,
+        "date": "2024-07-23",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_12_2024_07_23-0009",
+      "farsi": "تقریباً",
+      "transliteration": "taghribān",
+      "english": "almost",
+      "partOfSpeech": "adverb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_12_2024-07-23.pdf",
+        "lesson": 12,
+        "date": "2024-07-23",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_12_2024_07_23-0010",
+      "farsi": "ریش",
+      "transliteration": "rish",
+      "english": "beard",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_12_2024-07-23.pdf",
+        "lesson": 12,
+        "date": "2024-07-23",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_12_2024_07_23-0011",
+      "farsi": "عصبانی",
+      "transliteration": "asabāni",
+      "english": "angry",
+      "partOfSpeech": "adjective",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_12_2024-07-23.pdf",
+        "lesson": 12,
+        "date": "2024-07-23",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_12_2024_07_23-0012",
+      "farsi": "کارهایی که برات مانده",
+      "transliteration": "kārhāyi ke barāt mānde",
+      "english": "the tasks that you left for later",
+      "partOfSpeech": "phrase",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_12_2024-07-23.pdf",
+        "lesson": 12,
+        "date": "2024-07-23",
+        "page": 1
+      },
+      "needsReview": true
+    }
+  ]
+}

@@ -1,0 +1,283 @@
+{
+  "source": {
+    "file": "Lesson_62_2025-08-18.pdf",
+    "lesson": null,
+    "date": "2025-08-18"
+  },
+  "notes": "HANDWRITTEN – agent vision extraction needed. Fill in entries array.",
+  "pages": [
+    "content/pages/note_2025_08_18/p01.png"
+  ],
+  "entries": [
+    {
+      "id": "lesson_62_2025_08_18-0000",
+      "farsi": "مرخصی",
+      "transliteration": "morkhassi",
+      "english": "off (for work)",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_62_2025-08-18.pdf",
+        "lesson": 62,
+        "date": "2025-08-18",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_62_2025_08_18-0001",
+      "farsi": "مرخصی گرفتن",
+      "transliteration": "morkhassi gereftan",
+      "english": "to take off time (for work)",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_62_2025-08-18.pdf",
+        "lesson": 62,
+        "date": "2025-08-18",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_62_2025_08_18-0002",
+      "farsi": "انگشت شماره",
+      "transliteration": "angosht shomāre",
+      "english": "finger digit (used to say something is very few)",
+      "partOfSpeech": "phrase",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_62_2025-08-18.pdf",
+        "lesson": 62,
+        "date": "2025-08-18",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_62_2025_08_18-0003",
+      "farsi": "پیش پا افتاده",
+      "transliteration": "pish pā oftāde",
+      "english": "trivial",
+      "partOfSpeech": "adjective",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_62_2025-08-18.pdf",
+        "lesson": 62,
+        "date": "2025-08-18",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_62_2025_08_18-0004",
+      "farsi": "سهام",
+      "transliteration": "sahām",
+      "english": "stocks",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_62_2025-08-18.pdf",
+        "lesson": 62,
+        "date": "2025-08-18",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_62_2025_08_18-0005",
+      "farsi": "تحریم",
+      "transliteration": "tahrim",
+      "english": "sanction (noun)",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_62_2025-08-18.pdf",
+        "lesson": 62,
+        "date": "2025-08-18",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_62_2025_08_18-0006",
+      "farsi": "هی ببی ناگی",
+      "transliteration": "begh nāgi",
+      "english": "so so / both yes and no",
+      "partOfSpeech": "phrase",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_62_2025-08-18.pdf",
+        "lesson": 62,
+        "date": "2025-08-18",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_62_2025_08_18-0007",
+      "farsi": "درست حسابی",
+      "transliteration": "dorost hesābi",
+      "english": "decent",
+      "partOfSpeech": "adjective",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_62_2025-08-18.pdf",
+        "lesson": 62,
+        "date": "2025-08-18",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_62_2025_08_18-0008",
+      "farsi": "استخدام کردن",
+      "transliteration": "estekhdām kardan",
+      "english": "to hire",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_62_2025-08-18.pdf",
+        "lesson": 62,
+        "date": "2025-08-18",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_62_2025_08_18-0009",
+      "farsi": "متخصص",
+      "transliteration": "motakhasses",
+      "english": "expert",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_62_2025-08-18.pdf",
+        "lesson": 62,
+        "date": "2025-08-18",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_62_2025_08_18-0010",
+      "farsi": "تحصیلات",
+      "transliteration": "tahsilāt",
+      "english": "education",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_62_2025-08-18.pdf",
+        "lesson": 62,
+        "date": "2025-08-18",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_62_2025_08_18-0011",
+      "farsi": "ورشکسته شدن",
+      "transliteration": "var shekaste shodan",
+      "english": "to go bankrupt",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_62_2025-08-18.pdf",
+        "lesson": 62,
+        "date": "2025-08-18",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_62_2025_08_18-0012",
+      "farsi": "چرخه",
+      "transliteration": "charkhe",
+      "english": "cycle (concepts)",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_62_2025-08-18.pdf",
+        "lesson": 62,
+        "date": "2025-08-18",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_62_2025_08_18-0013",
+      "farsi": "عوض",
+      "transliteration": "avaz",
+      "english": "can't be used as change",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_62_2025-08-18.pdf",
+        "lesson": 62,
+        "date": "2025-08-18",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_62_2025_08_18-0014",
+      "farsi": "تغییر",
+      "transliteration": "taghyir",
+      "english": "change (noun)",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_62_2025-08-18.pdf",
+        "lesson": 62,
+        "date": "2025-08-18",
+        "page": 1
+      },
+      "needsReview": true
+    }
+  ]
+}

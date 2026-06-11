@@ -1,0 +1,373 @@
+{
+  "source": {
+    "file": "Lesson_36_2025-01-17.pdf",
+    "lesson": null,
+    "date": "2025-01-17"
+  },
+  "notes": "HANDWRITTEN – agent vision extraction needed. Fill in entries array.",
+  "pages": [
+    "content/pages/note_2025_01_17/p01.png"
+  ],
+  "entries": [
+    {
+      "id": "lesson_36_2025_01_17-0000",
+      "farsi": "درآمد",
+      "transliteration": "darāmad",
+      "english": "income",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_36_2025-01-17.pdf",
+        "lesson": 36,
+        "date": "2025-01-17",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_36_2025_01_17-0001",
+      "farsi": "درآمد خالص",
+      "transliteration": "darāmade khāles",
+      "english": "pure income (after taxes)",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_36_2025-01-17.pdf",
+        "lesson": 36,
+        "date": "2025-01-17",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_36_2025_01_17-0002",
+      "farsi": "حقوق برابر دارند",
+      "transliteration": "hoghooghe barābar dārand",
+      "english": "they have equal rights",
+      "partOfSpeech": "phrase",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_36_2025-01-17.pdf",
+        "lesson": 36,
+        "date": "2025-01-17",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_36_2025_01_17-0003",
+      "farsi": "حباب",
+      "transliteration": "hobāb",
+      "english": "bubble",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_36_2025-01-17.pdf",
+        "lesson": 36,
+        "date": "2025-01-17",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_36_2025_01_17-0004",
+      "farsi": "مهاجر",
+      "transliteration": "mohājer",
+      "english": "immigrant",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_36_2025-01-17.pdf",
+        "lesson": 36,
+        "date": "2025-01-17",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_36_2025_01_17-0005",
+      "farsi": "اجازه",
+      "transliteration": "ejāze",
+      "english": "permit",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_36_2025-01-17.pdf",
+        "lesson": 36,
+        "date": "2025-01-17",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_36_2025_01_17-0006",
+      "farsi": "شانس",
+      "transliteration": "shāns",
+      "english": "chance",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_36_2025-01-17.pdf",
+        "lesson": 36,
+        "date": "2025-01-17",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_36_2025_01_17-0007",
+      "farsi": "راضی",
+      "transliteration": "rāzi",
+      "english": "satisfied",
+      "partOfSpeech": "adjective",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_36_2025-01-17.pdf",
+        "lesson": 36,
+        "date": "2025-01-17",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_36_2025_01_17-0008",
+      "farsi": "ناراضی",
+      "transliteration": "nārāzi",
+      "english": "unsatisfied",
+      "partOfSpeech": "adjective",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_36_2025-01-17.pdf",
+        "lesson": 36,
+        "date": "2025-01-17",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_36_2025_01_17-0009",
+      "farsi": "سیاستمدار",
+      "transliteration": "siyāsatmadār",
+      "english": "politician",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_36_2025-01-17.pdf",
+        "lesson": 36,
+        "date": "2025-01-17",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_36_2025_01_17-0010",
+      "farsi": "حساب کردن",
+      "transliteration": "hesāb kardan",
+      "english": "to calculate",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_36_2025-01-17.pdf",
+        "lesson": 36,
+        "date": "2025-01-17",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_36_2025_01_17-0011",
+      "farsi": "به طور میانگین",
+      "transliteration": "be tore miyāngin",
+      "english": "on average",
+      "partOfSpeech": "adverb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_36_2025-01-17.pdf",
+        "lesson": 36,
+        "date": "2025-01-17",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_36_2025_01_17-0012",
+      "farsi": "انتخابات",
+      "transliteration": "entekhabāt",
+      "english": "election",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_36_2025-01-17.pdf",
+        "lesson": 36,
+        "date": "2025-01-17",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_36_2025_01_17-0013",
+      "farsi": "احترام گذاشتن",
+      "transliteration": "ehteram gozāshtan",
+      "english": "to respect",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_36_2025-01-17.pdf",
+        "lesson": 36,
+        "date": "2025-01-17",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_36_2025_01_17-0014",
+      "farsi": "طبیعی",
+      "transliteration": "tabi'i",
+      "english": "natural",
+      "partOfSpeech": "adjective",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_36_2025-01-17.pdf",
+        "lesson": 36,
+        "date": "2025-01-17",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_36_2025_01_17-0015",
+      "farsi": "ضرب",
+      "transliteration": "zarb",
+      "english": "multiply",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_36_2025-01-17.pdf",
+        "lesson": 36,
+        "date": "2025-01-17",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_36_2025_01_17-0016",
+      "farsi": "تحمل کردن",
+      "transliteration": "tahamol kardan",
+      "english": "to tolerate",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_36_2025-01-17.pdf",
+        "lesson": 36,
+        "date": "2025-01-17",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_36_2025_01_17-0017",
+      "farsi": "دریافت کردن",
+      "transliteration": "daryāft kardan",
+      "english": "to receive",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_36_2025-01-17.pdf",
+        "lesson": 36,
+        "date": "2025-01-17",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_36_2025_01_17-0018",
+      "farsi": "معلوم",
+      "transliteration": "ma'loom",
+      "english": "obvious",
+      "partOfSpeech": "adjective",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_36_2025-01-17.pdf",
+        "lesson": 36,
+        "date": "2025-01-17",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_36_2025_01_17-0019",
+      "farsi": "احتیاج داشتن",
+      "transliteration": "ehtiyāj dāshtan",
+      "english": "to need",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_36_2025-01-17.pdf",
+        "lesson": 36,
+        "date": "2025-01-17",
+        "page": 1
+      },
+      "needsReview": true
+    }
+  ]
+}

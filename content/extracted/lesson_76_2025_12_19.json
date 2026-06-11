@@ -1,0 +1,337 @@
+{
+  "source": {
+    "file": "Lesson_76_2025-12-19.pdf",
+    "lesson": null,
+    "date": "2025-12-19"
+  },
+  "notes": "HANDWRITTEN – agent vision extraction needed. Fill in entries array.",
+  "pages": [
+    "content/pages/note_2025_12_19/p01.png"
+  ],
+  "entries": [
+    {
+      "id": "lesson_76_2025_12_19-0000",
+      "farsi": "ذخیره کردن",
+      "transliteration": "zakhire kardan",
+      "english": "1) to store  2) to save",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_76_2025-12-19.pdf",
+        "lesson": 76,
+        "date": "2025-12-19",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_76_2025_12_19-0001",
+      "farsi": "فاصله",
+      "transliteration": "fāsele",
+      "english": "distance",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_76_2025-12-19.pdf",
+        "lesson": 76,
+        "date": "2025-12-19",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_76_2025_12_19-0002",
+      "farsi": "خشونت",
+      "transliteration": "khoshunat",
+      "english": "violence",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_76_2025-12-19.pdf",
+        "lesson": 76,
+        "date": "2025-12-19",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_76_2025_12_19-0003",
+      "farsi": "سوزاندن",
+      "transliteration": "soozāndan",
+      "english": "to burn (active)",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_76_2025-12-19.pdf",
+        "lesson": 76,
+        "date": "2025-12-19",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_76_2025_12_19-0004",
+      "farsi": "سوختن",
+      "transliteration": "sokhtan",
+      "english": "to burn (passive / intransitive)",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_76_2025-12-19.pdf",
+        "lesson": 76,
+        "date": "2025-12-19",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_76_2025_12_19-0005",
+      "farsi": "میدان",
+      "transliteration": "meydān",
+      "english": "square (of a city)",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_76_2025-12-19.pdf",
+        "lesson": 76,
+        "date": "2025-12-19",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_76_2025_12_19-0006",
+      "farsi": "قاره",
+      "transliteration": "ghāre",
+      "english": "continent",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_76_2025-12-19.pdf",
+        "lesson": 76,
+        "date": "2025-12-19",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_76_2025_12_19-0007",
+      "farsi": "دور افتاده",
+      "transliteration": "door oftāde",
+      "english": "outcasted / remote / far away",
+      "partOfSpeech": "adjective",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_76_2025-12-19.pdf",
+        "lesson": 76,
+        "date": "2025-12-19",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_76_2025_12_19-0008",
+      "farsi": "مناظر طبیعی",
+      "transliteration": "manāzer tabi'i",
+      "english": "landscapes",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_76_2025-12-19.pdf",
+        "lesson": 76,
+        "date": "2025-12-19",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_76_2025_12_19-0009",
+      "farsi": "منظره",
+      "transliteration": "manzare",
+      "english": "view / landscape (n)",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_76_2025-12-19.pdf",
+        "lesson": 76,
+        "date": "2025-12-19",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_76_2025_12_19-0010",
+      "farsi": "سازگار",
+      "transliteration": "sāzgār",
+      "english": "compatible / adaptable",
+      "partOfSpeech": "adjective",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_76_2025-12-19.pdf",
+        "lesson": 76,
+        "date": "2025-12-19",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_76_2025_12_19-0011",
+      "farsi": "ازش متنفر است",
+      "transliteration": "azesh motanaffar ast",
+      "english": "he/she hates it",
+      "partOfSpeech": "phrase",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_76_2025-12-19.pdf",
+        "lesson": 76,
+        "date": "2025-12-19",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_76_2025_12_19-0012",
+      "farsi": "راضی",
+      "transliteration": "rāzi",
+      "english": "satisfied / content",
+      "partOfSpeech": "adjective",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_76_2025-12-19.pdf",
+        "lesson": 76,
+        "date": "2025-12-19",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_76_2025_12_19-0013",
+      "farsi": "جرم",
+      "transliteration": "jorm",
+      "english": "crime",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_76_2025-12-19.pdf",
+        "lesson": 76,
+        "date": "2025-12-19",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_76_2025_12_19-0014",
+      "farsi": "جرم کردن",
+      "transliteration": "jorm kardan",
+      "english": "to commit crime",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_76_2025-12-19.pdf",
+        "lesson": 76,
+        "date": "2025-12-19",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_76_2025_12_19-0015",
+      "farsi": "درک کردن",
+      "transliteration": "dark kardan",
+      "english": "to really understand something / to grasp",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_76_2025-12-19.pdf",
+        "lesson": 76,
+        "date": "2025-12-19",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_76_2025_12_19-0016",
+      "farsi": "باری ها چطور رفتار می‌کنند؟",
+      "transliteration": "bārizā chetoor raftār mikonand",
+      "english": "how do they treat women?",
+      "partOfSpeech": "phrase",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_76_2025-12-19.pdf",
+        "lesson": 76,
+        "date": "2025-12-19",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_76_2025_12_19-0017",
+      "farsi": "زاخیره",
+      "transliteration": "zakhire",
+      "english": "reserve / stockpile",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_76_2025-12-19.pdf",
+        "lesson": 76,
+        "date": "2025-12-19",
+        "page": 1
+      },
+      "needsReview": true
+    }
+  ]
+}

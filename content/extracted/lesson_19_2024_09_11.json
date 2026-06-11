@@ -1,0 +1,159 @@
+{
+  "source": {
+    "file": "Lesson_19_2024-09-11.pdf",
+    "lesson": 19,
+    "date": "2024-09-11"
+  },
+  "notes": "HANDWRITTEN – agent vision extraction needed. Fill in entries array.",
+  "pages": [
+    "content/pages/lesson_19_2024_09_11/p01.png",
+    "content/pages/lesson_19_2024_09_11/p02.png",
+    "content/pages/lesson_19_2024_09_11/p03.png"
+  ],
+  "entries": [
+    {
+      "id": "lesson_19_2024_09_11-0000",
+      "farsi": "حداقل",
+      "transliteration": "hadadal",
+      "english": "at least",
+      "partOfSpeech": "adverb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_19_2024-09-11.pdf",
+        "lesson": 19,
+        "date": "2024-09-11",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_19_2024_09_11-0001",
+      "farsi": "محله",
+      "transliteration": "mahalle",
+      "english": "neighbourhood",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_19_2024-09-11.pdf",
+        "lesson": 19,
+        "date": "2024-09-11",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_19_2024_09_11-0002",
+      "farsi": "سرعت",
+      "transliteration": "sor'at",
+      "english": "speed",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_19_2024-09-11.pdf",
+        "lesson": 19,
+        "date": "2024-09-11",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_19_2024_09_11-0003",
+      "farsi": "سنجیدن",
+      "transliteration": "sanjidan",
+      "english": "to evaluate",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_19_2024-09-11.pdf",
+        "lesson": 19,
+        "date": "2024-09-11",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_19_2024_09_11-0004",
+      "farsi": "دماسنج",
+      "transliteration": "dāmasanj",
+      "english": "thermometer",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_19_2024-09-11.pdf",
+        "lesson": 19,
+        "date": "2024-09-11",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_19_2024_09_11-0005",
+      "farsi": "اعتماد",
+      "transliteration": "e'temād",
+      "english": "trust",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_19_2024-09-11.pdf",
+        "lesson": 19,
+        "date": "2024-09-11",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_19_2024_09_11-0006",
+      "farsi": "اعتماد کردن",
+      "transliteration": "e'temād kardan",
+      "english": "to trust",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_19_2024-09-11.pdf",
+        "lesson": 19,
+        "date": "2024-09-11",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_19_2024_09_11-0007",
+      "farsi": "قابل اعتماد",
+      "transliteration": "ghābele e'temād",
+      "english": "trustworthy",
+      "partOfSpeech": "adjective",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_19_2024-09-11.pdf",
+        "lesson": 19,
+        "date": "2024-09-11",
+        "page": 1
+      },
+      "needsReview": true
+    }
+  ]
+}

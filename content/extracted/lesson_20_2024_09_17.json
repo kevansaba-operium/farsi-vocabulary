@@ -1,0 +1,159 @@
+{
+  "source": {
+    "file": "Lesson_20_2024-09-17.pdf",
+    "lesson": 20,
+    "date": "2024-09-17"
+  },
+  "notes": "HANDWRITTEN – agent vision extraction needed. Fill in entries array.",
+  "pages": [
+    "content/pages/lesson_20_2024_09_17/p01.png",
+    "content/pages/lesson_20_2024_09_17/p02.png",
+    "content/pages/lesson_20_2024_09_17/p03.png"
+  ],
+  "entries": [
+    {
+      "id": "lesson_20_2024_09_17-0000",
+      "farsi": "پستچی",
+      "transliteration": "postchi",
+      "english": "mail man",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_20_2024-09-17.pdf",
+        "lesson": 20,
+        "date": "2024-09-17",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_20_2024_09_17-0001",
+      "farsi": "ایستگاه",
+      "transliteration": "istgāh",
+      "english": "station",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_20_2024-09-17.pdf",
+        "lesson": 20,
+        "date": "2024-09-17",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_20_2024_09_17-0002",
+      "farsi": "دسته بندی کردن",
+      "transliteration": "daste bandi kardan",
+      "english": "to sort / do put things in groups",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_20_2024-09-17.pdf",
+        "lesson": 20,
+        "date": "2024-09-17",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_20_2024_09_17-0003",
+      "farsi": "ضرر",
+      "transliteration": "zarar",
+      "english": "loss (noun)",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_20_2024-09-17.pdf",
+        "lesson": 20,
+        "date": "2024-09-17",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_20_2024_09_17-0004",
+      "farsi": "ضرر کردن",
+      "transliteration": "zarar kardan",
+      "english": "to make a loss",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_20_2024-09-17.pdf",
+        "lesson": 20,
+        "date": "2024-09-17",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_20_2024_09_17-0005",
+      "farsi": "متفاوت",
+      "transliteration": "motafāvet",
+      "english": "different",
+      "partOfSpeech": "adjective",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_20_2024-09-17.pdf",
+        "lesson": 20,
+        "date": "2024-09-17",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_20_2024_09_17-0006",
+      "farsi": "مختلف",
+      "transliteration": "mokhtalef",
+      "english": "various",
+      "partOfSpeech": "adjective",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_20_2024-09-17.pdf",
+        "lesson": 20,
+        "date": "2024-09-17",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_20_2024_09_17-0007",
+      "farsi": "اتحادیه",
+      "transliteration": "ettehādiye",
+      "english": "union",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_20_2024-09-17.pdf",
+        "lesson": 20,
+        "date": "2024-09-17",
+        "page": 1
+      },
+      "needsReview": true
+    }
+  ]
+}

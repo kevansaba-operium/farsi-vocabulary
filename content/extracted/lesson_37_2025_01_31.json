@@ -1,0 +1,247 @@
+{
+  "source": {
+    "file": "Lesson_37_2025-01-31.pdf",
+    "lesson": null,
+    "date": "2025-01-31"
+  },
+  "notes": "HANDWRITTEN – agent vision extraction needed. Fill in entries array.",
+  "pages": [
+    "content/pages/note_2025_01_31/p01.png"
+  ],
+  "entries": [
+    {
+      "id": "lesson_37_2025_01_31-0000",
+      "farsi": "آزمایش",
+      "transliteration": "āzmāyesh",
+      "english": "experiment",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_37_2025-01-31.pdf",
+        "lesson": 37,
+        "date": "2025-01-31",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_37_2025_01_31-0001",
+      "farsi": "آزمایش کردن",
+      "transliteration": "āzmāyesh kardan",
+      "english": "to experiment",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_37_2025-01-31.pdf",
+        "lesson": 37,
+        "date": "2025-01-31",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_37_2025_01_31-0002",
+      "farsi": "آزمایش دادن",
+      "transliteration": "āzmāyesh dādan",
+      "english": "to take a test (like a blood test)",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_37_2025-01-31.pdf",
+        "lesson": 37,
+        "date": "2025-01-31",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_37_2025_01_31-0003",
+      "farsi": "آزمایشگاه",
+      "transliteration": "āzmāyeshgāh",
+      "english": "laboratory",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_37_2025-01-31.pdf",
+        "lesson": 37,
+        "date": "2025-01-31",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_37_2025_01_31-0004",
+      "farsi": "آزمایش خون",
+      "transliteration": "āzmāyeshe khoon",
+      "english": "blood test",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_37_2025-01-31.pdf",
+        "lesson": 37,
+        "date": "2025-01-31",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_37_2025_01_31-0005",
+      "farsi": "ماده",
+      "transliteration": "mādde",
+      "english": "substance",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_37_2025-01-31.pdf",
+        "lesson": 37,
+        "date": "2025-01-31",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_37_2025_01_31-0006",
+      "farsi": "خوش شانس",
+      "transliteration": "khosh shāns",
+      "english": "lucky",
+      "partOfSpeech": "adjective",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_37_2025-01-31.pdf",
+        "lesson": 37,
+        "date": "2025-01-31",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_37_2025_01_31-0007",
+      "farsi": "سرطان",
+      "transliteration": "saratān",
+      "english": "cancer",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_37_2025-01-31.pdf",
+        "lesson": 37,
+        "date": "2025-01-31",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_37_2025_01_31-0008",
+      "farsi": "بهانه",
+      "transliteration": "bahāne",
+      "english": "excuse",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_37_2025-01-31.pdf",
+        "lesson": 37,
+        "date": "2025-01-31",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_37_2025_01_31-0009",
+      "farsi": "اغراق",
+      "transliteration": "eghrāgh",
+      "english": "exaggeration",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_37_2025-01-31.pdf",
+        "lesson": 37,
+        "date": "2025-01-31",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_37_2025_01_31-0010",
+      "farsi": "اغراق کردن",
+      "transliteration": "eghrāgh kardan",
+      "english": "to exaggerate",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_37_2025-01-31.pdf",
+        "lesson": 37,
+        "date": "2025-01-31",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_37_2025_01_31-0011",
+      "farsi": "مخاطب",
+      "transliteration": "mokhātab",
+      "english": "audience",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_37_2025-01-31.pdf",
+        "lesson": 37,
+        "date": "2025-01-31",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_37_2025_01_31-0012",
+      "farsi": "استعداد",
+      "transliteration": "este'dād",
+      "english": "talent",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_37_2025-01-31.pdf",
+        "lesson": 37,
+        "date": "2025-01-31",
+        "page": 1
+      },
+      "needsReview": true
+    }
+  ]
+}

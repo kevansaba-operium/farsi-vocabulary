@@ -1,0 +1,319 @@
+{
+  "source": {
+    "file": "Lesson_49_2025-05-09.pdf",
+    "lesson": null,
+    "date": "2025-05-09"
+  },
+  "notes": "HANDWRITTEN – agent vision extraction needed. Fill in entries array.",
+  "pages": [
+    "content/pages/note_2025_05_09/p01.png"
+  ],
+  "entries": [
+    {
+      "id": "lesson_49_2025_05_09-0000",
+      "farsi": "ماه",
+      "transliteration": "māh",
+      "english": "1) month  2) moon",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_49_2025-05-09.pdf",
+        "lesson": 49,
+        "date": "2025-05-09",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_49_2025_05_09-0001",
+      "farsi": "ماهواره",
+      "transliteration": "māhvāre",
+      "english": "satellite",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_49_2025-05-09.pdf",
+        "lesson": 49,
+        "date": "2025-05-09",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_49_2025_05_09-0002",
+      "farsi": "پیمانکار",
+      "transliteration": "peymānkār",
+      "english": "developer (building)",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_49_2025-05-09.pdf",
+        "lesson": 49,
+        "date": "2025-05-09",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_49_2025_05_09-0003",
+      "farsi": "سوئیس",
+      "transliteration": "suis",
+      "english": "Switzerland",
+      "partOfSpeech": "proper noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_49_2025-05-09.pdf",
+        "lesson": 49,
+        "date": "2025-05-09",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_49_2025_05_09-0004",
+      "farsi": "نا عادلانه",
+      "transliteration": "nā ādelāne",
+      "english": "unfair",
+      "partOfSpeech": "adjective",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_49_2025-05-09.pdf",
+        "lesson": 49,
+        "date": "2025-05-09",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_49_2025_05_09-0005",
+      "farsi": "حسادت",
+      "transliteration": "hasādat",
+      "english": "jealousy",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_49_2025-05-09.pdf",
+        "lesson": 49,
+        "date": "2025-05-09",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_49_2025_05_09-0006",
+      "farsi": "حسود",
+      "transliteration": "hasood",
+      "english": "jealous",
+      "partOfSpeech": "adjective",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_49_2025-05-09.pdf",
+        "lesson": 49,
+        "date": "2025-05-09",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_49_2025_05_09-0007",
+      "farsi": "معمار",
+      "transliteration": "me'mār",
+      "english": "architect",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_49_2025-05-09.pdf",
+        "lesson": 49,
+        "date": "2025-05-09",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_49_2025_05_09-0008",
+      "farsi": "مهاجرت",
+      "transliteration": "mohājerat",
+      "english": "immigration",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_49_2025-05-09.pdf",
+        "lesson": 49,
+        "date": "2025-05-09",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_49_2025_05_09-0009",
+      "farsi": "مهاجرت کردن",
+      "transliteration": "mohājerat kardan",
+      "english": "to immigrate",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_49_2025-05-09.pdf",
+        "lesson": 49,
+        "date": "2025-05-09",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_49_2025_05_09-0010",
+      "farsi": "مهاجر",
+      "transliteration": "mohājer",
+      "english": "immigrant",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_49_2025-05-09.pdf",
+        "lesson": 49,
+        "date": "2025-05-09",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_49_2025_05_09-0011",
+      "farsi": "بحران",
+      "transliteration": "bohrān",
+      "english": "crisis",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_49_2025-05-09.pdf",
+        "lesson": 49,
+        "date": "2025-05-09",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_49_2025_05_09-0012",
+      "farsi": "مخالف بودن",
+      "transliteration": "mokhālefe boodan",
+      "english": "being against / being opposed to",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_49_2025-05-09.pdf",
+        "lesson": 49,
+        "date": "2025-05-09",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_49_2025_05_09-0013",
+      "farsi": "نصف کردن",
+      "transliteration": "nasf kardan",
+      "english": "to cut in half",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_49_2025-05-09.pdf",
+        "lesson": 49,
+        "date": "2025-05-09",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_49_2025_05_09-0014",
+      "farsi": "حمل و نقل عمومی",
+      "transliteration": "hamlo naghle omomi",
+      "english": "public transportation",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_49_2025-05-09.pdf",
+        "lesson": 49,
+        "date": "2025-05-09",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_49_2025_05_09-0015",
+      "farsi": "بنای تاریخی",
+      "transliteration": "bonāye tārikhi",
+      "english": "historical building",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_49_2025-05-09.pdf",
+        "lesson": 49,
+        "date": "2025-05-09",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_49_2025_05_09-0016",
+      "farsi": "اجازه ساخت",
+      "transliteration": "ejāzye sakht",
+      "english": "construction permit",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_49_2025-05-09.pdf",
+        "lesson": 49,
+        "date": "2025-05-09",
+        "page": 1
+      },
+      "needsReview": true
+    }
+  ]
+}

@@ -1,0 +1,266 @@
+{
+  "source": {
+    "file": "Lesson_09_2024-07-17.pdf",
+    "lesson": 9,
+    "date": "2024-07-17"
+  },
+  "notes": "HANDWRITTEN – agent vision extraction needed. Fill in entries array.",
+  "pages": [
+    "content/pages/lesson_09_2024_07_17/p01.png",
+    "content/pages/lesson_09_2024_07_17/p02.png"
+  ],
+  "entries": [
+    {
+      "id": "lesson_09_2024_07_17-0000",
+      "farsi": "تعطیلات",
+      "transliteration": "ta'tilāt",
+      "english": "holiday / vacation",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_09_2024-07-17.pdf",
+        "lesson": 9,
+        "date": "2024-07-17",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_09_2024_07_17-0001",
+      "farsi": "منطقه",
+      "transliteration": "mantaghe",
+      "english": "region / area",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_09_2024-07-17.pdf",
+        "lesson": 9,
+        "date": "2024-07-17",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_09_2024_07_17-0002",
+      "farsi": "عکس گرفتن",
+      "transliteration": "aks gereftan",
+      "english": "to take pictures",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_09_2024-07-17.pdf",
+        "lesson": 9,
+        "date": "2024-07-17",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_09_2024_07_17-0003",
+      "farsi": "فرستادن",
+      "transliteration": "ferestādan",
+      "english": "to send",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_09_2024-07-17.pdf",
+        "lesson": 9,
+        "date": "2024-07-17",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_09_2024_07_17-0004",
+      "farsi": "چسبیدن",
+      "transliteration": "chasibdan",
+      "english": "to stick",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_09_2024-07-17.pdf",
+        "lesson": 9,
+        "date": "2024-07-17",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_09_2024_07_17-0005",
+      "farsi": "موفق باش",
+      "transliteration": "movafagh bāsh",
+      "english": "good luck!",
+      "partOfSpeech": "phrase",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_09_2024-07-17.pdf",
+        "lesson": 9,
+        "date": "2024-07-17",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_09_2024_07_17-0006",
+      "farsi": "رگ",
+      "transliteration": "rag",
+      "english": "vessel / vein",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_09_2024-07-17.pdf",
+        "lesson": 9,
+        "date": "2024-07-17",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_09_2024_07_17-0007",
+      "farsi": "قلب",
+      "transliteration": "ghalb",
+      "english": "heart",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_09_2024-07-17.pdf",
+        "lesson": 9,
+        "date": "2024-07-17",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_09_2024_07_17-0008",
+      "farsi": "غرب",
+      "transliteration": "gharb",
+      "english": "west",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_09_2024-07-17.pdf",
+        "lesson": 9,
+        "date": "2024-07-17",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_09_2024_07_17-0009",
+      "farsi": "خون",
+      "transliteration": "khoon",
+      "english": "blood",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_09_2024-07-17.pdf",
+        "lesson": 9,
+        "date": "2024-07-17",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_09_2024_07_17-0010",
+      "farsi": "پمپ کردن",
+      "transliteration": "pomp kardan",
+      "english": "to pump",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_09_2024-07-17.pdf",
+        "lesson": 9,
+        "date": "2024-07-17",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_09_2024_07_17-0011",
+      "farsi": "نارنگی",
+      "transliteration": "nārangi",
+      "english": "mandarin / tangerine",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_09_2024-07-17.pdf",
+        "lesson": 9,
+        "date": "2024-07-17",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_09_2024_07_17-0012",
+      "farsi": "لیمو",
+      "transliteration": "limoo",
+      "english": "lemon",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_09_2024-07-17.pdf",
+        "lesson": 9,
+        "date": "2024-07-17",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_09_2024_07_17-0013",
+      "farsi": "پرتقال",
+      "transliteration": "porteghāl",
+      "english": "orange",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_09_2024-07-17.pdf",
+        "lesson": 9,
+        "date": "2024-07-17",
+        "page": 1
+      },
+      "needsReview": true
+    }
+  ]
+}

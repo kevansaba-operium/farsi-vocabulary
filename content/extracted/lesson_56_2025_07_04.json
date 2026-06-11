@@ -1,0 +1,392 @@
+{
+  "source": {
+    "file": "Lesson_56_2025-07-04.pdf",
+    "lesson": null,
+    "date": "2025-07-04"
+  },
+  "notes": "HANDWRITTEN – agent vision extraction needed. Fill in entries array.",
+  "pages": [
+    "content/pages/note_2025_07_04/p01.png",
+    "content/pages/note_2025_07_04/p02.png"
+  ],
+  "entries": [
+    {
+      "id": "lesson_56_2025_07_04-0000",
+      "farsi": "دبیرستان",
+      "transliteration": "dabirestān",
+      "english": "high school",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_56_2025-07-04.pdf",
+        "lesson": 56,
+        "date": "2025-07-04",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_56_2025_07_04-0001",
+      "farsi": "ملی‌گرا",
+      "transliteration": "meliyat garā",
+      "english": "nationalist",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_56_2025-07-04.pdf",
+        "lesson": 56,
+        "date": "2025-07-04",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_56_2025_07_04-0002",
+      "farsi": "استقلال",
+      "transliteration": "esteglāl",
+      "english": "independence",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_56_2025-07-04.pdf",
+        "lesson": 56,
+        "date": "2025-07-04",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_56_2025_07_04-0003",
+      "farsi": "شکست",
+      "transliteration": "shekast",
+      "english": "defeat (noun)",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_56_2025-07-04.pdf",
+        "lesson": 56,
+        "date": "2025-07-04",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_56_2025_07_04-0004",
+      "farsi": "تجهیزات",
+      "transliteration": "tajhizāt",
+      "english": "equipment",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_56_2025-07-04.pdf",
+        "lesson": 56,
+        "date": "2025-07-04",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_56_2025_07_04-0005",
+      "farsi": "صنعت هسته‌ای",
+      "transliteration": "san'ate haste'i",
+      "english": "nuclear industry",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_56_2025-07-04.pdf",
+        "lesson": 56,
+        "date": "2025-07-04",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_56_2025_07_04-0006",
+      "farsi": "سرعت",
+      "transliteration": "sor'at",
+      "english": "pace / speed",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_56_2025-07-04.pdf",
+        "lesson": 56,
+        "date": "2025-07-04",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_56_2025_07_04-0007",
+      "farsi": "سوخت",
+      "transliteration": "sookht",
+      "english": "fuel",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_56_2025-07-04.pdf",
+        "lesson": 56,
+        "date": "2025-07-04",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_56_2025_07_04-0008",
+      "farsi": "مدیریتی",
+      "transliteration": "modiriyati",
+      "english": "administrative",
+      "partOfSpeech": "adjective",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_56_2025-07-04.pdf",
+        "lesson": 56,
+        "date": "2025-07-04",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_56_2025_07_04-0009",
+      "farsi": "فرمان",
+      "transliteration": "farmān",
+      "english": "wheel (steering)",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_56_2025-07-04.pdf",
+        "lesson": 56,
+        "date": "2025-07-04",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_56_2025_07_04-0010",
+      "farsi": "الگو",
+      "transliteration": "algoo",
+      "english": "inspiration",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_56_2025-07-04.pdf",
+        "lesson": 56,
+        "date": "2025-07-04",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_56_2025_07_04-0011",
+      "farsi": "نقطه ضعف",
+      "transliteration": "naghteye za'f",
+      "english": "weak point",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_56_2025-07-04.pdf",
+        "lesson": 56,
+        "date": "2025-07-04",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_56_2025_07_04-0012",
+      "farsi": "نقطه قوت",
+      "transliteration": "naghteye ghovat",
+      "english": "strength",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_56_2025-07-04.pdf",
+        "lesson": 56,
+        "date": "2025-07-04",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_56_2025_07_04-0013",
+      "farsi": "ثابت شدن",
+      "transliteration": "sābet shodan",
+      "english": "to be stabilized",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_56_2025-07-04.pdf",
+        "lesson": 56,
+        "date": "2025-07-04",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_56_2025_07_04-0014",
+      "farsi": "امتیاز",
+      "transliteration": "emtiyāz",
+      "english": "1) point  2) advantage",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_56_2025-07-04.pdf",
+        "lesson": 56,
+        "date": "2025-07-04",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_56_2025_07_04-0015",
+      "farsi": "استاندارد",
+      "transliteration": "estāndard",
+      "english": "standard",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_56_2025-07-04.pdf",
+        "lesson": 56,
+        "date": "2025-07-04",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_56_2025_07_04-0016",
+      "farsi": "قدرت خرید",
+      "transliteration": "ghodrate kharid",
+      "english": "purchasing power",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_56_2025-07-04.pdf",
+        "lesson": 56,
+        "date": "2025-07-04",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_56_2025_07_04-0017",
+      "farsi": "جواهر",
+      "transliteration": "javaher",
+      "english": "gem",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_56_2025-07-04.pdf",
+        "lesson": 56,
+        "date": "2025-07-04",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_56_2025_07_04-0018",
+      "farsi": "نوادگان",
+      "transliteration": "navādegān",
+      "english": "descendants",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_56_2025-07-04.pdf",
+        "lesson": 56,
+        "date": "2025-07-04",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_56_2025_07_04-0019",
+      "farsi": "تحسین برانگیز",
+      "transliteration": "tahsin barāngiz",
+      "english": "impressive",
+      "partOfSpeech": "adjective",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_56_2025-07-04.pdf",
+        "lesson": 56,
+        "date": "2025-07-04",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_56_2025_07_04-0020",
+      "farsi": "عقاید",
+      "transliteration": "aghāyed",
+      "english": "beliefs / ideologies",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_56_2025-07-04.pdf",
+        "lesson": 56,
+        "date": "2025-07-04",
+        "page": 1
+      },
+      "needsReview": true
+    }
+  ]
+}

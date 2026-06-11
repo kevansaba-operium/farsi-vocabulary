@@ -1,0 +1,248 @@
+{
+  "source": {
+    "file": "Lesson_11_2024-07-17.pdf",
+    "lesson": 11,
+    "date": "2024-07-17"
+  },
+  "notes": "HANDWRITTEN – agent vision extraction needed. Fill in entries array.",
+  "pages": [
+    "content/pages/lesson_11_2024_07_17/p01.png",
+    "content/pages/lesson_11_2024_07_17/p02.png"
+  ],
+  "entries": [
+    {
+      "id": "lesson_11_2024_07_17-0000",
+      "farsi": "یکسان",
+      "transliteration": "yeksān",
+      "english": "similar / the same",
+      "partOfSpeech": "adjective",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_11_2024-07-17.pdf",
+        "lesson": 11,
+        "date": "2024-07-17",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_11_2024_07_17-0001",
+      "farsi": "روستا",
+      "transliteration": "roostā",
+      "english": "village",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_11_2024-07-17.pdf",
+        "lesson": 11,
+        "date": "2024-07-17",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_11_2024_07_17-0002",
+      "farsi": "هدف",
+      "transliteration": "hadaf",
+      "english": "goal / aim",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_11_2024-07-17.pdf",
+        "lesson": 11,
+        "date": "2024-07-17",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_11_2024_07_17-0003",
+      "farsi": "رهبری",
+      "transliteration": "rahbari",
+      "english": "leadership",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_11_2024-07-17.pdf",
+        "lesson": 11,
+        "date": "2024-07-17",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_11_2024_07_17-0004",
+      "farsi": "گلو",
+      "transliteration": "golo",
+      "english": "throat",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_11_2024-07-17.pdf",
+        "lesson": 11,
+        "date": "2024-07-17",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_11_2024_07_17-0005",
+      "farsi": "دماغ",
+      "transliteration": "dāmāgh",
+      "english": "nose",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_11_2024-07-17.pdf",
+        "lesson": 11,
+        "date": "2024-07-17",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_11_2024_07_17-0006",
+      "farsi": "بینی",
+      "transliteration": "bini",
+      "english": "nose (formal)",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_11_2024-07-17.pdf",
+        "lesson": 11,
+        "date": "2024-07-17",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_11_2024_07_17-0007",
+      "farsi": "عمل",
+      "transliteration": "amal",
+      "english": "surgery / action",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_11_2024-07-17.pdf",
+        "lesson": 11,
+        "date": "2024-07-17",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_11_2024_07_17-0008",
+      "farsi": "مؤدب",
+      "transliteration": "mo'addab",
+      "english": "polite",
+      "partOfSpeech": "adjective",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_11_2024-07-17.pdf",
+        "lesson": 11,
+        "date": "2024-07-17",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_11_2024_07_17-0009",
+      "farsi": "تربیت",
+      "transliteration": "tarbiyat",
+      "english": "training or education that parents give to kids",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_11_2024-07-17.pdf",
+        "lesson": 11,
+        "date": "2024-07-17",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_11_2024_07_17-0010",
+      "farsi": "تربیت کردن",
+      "transliteration": "tarbiyat kardan",
+      "english": "to train / to educate",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_11_2024-07-17.pdf",
+        "lesson": 11,
+        "date": "2024-07-17",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_11_2024_07_17-0011",
+      "farsi": "کشاورزی",
+      "transliteration": "keshāvarzi",
+      "english": "agriculture",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_11_2024-07-17.pdf",
+        "lesson": 11,
+        "date": "2024-07-17",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_11_2024_07_17-0012",
+      "farsi": "کشاورز",
+      "transliteration": "keshāvarz",
+      "english": "farmer",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_11_2024-07-17.pdf",
+        "lesson": 11,
+        "date": "2024-07-17",
+        "page": 1
+      },
+      "needsReview": true
+    }
+  ]
+}

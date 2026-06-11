@@ -1,0 +1,391 @@
+{
+  "source": {
+    "file": "Lesson_72_2025-11-05.pdf",
+    "lesson": null,
+    "date": "2025-11-05"
+  },
+  "notes": "HANDWRITTEN – agent vision extraction needed. Fill in entries array.",
+  "pages": [
+    "content/pages/note_2025_11_05/p01.png"
+  ],
+  "entries": [
+    {
+      "id": "lesson_72_2025_11_05-0000",
+      "farsi": "نسل",
+      "transliteration": "nasl",
+      "english": "generation",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_72_2025-11-05.pdf",
+        "lesson": 72,
+        "date": "2025-11-05",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_72_2025_11_05-0001",
+      "farsi": "جودوسر",
+      "transliteration": "joodosar",
+      "english": "out (of something)",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_72_2025-11-05.pdf",
+        "lesson": 72,
+        "date": "2025-11-05",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_72_2025_11_05-0002",
+      "farsi": "آب‌پز",
+      "transliteration": "ābpaz",
+      "english": "boiled",
+      "partOfSpeech": "adjective",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_72_2025-11-05.pdf",
+        "lesson": 72,
+        "date": "2025-11-05",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_72_2025_11_05-0003",
+      "farsi": "تخم مرغ آب‌پز",
+      "transliteration": "tokhm morgh āb paz",
+      "english": "boiled eggs",
+      "partOfSpeech": "phrase",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_72_2025-11-05.pdf",
+        "lesson": 72,
+        "date": "2025-11-05",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_72_2025_11_05-0004",
+      "farsi": "قابل تحمل باید باشه",
+      "transliteration": "ghābele tahamol bāyad bāshe",
+      "english": "it should be bearable",
+      "partOfSpeech": "phrase",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_72_2025-11-05.pdf",
+        "lesson": 72,
+        "date": "2025-11-05",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_72_2025_11_05-0005",
+      "farsi": "وسوسه",
+      "transliteration": "vasvase",
+      "english": "temptation",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_72_2025-11-05.pdf",
+        "lesson": 72,
+        "date": "2025-11-05",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_72_2025_11_05-0006",
+      "farsi": "وسوسه کردن",
+      "transliteration": "vasvase kardan",
+      "english": "to tempt",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_72_2025-11-05.pdf",
+        "lesson": 72,
+        "date": "2025-11-05",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_72_2025_11_05-0007",
+      "farsi": "وسوسه شدن",
+      "transliteration": "vasvase shodan",
+      "english": "to get tempted",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_72_2025-11-05.pdf",
+        "lesson": 72,
+        "date": "2025-11-05",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_72_2025_11_05-0008",
+      "farsi": "فلسفه",
+      "transliteration": "falsafe",
+      "english": "philosophy",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_72_2025-11-05.pdf",
+        "lesson": 72,
+        "date": "2025-11-05",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_72_2025_11_05-0009",
+      "farsi": "وعده غذایی",
+      "transliteration": "va'de ghazāyi",
+      "english": "meal",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_72_2025-11-05.pdf",
+        "lesson": 72,
+        "date": "2025-11-05",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_72_2025_11_05-0010",
+      "farsi": "بشمار",
+      "transliteration": "beshmār",
+      "english": "count / countless",
+      "partOfSpeech": "adjective",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_72_2025-11-05.pdf",
+        "lesson": 72,
+        "date": "2025-11-05",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_72_2025_11_05-0011",
+      "farsi": "شمردن",
+      "transliteration": "shomordan",
+      "english": "to count",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_72_2025-11-05.pdf",
+        "lesson": 72,
+        "date": "2025-11-05",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_72_2025_11_05-0012",
+      "farsi": "آسیا",
+      "transliteration": "āsiyā",
+      "english": "Asia",
+      "partOfSpeech": "proper noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_72_2025-11-05.pdf",
+        "lesson": 72,
+        "date": "2025-11-05",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_72_2025_11_05-0013",
+      "farsi": "منو متعجب کرد",
+      "transliteration": "mano mota'ajjeb kard",
+      "english": "it surprised me",
+      "partOfSpeech": "phrase",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_72_2025-11-05.pdf",
+        "lesson": 72,
+        "date": "2025-11-05",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_72_2025_11_05-0014",
+      "farsi": "فقیر",
+      "transliteration": "faghir",
+      "english": "poor",
+      "partOfSpeech": "adjective",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_72_2025-11-05.pdf",
+        "lesson": 72,
+        "date": "2025-11-05",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_72_2025_11_05-0015",
+      "farsi": "مهمان‌نوازی",
+      "transliteration": "mehmān navāzi",
+      "english": "hospitality",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_72_2025-11-05.pdf",
+        "lesson": 72,
+        "date": "2025-11-05",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_72_2025_11_05-0016",
+      "farsi": "مهمان‌نواز",
+      "transliteration": "mehmān navāz",
+      "english": "hospitable",
+      "partOfSpeech": "adjective",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_72_2025-11-05.pdf",
+        "lesson": 72,
+        "date": "2025-11-05",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_72_2025_11_05-0017",
+      "farsi": "بالغ",
+      "transliteration": "bālegh",
+      "english": "mature / adult",
+      "partOfSpeech": "adjective",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_72_2025-11-05.pdf",
+        "lesson": 72,
+        "date": "2025-11-05",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_72_2025_11_05-0018",
+      "farsi": "بلوغ",
+      "transliteration": "bologh",
+      "english": "puberty / maturity",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_72_2025-11-05.pdf",
+        "lesson": 72,
+        "date": "2025-11-05",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_72_2025_11_05-0019",
+      "farsi": "باعث شدن",
+      "transliteration": "bā'es shodan",
+      "english": "to cause something",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_72_2025-11-05.pdf",
+        "lesson": 72,
+        "date": "2025-11-05",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_72_2025_11_05-0020",
+      "farsi": "این باعث شد که من بیشتر جدی بشم",
+      "transliteration": "in bā'es shod ke man bishtare jaddi besham",
+      "english": "what happened caused me to be more careful",
+      "partOfSpeech": "phrase",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_72_2025-11-05.pdf",
+        "lesson": 72,
+        "date": "2025-11-05",
+        "page": 1
+      },
+      "needsReview": true
+    }
+  ]
+}

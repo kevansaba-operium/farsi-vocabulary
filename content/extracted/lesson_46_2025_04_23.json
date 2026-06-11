@@ -1,0 +1,409 @@
+{
+  "source": {
+    "file": "Lesson_46_2025-04-23.pdf",
+    "lesson": null,
+    "date": "2025-04-23"
+  },
+  "notes": "HANDWRITTEN – agent vision extraction needed. Fill in entries array.",
+  "pages": [
+    "content/pages/note_2025_04_23/p01.png"
+  ],
+  "entries": [
+    {
+      "id": "lesson_46_2025_04_23-0000",
+      "farsi": "خلبان",
+      "transliteration": "khalabān",
+      "english": "pilot",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_46_2025-04-23.pdf",
+        "lesson": 46,
+        "date": "2025-04-23",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_46_2025_04_23-0001",
+      "farsi": "بهال",
+      "transliteration": "bahāl",
+      "english": "fun / cool",
+      "partOfSpeech": "adjective",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_46_2025-04-23.pdf",
+        "lesson": 46,
+        "date": "2025-04-23",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_46_2025_04_23-0002",
+      "farsi": "زلزله",
+      "transliteration": "zelzele",
+      "english": "earthquake",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_46_2025-04-23.pdf",
+        "lesson": 46,
+        "date": "2025-04-23",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_46_2025_04_23-0003",
+      "farsi": "بخار",
+      "transliteration": "bokhār",
+      "english": "steam",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_46_2025-04-23.pdf",
+        "lesson": 46,
+        "date": "2025-04-23",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_46_2025_04_23-0004",
+      "farsi": "بخار کردن",
+      "transliteration": "bokhār kardan",
+      "english": "to make something evaporate",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_46_2025-04-23.pdf",
+        "lesson": 46,
+        "date": "2025-04-23",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_46_2025_04_23-0005",
+      "farsi": "بخار شدن",
+      "transliteration": "bokhār shodan",
+      "english": "to evaporate",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_46_2025-04-23.pdf",
+        "lesson": 46,
+        "date": "2025-04-23",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_46_2025_04_23-0006",
+      "farsi": "زمین",
+      "transliteration": "zamin",
+      "english": "land",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_46_2025-04-23.pdf",
+        "lesson": 46,
+        "date": "2025-04-23",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_46_2025_04_23-0007",
+      "farsi": "مصنوعی",
+      "transliteration": "masno'i",
+      "english": "artificial",
+      "partOfSpeech": "adjective",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_46_2025-04-23.pdf",
+        "lesson": 46,
+        "date": "2025-04-23",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_46_2025_04_23-0008",
+      "farsi": "مسکن",
+      "transliteration": "maskan",
+      "english": "housing",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_46_2025-04-23.pdf",
+        "lesson": 46,
+        "date": "2025-04-23",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_46_2025_04_23-0009",
+      "farsi": "حلبی آباد",
+      "transliteration": "halabi ābād",
+      "english": "slums",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_46_2025-04-23.pdf",
+        "lesson": 46,
+        "date": "2025-04-23",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_46_2025_04_23-0010",
+      "farsi": "اجازه",
+      "transliteration": "ejāze",
+      "english": "permission",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_46_2025-04-23.pdf",
+        "lesson": 46,
+        "date": "2025-04-23",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_46_2025_04_23-0011",
+      "farsi": "اجازه دادن",
+      "transliteration": "ejāze dādan",
+      "english": "to allow",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_46_2025-04-23.pdf",
+        "lesson": 46,
+        "date": "2025-04-23",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_46_2025_04_23-0012",
+      "farsi": "آسمان‌خراش",
+      "transliteration": "āsmān kharāsh",
+      "english": "sky scraper",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_46_2025-04-23.pdf",
+        "lesson": 46,
+        "date": "2025-04-23",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_46_2025_04_23-0013",
+      "farsi": "وحشتناک",
+      "transliteration": "vahshatnāk",
+      "english": "scary",
+      "partOfSpeech": "adjective",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_46_2025-04-23.pdf",
+        "lesson": 46,
+        "date": "2025-04-23",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_46_2025_04_23-0014",
+      "farsi": "انتظارات",
+      "transliteration": "entezārāt",
+      "english": "expectations",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_46_2025-04-23.pdf",
+        "lesson": 46,
+        "date": "2025-04-23",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_46_2025_04_23-0015",
+      "farsi": "انتظار داشتن",
+      "transliteration": "entezār dāshtan",
+      "english": "to expect",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_46_2025-04-23.pdf",
+        "lesson": 46,
+        "date": "2025-04-23",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_46_2025_04_23-0016",
+      "farsi": "ترک عادت مرض",
+      "transliteration": "tarke ādat maraz e",
+      "english": "to abandon a habit / sickness",
+      "partOfSpeech": "phrase",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_46_2025-04-23.pdf",
+        "lesson": 46,
+        "date": "2025-04-23",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_46_2025_04_23-0017",
+      "farsi": "مرکز خرید",
+      "transliteration": "markazo kharid",
+      "english": "shopping center / mall",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_46_2025-04-23.pdf",
+        "lesson": 46,
+        "date": "2025-04-23",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_46_2025_04_23-0018",
+      "farsi": "آسیب",
+      "transliteration": "āsib",
+      "english": "damage (noun)",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_46_2025-04-23.pdf",
+        "lesson": 46,
+        "date": "2025-04-23",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_46_2025_04_23-0019",
+      "farsi": "آسیب زدن",
+      "transliteration": "āsib zadan",
+      "english": "to cause damage",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_46_2025-04-23.pdf",
+        "lesson": 46,
+        "date": "2025-04-23",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_46_2025_04_23-0020",
+      "farsi": "آسیب دیدن",
+      "transliteration": "āsib didan",
+      "english": "to get damaged",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_46_2025-04-23.pdf",
+        "lesson": 46,
+        "date": "2025-04-23",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_46_2025_04_23-0021",
+      "farsi": "به‌جز اینکه",
+      "transliteration": "be jaze in",
+      "english": "beside this / except this",
+      "partOfSpeech": "conjunction",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_46_2025-04-23.pdf",
+        "lesson": 46,
+        "date": "2025-04-23",
+        "page": 1
+      },
+      "needsReview": true
+    }
+  ]
+}

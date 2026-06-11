@@ -1,0 +1,265 @@
+{
+  "source": {
+    "file": "Lesson_18_2024-09-03.pdf",
+    "lesson": 18,
+    "date": "2024-09-03"
+  },
+  "notes": "HANDWRITTEN – agent vision extraction needed. Fill in entries array.",
+  "pages": [
+    "content/pages/lesson_18_2024_09_03/p01.png"
+  ],
+  "entries": [
+    {
+      "id": "lesson_18_2024_09_03-0000",
+      "farsi": "آماده",
+      "transliteration": "āmāde",
+      "english": "ready",
+      "partOfSpeech": "adjective",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_18_2024-09-03.pdf",
+        "lesson": 18,
+        "date": "2024-09-03",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_18_2024_09_03-0001",
+      "farsi": "نقشه",
+      "transliteration": "naghshe",
+      "english": "map",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_18_2024-09-03.pdf",
+        "lesson": 18,
+        "date": "2024-09-03",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_18_2024_09_03-0002",
+      "farsi": "قرن",
+      "transliteration": "gharn",
+      "english": "century",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_18_2024-09-03.pdf",
+        "lesson": 18,
+        "date": "2024-09-03",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_18_2024_09_03-0003",
+      "farsi": "موفق",
+      "transliteration": "movafagh",
+      "english": "successful",
+      "partOfSpeech": "adjective",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_18_2024-09-03.pdf",
+        "lesson": 18,
+        "date": "2024-09-03",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_18_2024_09_03-0004",
+      "farsi": "عمیق",
+      "transliteration": "amigh",
+      "english": "deep",
+      "partOfSpeech": "adjective",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_18_2024-09-03.pdf",
+        "lesson": 18,
+        "date": "2024-09-03",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_18_2024_09_03-0005",
+      "farsi": "گلو",
+      "transliteration": "golo",
+      "english": "throat",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_18_2024-09-03.pdf",
+        "lesson": 18,
+        "date": "2024-09-03",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_18_2024_09_03-0006",
+      "farsi": "به قدرت رسیدن",
+      "transliteration": "be ghodrat rasidan",
+      "english": "to come in power",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_18_2024-09-03.pdf",
+        "lesson": 18,
+        "date": "2024-09-03",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_18_2024_09_03-0007",
+      "farsi": "ثابت کردن",
+      "transliteration": "sābet kardan",
+      "english": "1) to proof  2) to stabilize",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_18_2024-09-03.pdf",
+        "lesson": 18,
+        "date": "2024-09-03",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_18_2024_09_03-0008",
+      "farsi": "ثابت شدن",
+      "transliteration": "sābet shodan",
+      "english": "to get stabilized",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_18_2024-09-03.pdf",
+        "lesson": 18,
+        "date": "2024-09-03",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_18_2024_09_03-0009",
+      "farsi": "اصلی",
+      "transliteration": "asli",
+      "english": "main / original",
+      "partOfSpeech": "adjective",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_18_2024-09-03.pdf",
+        "lesson": 18,
+        "date": "2024-09-03",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_18_2024_09_03-0010",
+      "farsi": "تاریخ",
+      "transliteration": "tārikh",
+      "english": "1) history  2) date",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_18_2024-09-03.pdf",
+        "lesson": 18,
+        "date": "2024-09-03",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_18_2024_09_03-0011",
+      "farsi": "تاریخ‌دان",
+      "transliteration": "tārikhdān",
+      "english": "historian",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_18_2024-09-03.pdf",
+        "lesson": 18,
+        "date": "2024-09-03",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_18_2024_09_03-0012",
+      "farsi": "بی‌عرضه",
+      "transliteration": "bi arze",
+      "english": "a person who is not very smart and can't get things done",
+      "partOfSpeech": "adjective",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_18_2024-09-03.pdf",
+        "lesson": 18,
+        "date": "2024-09-03",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_18_2024_09_03-0013",
+      "farsi": "پادشاه",
+      "transliteration": "pādeshāh",
+      "english": "emperor / king",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_18_2024-09-03.pdf",
+        "lesson": 18,
+        "date": "2024-09-03",
+        "page": 1
+      },
+      "needsReview": true
+    }
+  ]
+}

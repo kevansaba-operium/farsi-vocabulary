@@ -1,0 +1,570 @@
+{
+  "source": {
+    "file": "Lesson_88_2026-05-01.pdf",
+    "lesson": null,
+    "date": "2026-05-01"
+  },
+  "entries": [
+    {
+      "farsi": "مستاجر",
+      "transliteration": "tenant",
+      "english": "mostajer",
+      "partOfSpeech": null,
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_88_2026-05-01.pdf",
+        "lesson": null,
+        "date": "2026-05-01"
+      },
+      "needsReview": false,
+      "id": "note_2026_05_01-0000"
+    },
+    {
+      "farsi": "شن",
+      "transliteration": "shen",
+      "english": "sand",
+      "partOfSpeech": null,
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_88_2026-05-01.pdf",
+        "lesson": null,
+        "date": "2026-05-01"
+      },
+      "needsReview": false,
+      "id": "note_2026_05_01-0001"
+    },
+    {
+      "farsi": "تصور",
+      "transliteration": "",
+      "english": "imagination , how you picture smthing . tasavor",
+      "partOfSpeech": null,
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_88_2026-05-01.pdf",
+        "lesson": null,
+        "date": "2026-05-01"
+      },
+      "needsReview": false,
+      "id": "note_2026_05_01-0002"
+    },
+    {
+      "farsi": "تصور کردن",
+      "transliteration": "tasavor kardan",
+      "english": "to imagine , to picture",
+      "partOfSpeech": null,
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_88_2026-05-01.pdf",
+        "lesson": null,
+        "date": "2026-05-01"
+      },
+      "needsReview": false,
+      "id": "note_2026_05_01-0003"
+    },
+    {
+      "farsi": "دستکش",
+      "transliteration": "glove",
+      "english": "dastkesh",
+      "partOfSpeech": null,
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_88_2026-05-01.pdf",
+        "lesson": null,
+        "date": "2026-05-01"
+      },
+      "needsReview": false,
+      "id": "note_2026_05_01-0004"
+    },
+    {
+      "farsi": "کوهنوردی",
+      "transliteration": "kooh navardi",
+      "english": "mount climbing",
+      "partOfSpeech": null,
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_88_2026-05-01.pdf",
+        "lesson": null,
+        "date": "2026-05-01"
+      },
+      "needsReview": false,
+      "id": "note_2026_05_01-0005"
+    },
+    {
+      "farsi": "کوه یخ",
+      "transliteration": "ice berg",
+      "english": "koohe yakh",
+      "partOfSpeech": null,
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_88_2026-05-01.pdf",
+        "lesson": null,
+        "date": "2026-05-01"
+      },
+      "needsReview": false,
+      "id": "note_2026_05_01-0006"
+    },
+    {
+      "farsi": "درد سرما رو احساس نمی کرد",
+      "transliteration": "darde sarmaa ro ehsaas",
+      "english": "",
+      "partOfSpeech": null,
+      "notes": "nemikard he was not feeling the pain of the cold",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_88_2026-05-01.pdf",
+        "lesson": null,
+        "date": "2026-05-01"
+      },
+      "needsReview": true,
+      "id": "note_2026_05_01-0007"
+    },
+    {
+      "farsi": "شمردن",
+      "transliteration": "shomordan",
+      "english": "to count",
+      "partOfSpeech": null,
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_88_2026-05-01.pdf",
+        "lesson": null,
+        "date": "2026-05-01"
+      },
+      "needsReview": false,
+      "id": "note_2026_05_01-0008"
+    },
+    {
+      "farsi": "بشمار",
+      "transliteration": "count ! beshmaar",
+      "english": "but count as saying numbers",
+      "partOfSpeech": null,
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_88_2026-05-01.pdf",
+        "lesson": null,
+        "date": "2026-05-01"
+      },
+      "needsReview": false,
+      "id": "note_2026_05_01-0009"
+    },
+    {
+      "farsi": "واکنش شدید",
+      "transliteration": "vakoneshe shadid",
+      "english": "",
+      "partOfSpeech": null,
+      "notes": "intense reaction",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_88_2026-05-01.pdf",
+        "lesson": null,
+        "date": "2026-05-01"
+      },
+      "needsReview": true,
+      "id": "note_2026_05_01-0010"
+    },
+    {
+      "farsi": "وان",
+      "transliteration": "vaan",
+      "english": "bath tub",
+      "partOfSpeech": null,
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_88_2026-05-01.pdf",
+        "lesson": null,
+        "date": "2026-05-01"
+      },
+      "needsReview": false,
+      "id": "note_2026_05_01-0011"
+    },
+    {
+      "farsi": "!= ترسو .",
+      "transliteration": "",
+      "english": "شجاع",
+      "partOfSpeech": null,
+      "notes": "shojaa : brave , courageous",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_88_2026-05-01.pdf",
+        "lesson": null,
+        "date": "2026-05-01"
+      },
+      "needsReview": true,
+      "id": "note_2026_05_01-0012"
+    },
+    {
+      "farsi": "امید به زندگی",
+      "transliteration": "life expectancy",
+      "english": "omid be zendegi",
+      "partOfSpeech": null,
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_88_2026-05-01.pdf",
+        "lesson": null,
+        "date": "2026-05-01"
+      },
+      "needsReview": false,
+      "id": "note_2026_05_01-0013"
+    },
+    {
+      "farsi": "وان آب یخ",
+      "transliteration": "vaane aabe yakh",
+      "english": "",
+      "partOfSpeech": null,
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_88_2026-05-01.pdf",
+        "lesson": null,
+        "date": "2026-05-01"
+      },
+      "needsReview": true,
+      "id": "note_2026_05_01-0014"
+    },
+    {
+      "farsi": "واکنش نشون دادن",
+      "transliteration": "vaakonesh neshoon daadan",
+      "english": "",
+      "partOfSpeech": null,
+      "notes": "to react protective eﬀective : taasire mohaafezati : : محافظتی تاثیر",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_88_2026-05-01.pdf",
+        "lesson": null,
+        "date": "2026-05-01"
+      },
+      "needsReview": true,
+      "id": "note_2026_05_01-0015"
+    },
+    {
+      "farsi": "آزمایش",
+      "transliteration": "aazmaayesh",
+      "english": "experiment",
+      "partOfSpeech": null,
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_88_2026-05-01.pdf",
+        "lesson": null,
+        "date": "2026-05-01"
+      },
+      "needsReview": false,
+      "id": "note_2026_05_01-0016"
+    },
+    {
+      "farsi": "سطل",
+      "transliteration": "satl",
+      "english": "bucket",
+      "partOfSpeech": null,
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_88_2026-05-01.pdf",
+        "lesson": null,
+        "date": "2026-05-01"
+      },
+      "needsReview": false,
+      "id": "note_2026_05_01-0017"
+    },
+    {
+      "farsi": "انداخنت",
+      "transliteration": "to throw",
+      "english": "",
+      "partOfSpeech": null,
+      "notes": "andaakhtan",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_88_2026-05-01.pdf",
+        "lesson": null,
+        "date": "2026-05-01"
+      },
+      "needsReview": true,
+      "id": "note_2026_05_01-0018"
+    },
+    {
+      "farsi": "می اندازن",
+      "transliteration": "mi ndaazam",
+      "english": "",
+      "partOfSpeech": null,
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_88_2026-05-01.pdf",
+        "lesson": null,
+        "date": "2026-05-01"
+      },
+      "needsReview": true,
+      "id": "note_2026_05_01-0019"
+    },
+    {
+      "farsi": "دست و پا زدن",
+      "transliteration": "dast o paa zadan",
+      "english": "",
+      "partOfSpeech": null,
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_88_2026-05-01.pdf",
+        "lesson": null,
+        "date": "2026-05-01"
+      },
+      "needsReview": true,
+      "id": "note_2026_05_01-0020"
+    },
+    {
+      "farsi": "محقق",
+      "transliteration": "mohaghegh",
+      "english": "researcher",
+      "partOfSpeech": null,
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_88_2026-05-01.pdf",
+        "lesson": null,
+        "date": "2026-05-01"
+      },
+      "needsReview": false,
+      "id": "note_2026_05_01-0021"
+    },
+    {
+      "farsi": "بازیافت",
+      "transliteration": "recycle",
+      "english": "baaz yaaft",
+      "partOfSpeech": null,
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_88_2026-05-01.pdf",
+        "lesson": null,
+        "date": "2026-05-01"
+      },
+      "needsReview": false,
+      "id": "note_2026_05_01-0022"
+    },
+    {
+      "farsi": "بازیافت کردن",
+      "transliteration": "to recycle",
+      "english": "",
+      "partOfSpeech": null,
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_88_2026-05-01.pdf",
+        "lesson": null,
+        "date": "2026-05-01"
+      },
+      "needsReview": true,
+      "id": "note_2026_05_01-0023"
+    },
+    {
+      "farsi": "درک",
+      "transliteration": "dark",
+      "english": "a deep understanding",
+      "partOfSpeech": null,
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_88_2026-05-01.pdf",
+        "lesson": null,
+        "date": "2026-05-01"
+      },
+      "needsReview": false,
+      "id": "note_2026_05_01-0024"
+    },
+    {
+      "farsi": "پستاندار",
+      "transliteration": "mammal",
+      "english": "pestaandaar",
+      "partOfSpeech": null,
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_88_2026-05-01.pdf",
+        "lesson": null,
+        "date": "2026-05-01"
+      },
+      "needsReview": false,
+      "id": "note_2026_05_01-0025"
+    },
+    {
+      "farsi": "سطح",
+      "transliteration": "level",
+      "english": "sat h",
+      "partOfSpeech": null,
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_88_2026-05-01.pdf",
+        "lesson": null,
+        "date": "2026-05-01"
+      },
+      "needsReview": false,
+      "id": "note_2026_05_01-0026"
+    },
+    {
+      "farsi": "تکامل",
+      "transliteration": "takaamol",
+      "english": "revolution",
+      "partOfSpeech": null,
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_88_2026-05-01.pdf",
+        "lesson": null,
+        "date": "2026-05-01"
+      },
+      "needsReview": false,
+      "id": "note_2026_05_01-0027"
+    },
+    {
+      "farsi": "فعال شدن",
+      "transliteration": "fa-aal shodan",
+      "english": "to be activated",
+      "partOfSpeech": null,
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_88_2026-05-01.pdf",
+        "lesson": null,
+        "date": "2026-05-01"
+      },
+      "needsReview": false,
+      "id": "note_2026_05_01-0028"
+    },
+    {
+      "farsi": "غیر فعال شدن",
+      "transliteration": "to be deactivated",
+      "english": "gheyre fa-aal shodan",
+      "partOfSpeech": null,
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_88_2026-05-01.pdf",
+        "lesson": null,
+        "date": "2026-05-01"
+      },
+      "needsReview": false,
+      "id": "note_2026_05_01-0029"
+    },
+    {
+      "farsi": "قدرتمند",
+      "transliteration": "powerful",
+      "english": "ghodrat mand",
+      "partOfSpeech": null,
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_88_2026-05-01.pdf",
+        "lesson": null,
+        "date": "2026-05-01"
+      },
+      "needsReview": false,
+      "id": "note_2026_05_01-0030"
+    },
+    {
+      "farsi": "عضله",
+      "transliteration": "azole",
+      "english": "muscle",
+      "partOfSpeech": null,
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_88_2026-05-01.pdf",
+        "lesson": null,
+        "date": "2026-05-01"
+      },
+      "needsReview": false,
+      "id": "note_2026_05_01-0031"
+    },
+    {
+      "farsi": "چربی",
+      "transliteration": "charbi",
+      "english": "fat ( nutrient )",
+      "partOfSpeech": null,
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_88_2026-05-01.pdf",
+        "lesson": null,
+        "date": "2026-05-01"
+      },
+      "needsReview": false,
+      "id": "note_2026_05_01-0032"
+    }
+  ]
+}

@@ -1,0 +1,301 @@
+{
+  "source": {
+    "file": "Lesson_71_2025-11-04.pdf",
+    "lesson": null,
+    "date": "2025-11-04"
+  },
+  "notes": "HANDWRITTEN – agent vision extraction needed. Fill in entries array.",
+  "pages": [
+    "content/pages/note_2025_11_04/p01.png"
+  ],
+  "entries": [
+    {
+      "id": "lesson_71_2025_11_04-0000",
+      "farsi": "سهام",
+      "transliteration": "sahām",
+      "english": "stocks / shares",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_71_2025-11-04.pdf",
+        "lesson": 71,
+        "date": "2025-11-04",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_71_2025_11_04-0001",
+      "farsi": "بازار سهام",
+      "transliteration": "bāzāre sahām",
+      "english": "stock market",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_71_2025-11-04.pdf",
+        "lesson": 71,
+        "date": "2025-11-04",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_71_2025_11_04-0002",
+      "farsi": "نسبت",
+      "transliteration": "nesbat",
+      "english": "ratio / proportion",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_71_2025-11-04.pdf",
+        "lesson": 71,
+        "date": "2025-11-04",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_71_2025_11_04-0003",
+      "farsi": "ارزیابی",
+      "transliteration": "arziyābi",
+      "english": "evaluation",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_71_2025-11-04.pdf",
+        "lesson": 71,
+        "date": "2025-11-04",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_71_2025_11_04-0004",
+      "farsi": "قابل پیش بینی",
+      "transliteration": "ghābel pish bini",
+      "english": "predictable",
+      "partOfSpeech": "adjective",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_71_2025-11-04.pdf",
+        "lesson": 71,
+        "date": "2025-11-04",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_71_2025_11_04-0005",
+      "farsi": "قیمت هر سهم",
+      "transliteration": "ghimat har sahm",
+      "english": "price per share",
+      "partOfSpeech": "phrase",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_71_2025-11-04.pdf",
+        "lesson": 71,
+        "date": "2025-11-04",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_71_2025_11_04-0006",
+      "farsi": "سود هر سهم",
+      "transliteration": "sood har sahm",
+      "english": "profit per share",
+      "partOfSpeech": "phrase",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_71_2025-11-04.pdf",
+        "lesson": 71,
+        "date": "2025-11-04",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_71_2025_11_04-0007",
+      "farsi": "سرمایه",
+      "transliteration": "sarmāye",
+      "english": "capital / money",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_71_2025-11-04.pdf",
+        "lesson": 71,
+        "date": "2025-11-04",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_71_2025_11_04-0008",
+      "farsi": "پخش کردن",
+      "transliteration": "pakhsh kardan",
+      "english": "to distribute",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_71_2025-11-04.pdf",
+        "lesson": 71,
+        "date": "2025-11-04",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_71_2025_11_04-0009",
+      "farsi": "بار",
+      "transliteration": "bār",
+      "english": "time / fold (e.g. 2 times)",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_71_2025-11-04.pdf",
+        "lesson": 71,
+        "date": "2025-11-04",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_71_2025_11_04-0010",
+      "farsi": "ترکیدن",
+      "transliteration": "tarakidan",
+      "english": "to explode / burst",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_71_2025-11-04.pdf",
+        "lesson": 71,
+        "date": "2025-11-04",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_71_2025_11_04-0011",
+      "farsi": "هر حباب می‌ترکه",
+      "transliteration": "har hobāb mitrake",
+      "english": "every bubble bursts / nothing lasts forever",
+      "partOfSpeech": "phrase",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_71_2025-11-04.pdf",
+        "lesson": 71,
+        "date": "2025-11-04",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_71_2025_11_04-0012",
+      "farsi": "ارز",
+      "transliteration": "arz",
+      "english": "currency / foreign exchange",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_71_2025-11-04.pdf",
+        "lesson": 71,
+        "date": "2025-11-04",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_71_2025_11_04-0013",
+      "farsi": "خودرو",
+      "transliteration": "khodro",
+      "english": "automobile",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_71_2025-11-04.pdf",
+        "lesson": 71,
+        "date": "2025-11-04",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_71_2025_11_04-0014",
+      "farsi": "برعکس",
+      "transliteration": "bar'aks",
+      "english": "opposite / reverse / on the contrary",
+      "partOfSpeech": "adverb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_71_2025-11-04.pdf",
+        "lesson": 71,
+        "date": "2025-11-04",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_71_2025_11_04-0015",
+      "farsi": "بدهی",
+      "transliteration": "bedahi",
+      "english": "debt",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_71_2025-11-04.pdf",
+        "lesson": 71,
+        "date": "2025-11-04",
+        "page": 1
+      },
+      "needsReview": true
+    }
+  ]
+}

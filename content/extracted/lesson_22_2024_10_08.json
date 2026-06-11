@@ -1,0 +1,266 @@
+{
+  "source": {
+    "file": "Lesson_22_2024-10-08.pdf",
+    "lesson": 22,
+    "date": "2024-10-08"
+  },
+  "notes": "HANDWRITTEN – agent vision extraction needed. Fill in entries array.",
+  "pages": [
+    "content/pages/lesson_22_2024_10_08/p01.png",
+    "content/pages/lesson_22_2024_10_08/p02.png"
+  ],
+  "entries": [
+    {
+      "id": "lesson_22_2024_10_08-0000",
+      "farsi": "در طول",
+      "transliteration": "dar tool",
+      "english": "during",
+      "partOfSpeech": "preposition",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_22_2024-10-08.pdf",
+        "lesson": 22,
+        "date": "2024-10-08",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_22_2024_10_08-0001",
+      "farsi": "مقدار",
+      "transliteration": "meghdār",
+      "english": "amount / quantity",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_22_2024-10-08.pdf",
+        "lesson": 22,
+        "date": "2024-10-08",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_22_2024_10_08-0002",
+      "farsi": "سرفه",
+      "transliteration": "sorfe",
+      "english": "cough (noun)",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_22_2024-10-08.pdf",
+        "lesson": 22,
+        "date": "2024-10-08",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_22_2024_10_08-0003",
+      "farsi": "سرفه کردن",
+      "transliteration": "sorfe kardan",
+      "english": "to cough",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_22_2024-10-08.pdf",
+        "lesson": 22,
+        "date": "2024-10-08",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_22_2024_10_08-0004",
+      "farsi": "انسان",
+      "transliteration": "ensān",
+      "english": "human",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_22_2024-10-08.pdf",
+        "lesson": 22,
+        "date": "2024-10-08",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_22_2024_10_08-0005",
+      "farsi": "میزبان",
+      "transliteration": "mizbān",
+      "english": "host",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_22_2024-10-08.pdf",
+        "lesson": 22,
+        "date": "2024-10-08",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_22_2024_10_08-0006",
+      "farsi": "مهمان",
+      "transliteration": "mehmān",
+      "english": "guest",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_22_2024-10-08.pdf",
+        "lesson": 22,
+        "date": "2024-10-08",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_22_2024_10_08-0007",
+      "farsi": "قطعی",
+      "transliteration": "ghate'i",
+      "english": "sure / definite",
+      "partOfSpeech": "adjective",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_22_2024-10-08.pdf",
+        "lesson": 22,
+        "date": "2024-10-08",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_22_2024_10_08-0008",
+      "farsi": "واکسن",
+      "transliteration": "vāksan",
+      "english": "vaccine",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_22_2024-10-08.pdf",
+        "lesson": 22,
+        "date": "2024-10-08",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_22_2024_10_08-0009",
+      "farsi": "واکسن زدن",
+      "transliteration": "vāksan zadan",
+      "english": "to get a vaccine",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_22_2024-10-08.pdf",
+        "lesson": 22,
+        "date": "2024-10-08",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_22_2024_10_08-0010",
+      "farsi": "رابطه",
+      "transliteration": "rābete",
+      "english": "relation of 2 things regarding each other",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_22_2024-10-08.pdf",
+        "lesson": 22,
+        "date": "2024-10-08",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_22_2024_10_08-0011",
+      "farsi": "رابطه داشتن",
+      "transliteration": "rābete dāshtan",
+      "english": "to be related to something",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_22_2024-10-08.pdf",
+        "lesson": 22,
+        "date": "2024-10-08",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_22_2024_10_08-0012",
+      "farsi": "سرماخوردگی",
+      "transliteration": "sarmākhordegi",
+      "english": "cold (the disease)",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_22_2024-10-08.pdf",
+        "lesson": 22,
+        "date": "2024-10-08",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_22_2024_10_08-0013",
+      "farsi": "عسل",
+      "transliteration": "asal",
+      "english": "honey",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_22_2024-10-08.pdf",
+        "lesson": 22,
+        "date": "2024-10-08",
+        "page": 1
+      },
+      "needsReview": true
+    }
+  ]
+}

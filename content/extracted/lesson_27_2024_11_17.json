@@ -1,0 +1,265 @@
+{
+  "source": {
+    "file": "Lesson_27_2024-11-17.pdf",
+    "lesson": null,
+    "date": "2024-11-17"
+  },
+  "notes": "HANDWRITTEN – agent vision extraction needed. Fill in entries array.",
+  "pages": [
+    "content/pages/note_2024_11_17/p01.png"
+  ],
+  "entries": [
+    {
+      "id": "lesson_27_2024_11_17-0000",
+      "farsi": "نرم افزار",
+      "transliteration": "narm afzār",
+      "english": "software",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_27_2024-11-17.pdf",
+        "lesson": 27,
+        "date": "2024-11-17",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_27_2024_11_17-0001",
+      "farsi": "ساده",
+      "transliteration": "sāde",
+      "english": "1) simple  2) basic",
+      "partOfSpeech": "adjective",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_27_2024-11-17.pdf",
+        "lesson": 27,
+        "date": "2024-11-17",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_27_2024_11_17-0002",
+      "farsi": "روابط عمومی",
+      "transliteration": "ravābet omumi",
+      "english": "public relations",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_27_2024-11-17.pdf",
+        "lesson": 27,
+        "date": "2024-11-17",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_27_2024_11_17-0003",
+      "farsi": "مشتری",
+      "transliteration": "moshtari",
+      "english": "client",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_27_2024-11-17.pdf",
+        "lesson": 27,
+        "date": "2024-11-17",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_27_2024_11_17-0004",
+      "farsi": "و غیره",
+      "transliteration": "va gheyre",
+      "english": "and etc.",
+      "partOfSpeech": "phrase",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_27_2024-11-17.pdf",
+        "lesson": 27,
+        "date": "2024-11-17",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_27_2024_11_17-0005",
+      "farsi": "تجربه",
+      "transliteration": "tajrobe",
+      "english": "experience",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_27_2024-11-17.pdf",
+        "lesson": 27,
+        "date": "2024-11-17",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_27_2024_11_17-0006",
+      "farsi": "سازمان دهی کردن",
+      "transliteration": "sāzmān dehi kardan",
+      "english": "to organize",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_27_2024-11-17.pdf",
+        "lesson": 27,
+        "date": "2024-11-17",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_27_2024_11_17-0007",
+      "farsi": "سازمان",
+      "transliteration": "sāzmān",
+      "english": "organization",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_27_2024-11-17.pdf",
+        "lesson": 27,
+        "date": "2024-11-17",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_27_2024_11_17-0008",
+      "farsi": "اطلاعات",
+      "transliteration": "ettela'āt",
+      "english": "information",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_27_2024-11-17.pdf",
+        "lesson": 27,
+        "date": "2024-11-17",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_27_2024_11_17-0009",
+      "farsi": "جمعیت",
+      "transliteration": "jam'iyat",
+      "english": "population",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_27_2024-11-17.pdf",
+        "lesson": 27,
+        "date": "2024-11-17",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_27_2024_11_17-0010",
+      "farsi": "پول درآوردن",
+      "transliteration": "pool darāvardan",
+      "english": "to make money",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_27_2024-11-17.pdf",
+        "lesson": 27,
+        "date": "2024-11-17",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_27_2024_11_17-0011",
+      "farsi": "تأخیر",
+      "transliteration": "ta'khir",
+      "english": "delay",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_27_2024-11-17.pdf",
+        "lesson": 27,
+        "date": "2024-11-17",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_27_2024_11_17-0012",
+      "farsi": "تاریخ",
+      "transliteration": "tārikh",
+      "english": "history / date",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_27_2024-11-17.pdf",
+        "lesson": 27,
+        "date": "2024-11-17",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_27_2024_11_17-0013",
+      "farsi": "تغییر",
+      "transliteration": "taghyir",
+      "english": "change (noun)",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_27_2024-11-17.pdf",
+        "lesson": 27,
+        "date": "2024-11-17",
+        "page": 1
+      },
+      "needsReview": true
+    }
+  ]
+}

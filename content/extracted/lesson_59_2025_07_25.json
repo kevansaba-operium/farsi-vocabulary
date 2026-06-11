@@ -1,0 +1,445 @@
+{
+  "source": {
+    "file": "Lesson_59_2025-07-25.pdf",
+    "lesson": null,
+    "date": "2025-07-25"
+  },
+  "notes": "HANDWRITTEN – agent vision extraction needed. Fill in entries array.",
+  "pages": [
+    "content/pages/note_2025_07_25/p01.png"
+  ],
+  "entries": [
+    {
+      "id": "lesson_59_2025_07_25-0000",
+      "farsi": "اختلاف سنی",
+      "transliteration": "ekhtelāfe seni",
+      "english": "age difference",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_59_2025-07-25.pdf",
+        "lesson": 59,
+        "date": "2025-07-25",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_59_2025_07_25-0001",
+      "farsi": "قد",
+      "transliteration": "ghad",
+      "english": "height",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_59_2025-07-25.pdf",
+        "lesson": 59,
+        "date": "2025-07-25",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_59_2025_07_25-0002",
+      "farsi": "قد بلند",
+      "transliteration": "ghad boland",
+      "english": "tall (as a person)",
+      "partOfSpeech": "adjective",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_59_2025-07-25.pdf",
+        "lesson": 59,
+        "date": "2025-07-25",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_59_2025_07_25-0003",
+      "farsi": "وزن",
+      "transliteration": "vazn",
+      "english": "weight",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_59_2025-07-25.pdf",
+        "lesson": 59,
+        "date": "2025-07-25",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_59_2025_07_25-0004",
+      "farsi": "انگیزه",
+      "transliteration": "angize",
+      "english": "motivation",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_59_2025-07-25.pdf",
+        "lesson": 59,
+        "date": "2025-07-25",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_59_2025_07_25-0005",
+      "farsi": "تأثیر",
+      "transliteration": "tāsir",
+      "english": "effect (noun)",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_59_2025-07-25.pdf",
+        "lesson": 59,
+        "date": "2025-07-25",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_59_2025_07_25-0006",
+      "farsi": "تأثیر مثبت",
+      "transliteration": "tāsire mosbat",
+      "english": "positive effect",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_59_2025-07-25.pdf",
+        "lesson": 59,
+        "date": "2025-07-25",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_59_2025_07_25-0007",
+      "farsi": "روی سس تأثیر داره",
+      "transliteration": "rooye ses tāsir dāre",
+      "english": "has effect on",
+      "partOfSpeech": "phrase",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_59_2025-07-25.pdf",
+        "lesson": 59,
+        "date": "2025-07-25",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_59_2025_07_25-0008",
+      "farsi": "کلافه",
+      "transliteration": "kalāfe",
+      "english": "frustrated",
+      "partOfSpeech": "adjective",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_59_2025-07-25.pdf",
+        "lesson": 59,
+        "date": "2025-07-25",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_59_2025_07_25-0009",
+      "farsi": "روزه",
+      "transliteration": "rooze",
+      "english": "fasting (adj)",
+      "partOfSpeech": "adjective",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_59_2025-07-25.pdf",
+        "lesson": 59,
+        "date": "2025-07-25",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_59_2025_07_25-0010",
+      "farsi": "ناشتا",
+      "transliteration": "nāshtā",
+      "english": "fasted (without having breakfast)",
+      "partOfSpeech": "adjective",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_59_2025-07-25.pdf",
+        "lesson": 59,
+        "date": "2025-07-25",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_59_2025_07_25-0011",
+      "farsi": "دانشمند",
+      "transliteration": "dāneshmand",
+      "english": "scientist",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_59_2025-07-25.pdf",
+        "lesson": 59,
+        "date": "2025-07-25",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_59_2025_07_25-0012",
+      "farsi": "محقق",
+      "transliteration": "mohaghghegh",
+      "english": "researcher",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_59_2025-07-25.pdf",
+        "lesson": 59,
+        "date": "2025-07-25",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_59_2025_07_25-0013",
+      "farsi": "جلوگیری",
+      "transliteration": "jologiri",
+      "english": "prevention",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_59_2025-07-25.pdf",
+        "lesson": 59,
+        "date": "2025-07-25",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_59_2025_07_25-0014",
+      "farsi": "جلوگیری کردن",
+      "transliteration": "jologiri kardan",
+      "english": "to prevent",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_59_2025-07-25.pdf",
+        "lesson": 59,
+        "date": "2025-07-25",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_59_2025_07_25-0015",
+      "farsi": "رئیس",
+      "transliteration": "ra'is",
+      "english": "boss",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_59_2025-07-25.pdf",
+        "lesson": 59,
+        "date": "2025-07-25",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_59_2025_07_25-0016",
+      "farsi": "نژادپرست",
+      "transliteration": "nezhādparast",
+      "english": "racist",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_59_2025-07-25.pdf",
+        "lesson": 59,
+        "date": "2025-07-25",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_59_2025_07_25-0017",
+      "farsi": "پرچم",
+      "transliteration": "parcham",
+      "english": "flag",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_59_2025-07-25.pdf",
+        "lesson": 59,
+        "date": "2025-07-25",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_59_2025_07_25-0018",
+      "farsi": "زمان باستان",
+      "transliteration": "zamāne bāstān",
+      "english": "ancient time",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_59_2025-07-25.pdf",
+        "lesson": 59,
+        "date": "2025-07-25",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_59_2025_07_25-0019",
+      "farsi": "فیل",
+      "transliteration": "fil",
+      "english": "elephant",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_59_2025-07-25.pdf",
+        "lesson": 59,
+        "date": "2025-07-25",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_59_2025_07_25-0020",
+      "farsi": "دزد دریایی",
+      "transliteration": "dozde daryāyi",
+      "english": "pirate",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_59_2025-07-25.pdf",
+        "lesson": 59,
+        "date": "2025-07-25",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_59_2025_07_25-0021",
+      "farsi": "ذهنیت",
+      "transliteration": "zehniyat",
+      "english": "mentality",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_59_2025-07-25.pdf",
+        "lesson": 59,
+        "date": "2025-07-25",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_59_2025_07_25-0022",
+      "farsi": "ذهنیت قربانی",
+      "transliteration": "zehniyate ghorbāni",
+      "english": "victim mentality",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_59_2025-07-25.pdf",
+        "lesson": 59,
+        "date": "2025-07-25",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_59_2025_07_25-0023",
+      "farsi": "هیچ غذا",
+      "transliteration": "hich ghazā",
+      "english": "no food",
+      "partOfSpeech": "phrase",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_59_2025-07-25.pdf",
+        "lesson": 59,
+        "date": "2025-07-25",
+        "page": 1
+      },
+      "needsReview": true
+    }
+  ]
+}

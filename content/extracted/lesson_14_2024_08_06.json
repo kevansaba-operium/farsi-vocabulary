@@ -1,0 +1,212 @@
+{
+  "source": {
+    "file": "Lesson_14_2024-08-06.pdf",
+    "lesson": 14,
+    "date": "2024-08-06"
+  },
+  "notes": "HANDWRITTEN – agent vision extraction needed. Fill in entries array.",
+  "pages": [
+    "content/pages/lesson_14_2024_08_06/p01.png",
+    "content/pages/lesson_14_2024_08_06/p02.png"
+  ],
+  "entries": [
+    {
+      "id": "lesson_14_2024_08_06-0000",
+      "farsi": "جمع",
+      "transliteration": "jam'",
+      "english": "group / crowd",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_14_2024-08-06.pdf",
+        "lesson": 14,
+        "date": "2024-08-06",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_14_2024_08_06-0001",
+      "farsi": "جمع شدن",
+      "transliteration": "jam' shodan",
+      "english": "to pile up / to gather (passive)",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_14_2024-08-06.pdf",
+        "lesson": 14,
+        "date": "2024-08-06",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_14_2024_08_06-0002",
+      "farsi": "جمع کردن",
+      "transliteration": "jam' kardan",
+      "english": "to gather / collect (active)",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_14_2024-08-06.pdf",
+        "lesson": 14,
+        "date": "2024-08-06",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_14_2024_08_06-0003",
+      "farsi": "حواس بردن",
+      "transliteration": "havās bordan",
+      "english": "to desire / have appetite for something",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_14_2024-08-06.pdf",
+        "lesson": 14,
+        "date": "2024-08-06",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_14_2024_08_06-0004",
+      "farsi": "دیوار",
+      "transliteration": "divār",
+      "english": "wall",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_14_2024-08-06.pdf",
+        "lesson": 14,
+        "date": "2024-08-06",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_14_2024_08_06-0005",
+      "farsi": "سوراخ",
+      "transliteration": "surākh",
+      "english": "hole",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_14_2024-08-06.pdf",
+        "lesson": 14,
+        "date": "2024-08-06",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_14_2024_08_06-0006",
+      "farsi": "سوراخ کردن",
+      "transliteration": "surākh kardan",
+      "english": "to drill a hole (active)",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_14_2024-08-06.pdf",
+        "lesson": 14,
+        "date": "2024-08-06",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_14_2024_08_06-0007",
+      "farsi": "سوراخ شدن",
+      "transliteration": "surākh shodan",
+      "english": "to get a hole (passive)",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_14_2024-08-06.pdf",
+        "lesson": 14,
+        "date": "2024-08-06",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_14_2024_08_06-0008",
+      "farsi": "قبلی",
+      "transliteration": "ghobli",
+      "english": "previous",
+      "partOfSpeech": "adjective",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_14_2024-08-06.pdf",
+        "lesson": 14,
+        "date": "2024-08-06",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_14_2024_08_06-0009",
+      "farsi": "صاحب",
+      "transliteration": "sāheb",
+      "english": "owner",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_14_2024-08-06.pdf",
+        "lesson": 14,
+        "date": "2024-08-06",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_14_2024_08_06-0010",
+      "farsi": "قبلاً",
+      "transliteration": "ghablan",
+      "english": "in the past",
+      "partOfSpeech": "adverb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_14_2024-08-06.pdf",
+        "lesson": 14,
+        "date": "2024-08-06",
+        "page": 1
+      },
+      "needsReview": true
+    }
+  ]
+}

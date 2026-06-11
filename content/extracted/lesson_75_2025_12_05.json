@@ -1,0 +1,844 @@
+{
+  "source": {
+    "file": "Lesson_75_2025-12-05.pdf",
+    "lesson": null,
+    "date": "2025-12-05"
+  },
+  "notes": "HANDWRITTEN – agent vision extraction needed. Fill in entries array.",
+  "pages": [
+    "content/pages/note_2025_12_05/p01.png",
+    "content/pages/note_2025_12_05/p02.png",
+    "content/pages/note_2025_12_05/p03.png",
+    "content/pages/note_2025_12_05/p04.png"
+  ],
+  "entries": [
+    {
+      "id": "lesson_75_2025_12_05-0000",
+      "farsi": "کت و شلوار",
+      "transliteration": "kot o shalvār",
+      "english": "suit",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_75_2025-12-05.pdf",
+        "lesson": 75,
+        "date": "2025-12-05",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_75_2025_12_05-0001",
+      "farsi": "بررسی کردن",
+      "transliteration": "barresi kardan",
+      "english": "to review / to check",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_75_2025-12-05.pdf",
+        "lesson": 75,
+        "date": "2025-12-05",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_75_2025_12_05-0002",
+      "farsi": "مشتری",
+      "transliteration": "moshtari",
+      "english": "client / customer",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_75_2025-12-05.pdf",
+        "lesson": 75,
+        "date": "2025-12-05",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_75_2025_12_05-0003",
+      "farsi": "تاریخ",
+      "transliteration": "tārikh",
+      "english": "1) date  2) history",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_75_2025-12-05.pdf",
+        "lesson": 75,
+        "date": "2025-12-05",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_75_2025_12_05-0004",
+      "farsi": "تاریخ میلادی",
+      "transliteration": "tārikhe milādi",
+      "english": "Gregorian date",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_75_2025-12-05.pdf",
+        "lesson": 75,
+        "date": "2025-12-05",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_75_2025_12_05-0005",
+      "farsi": "تاریخ هجری",
+      "transliteration": "tārikhe hejri",
+      "english": "Iranian (Hijri) date",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_75_2025-12-05.pdf",
+        "lesson": 75,
+        "date": "2025-12-05",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_75_2025_12_05-0006",
+      "farsi": "تلاش",
+      "transliteration": "talāsh",
+      "english": "effort / attempt",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_75_2025-12-05.pdf",
+        "lesson": 75,
+        "date": "2025-12-05",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_75_2025_12_05-0007",
+      "farsi": "مربی",
+      "transliteration": "morabbi",
+      "english": "coach / trainer",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_75_2025-12-05.pdf",
+        "lesson": 75,
+        "date": "2025-12-05",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_75_2025_12_05-0008",
+      "farsi": "پرونده",
+      "transliteration": "parvande",
+      "english": "file / case",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_75_2025-12-05.pdf",
+        "lesson": 75,
+        "date": "2025-12-05",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_75_2025_12_05-0009",
+      "farsi": "دستمال",
+      "transliteration": "dastmāl",
+      "english": "tissue / napkin",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_75_2025-12-05.pdf",
+        "lesson": 75,
+        "date": "2025-12-05",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_75_2025_12_05-0010",
+      "farsi": "سیستم گرمایشی",
+      "transliteration": "sisteme garmāyeshi",
+      "english": "heating system",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_75_2025-12-05.pdf",
+        "lesson": 75,
+        "date": "2025-12-05",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_75_2025_12_05-0011",
+      "farsi": "شک",
+      "transliteration": "shak",
+      "english": "doubt",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_75_2025-12-05.pdf",
+        "lesson": 75,
+        "date": "2025-12-05",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_75_2025_12_05-0012",
+      "farsi": "اشاره کردن",
+      "transliteration": "eshāre kardan",
+      "english": "to point out / to refer to",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_75_2025-12-05.pdf",
+        "lesson": 75,
+        "date": "2025-12-05",
+        "page": 2
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_75_2025_12_05-0013",
+      "farsi": "اشاره دادن",
+      "transliteration": "eshāre dādan",
+      "english": "to give a sign / signal",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_75_2025-12-05.pdf",
+        "lesson": 75,
+        "date": "2025-12-05",
+        "page": 2
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_75_2025_12_05-0014",
+      "farsi": "آروم کن",
+      "transliteration": "āroom kon",
+      "english": "calm down",
+      "partOfSpeech": "phrase",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_75_2025-12-05.pdf",
+        "lesson": 75,
+        "date": "2025-12-05",
+        "page": 2
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_75_2025_12_05-0015",
+      "farsi": "ثابت کردن",
+      "transliteration": "sābet kardan",
+      "english": "to prove",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_75_2025-12-05.pdf",
+        "lesson": 75,
+        "date": "2025-12-05",
+        "page": 2
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_75_2025_12_05-0016",
+      "farsi": "لاغر",
+      "transliteration": "lāghar",
+      "english": "skinny / thin",
+      "partOfSpeech": "adjective",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_75_2025-12-05.pdf",
+        "lesson": 75,
+        "date": "2025-12-05",
+        "page": 2
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_75_2025_12_05-0017",
+      "farsi": "پیشرفته",
+      "transliteration": "pisharafte",
+      "english": "advanced",
+      "partOfSpeech": "adjective",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_75_2025-12-05.pdf",
+        "lesson": 75,
+        "date": "2025-12-05",
+        "page": 2
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_75_2025_12_05-0018",
+      "farsi": "پس گرفتن",
+      "transliteration": "pas gereftan",
+      "english": "to take back",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_75_2025-12-05.pdf",
+        "lesson": 75,
+        "date": "2025-12-05",
+        "page": 2
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_75_2025_12_05-0019",
+      "farsi": "بی نظیر / یکی از نوعش",
+      "transliteration": "bi nazir / yeki az noo'esh",
+      "english": "one of a kind / amazing",
+      "partOfSpeech": "phrase",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_75_2025-12-05.pdf",
+        "lesson": 75,
+        "date": "2025-12-05",
+        "page": 2
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_75_2025_12_05-0020",
+      "farsi": "هیجان زده",
+      "transliteration": "heyajān zade",
+      "english": "excited",
+      "partOfSpeech": "adjective",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_75_2025-12-05.pdf",
+        "lesson": 75,
+        "date": "2025-12-05",
+        "page": 3
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_75_2025_12_05-0021",
+      "farsi": "استعفا دادن",
+      "transliteration": "este'fā dādan",
+      "english": "to quit a job / to resign",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_75_2025-12-05.pdf",
+        "lesson": 75,
+        "date": "2025-12-05",
+        "page": 3
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_75_2025_12_05-0022",
+      "farsi": "بعضی وقت‌ها",
+      "transliteration": "ba'zi vaghtā",
+      "english": "sometimes",
+      "partOfSpeech": "adverb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_75_2025-12-05.pdf",
+        "lesson": 75,
+        "date": "2025-12-05",
+        "page": 3
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_75_2025_12_05-0023",
+      "farsi": "اولویت",
+      "transliteration": "olaviyat",
+      "english": "priority",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_75_2025-12-05.pdf",
+        "lesson": 75,
+        "date": "2025-12-05",
+        "page": 3
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_75_2025_12_05-0024",
+      "farsi": "شخصیت",
+      "transliteration": "shakhsiyat",
+      "english": "character / personality",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_75_2025-12-05.pdf",
+        "lesson": 75,
+        "date": "2025-12-05",
+        "page": 3
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_75_2025_12_05-0025",
+      "farsi": "نادر",
+      "transliteration": "nāder",
+      "english": "rare",
+      "partOfSpeech": "adjective",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_75_2025-12-05.pdf",
+        "lesson": 75,
+        "date": "2025-12-05",
+        "page": 3
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_75_2025_12_05-0026",
+      "farsi": "در نهایت",
+      "transliteration": "dar nahāyat",
+      "english": "in the end / eventually",
+      "partOfSpeech": "adverb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_75_2025-12-05.pdf",
+        "lesson": 75,
+        "date": "2025-12-05",
+        "page": 3
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_75_2025_12_05-0027",
+      "farsi": "رویا",
+      "transliteration": "royā",
+      "english": "dream",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_75_2025-12-05.pdf",
+        "lesson": 75,
+        "date": "2025-12-05",
+        "page": 3
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_75_2025_12_05-0028",
+      "farsi": "در عین حال",
+      "transliteration": "dar eyn hāl",
+      "english": "at the same time",
+      "partOfSpeech": "adverb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_75_2025-12-05.pdf",
+        "lesson": 75,
+        "date": "2025-12-05",
+        "page": 3
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_75_2025_12_05-0029",
+      "farsi": "نوجوان",
+      "transliteration": "no javoon",
+      "english": "adolescent / teenager",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_75_2025-12-05.pdf",
+        "lesson": 75,
+        "date": "2025-12-05",
+        "page": 3
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_75_2025_12_05-0030",
+      "farsi": "بلند پرواز",
+      "transliteration": "boland parvāz",
+      "english": "ambitious",
+      "partOfSpeech": "adjective",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_75_2025-12-05.pdf",
+        "lesson": 75,
+        "date": "2025-12-05",
+        "page": 3
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_75_2025_12_05-0031",
+      "farsi": "جاه‌طلب",
+      "transliteration": "jāh talab",
+      "english": "greedy for good positions",
+      "partOfSpeech": "adjective",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_75_2025-12-05.pdf",
+        "lesson": 75,
+        "date": "2025-12-05",
+        "page": 3
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_75_2025_12_05-0032",
+      "farsi": "ارزیابی",
+      "transliteration": "arziyābi",
+      "english": "evaluation",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_75_2025-12-05.pdf",
+        "lesson": 75,
+        "date": "2025-12-05",
+        "page": 3
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_75_2025_12_05-0033",
+      "farsi": "پتانسیل",
+      "transliteration": "potānsiel",
+      "english": "potential",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_75_2025-12-05.pdf",
+        "lesson": 75,
+        "date": "2025-12-05",
+        "page": 3
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_75_2025_12_05-0034",
+      "farsi": "نماینده",
+      "transliteration": "nemāyande",
+      "english": "representative",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_75_2025-12-05.pdf",
+        "lesson": 75,
+        "date": "2025-12-05",
+        "page": 3
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_75_2025_12_05-0035",
+      "farsi": "چیزی رو دنبال کردن",
+      "transliteration": "chizi ro donbāl kardan",
+      "english": "to follow something / to keep track of",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_75_2025-12-05.pdf",
+        "lesson": 75,
+        "date": "2025-12-05",
+        "page": 3
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_75_2025_12_05-0036",
+      "farsi": "هشدار",
+      "transliteration": "hoshdar",
+      "english": "warning",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_75_2025-12-05.pdf",
+        "lesson": 75,
+        "date": "2025-12-05",
+        "page": 3
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_75_2025_12_05-0037",
+      "farsi": "هشدار دادن",
+      "transliteration": "hoshdar dādan",
+      "english": "to warn",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_75_2025-12-05.pdf",
+        "lesson": 75,
+        "date": "2025-12-05",
+        "page": 3
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_75_2025_12_05-0038",
+      "farsi": "امکان پذیر",
+      "transliteration": "emkān pazir",
+      "english": "possible",
+      "partOfSpeech": "adjective",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_75_2025-12-05.pdf",
+        "lesson": 75,
+        "date": "2025-12-05",
+        "page": 3
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_75_2025_12_05-0039",
+      "farsi": "حرفه‌ای",
+      "transliteration": "herfe'i",
+      "english": "professional",
+      "partOfSpeech": "adjective",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_75_2025-12-05.pdf",
+        "lesson": 75,
+        "date": "2025-12-05",
+        "page": 4
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_75_2025_12_05-0040",
+      "farsi": "فعال",
+      "transliteration": "fa'āl",
+      "english": "active",
+      "partOfSpeech": "adjective",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_75_2025-12-05.pdf",
+        "lesson": 75,
+        "date": "2025-12-05",
+        "page": 4
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_75_2025_12_05-0041",
+      "farsi": "غیر فعال",
+      "transliteration": "gheyre fa'āl",
+      "english": "inactive",
+      "partOfSpeech": "adjective",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_75_2025-12-05.pdf",
+        "lesson": 75,
+        "date": "2025-12-05",
+        "page": 4
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_75_2025_12_05-0042",
+      "farsi": "ادعا کردن",
+      "transliteration": "ede'ā kardan",
+      "english": "to make a claim",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_75_2025-12-05.pdf",
+        "lesson": 75,
+        "date": "2025-12-05",
+        "page": 4
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_75_2025_12_05-0043",
+      "farsi": "چاپ کردن",
+      "transliteration": "chāp kardan",
+      "english": "to print",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_75_2025-12-05.pdf",
+        "lesson": 75,
+        "date": "2025-12-05",
+        "page": 4
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_75_2025_12_05-0044",
+      "farsi": "دود شد رفت هوا",
+      "transliteration": "dood shad raft havā",
+      "english": "it turned to smoke and went up in the air (lost/gone)",
+      "partOfSpeech": "phrase",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_75_2025-12-05.pdf",
+        "lesson": 75,
+        "date": "2025-12-05",
+        "page": 4
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_75_2025_12_05-0045",
+      "farsi": "شدنیه",
+      "transliteration": "shodanie",
+      "english": "it's feasible / it's possible",
+      "partOfSpeech": "phrase",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_75_2025-12-05.pdf",
+        "lesson": 75,
+        "date": "2025-12-05",
+        "page": 4
+      },
+      "needsReview": true
+    }
+  ]
+}

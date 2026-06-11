@@ -1,0 +1,373 @@
+{
+  "source": {
+    "file": "Lesson_68_2025-10-08.pdf",
+    "lesson": null,
+    "date": "2025-10-08"
+  },
+  "notes": "HANDWRITTEN – agent vision extraction needed. Fill in entries array.",
+  "pages": [
+    "content/pages/note_2025_10_08/p01.png"
+  ],
+  "entries": [
+    {
+      "id": "lesson_68_2025_10_08-0000",
+      "farsi": "یدک",
+      "transliteration": "yadak",
+      "english": "spare / backup",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_68_2025-10-08.pdf",
+        "lesson": 68,
+        "date": "2025-10-08",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_68_2025_10_08-0001",
+      "farsi": "آهن ربا",
+      "transliteration": "āhan robā",
+      "english": "magnet",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_68_2025-10-08.pdf",
+        "lesson": 68,
+        "date": "2025-10-08",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_68_2025_10_08-0002",
+      "farsi": "مهندسی عمران",
+      "transliteration": "mohandesi omrān",
+      "english": "civil engineering",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_68_2025-10-08.pdf",
+        "lesson": 68,
+        "date": "2025-10-08",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_68_2025_10_08-0003",
+      "farsi": "مدرک لیسانس",
+      "transliteration": "madrak lisāns",
+      "english": "bachelor's degree",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_68_2025-10-08.pdf",
+        "lesson": 68,
+        "date": "2025-10-08",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_68_2025_10_08-0004",
+      "farsi": "بی‌کاری",
+      "transliteration": "bi kāri",
+      "english": "unemployment",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_68_2025-10-08.pdf",
+        "lesson": 68,
+        "date": "2025-10-08",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_68_2025_10_08-0005",
+      "farsi": "بازار کار",
+      "transliteration": "bāzāre kār",
+      "english": "job market",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_68_2025-10-08.pdf",
+        "lesson": 68,
+        "date": "2025-10-08",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_68_2025_10_08-0006",
+      "farsi": "مقایسه کردن",
+      "transliteration": "moghāyese kardan",
+      "english": "to make a comparison",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_68_2025-10-08.pdf",
+        "lesson": 68,
+        "date": "2025-10-08",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_68_2025_10_08-0007",
+      "farsi": "افسانه",
+      "transliteration": "afsāne",
+      "english": "myth / legend",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_68_2025-10-08.pdf",
+        "lesson": 68,
+        "date": "2025-10-08",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_68_2025_10_08-0008",
+      "farsi": "هم‌نظر",
+      "transliteration": "hamnazar",
+      "english": "2 people who have the same opinion",
+      "partOfSpeech": "adjective",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_68_2025-10-08.pdf",
+        "lesson": 68,
+        "date": "2025-10-08",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_68_2025_10_08-0009",
+      "farsi": "جایی که",
+      "transliteration": "jāyi ke",
+      "english": "where (as a statement)",
+      "partOfSpeech": "conjunction",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_68_2025-10-08.pdf",
+        "lesson": 68,
+        "date": "2025-10-08",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_68_2025_10_08-0010",
+      "farsi": "ازش نون و آب نمیشه",
+      "transliteration": "azesh noon va āb nemishe",
+      "english": "you can not make a living out of it",
+      "partOfSpeech": "phrase",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_68_2025-10-08.pdf",
+        "lesson": 68,
+        "date": "2025-10-08",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_68_2025_10_08-0011",
+      "farsi": "حوصله‌ام سر رفته",
+      "transliteration": "howsele'am sar rafte",
+      "english": "I'm bored",
+      "partOfSpeech": "phrase",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_68_2025-10-08.pdf",
+        "lesson": 68,
+        "date": "2025-10-08",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_68_2025_10_08-0012",
+      "farsi": "کلافه",
+      "transliteration": "kalāfe",
+      "english": "frustrated",
+      "partOfSpeech": "adjective",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_68_2025-10-08.pdf",
+        "lesson": 68,
+        "date": "2025-10-08",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_68_2025_10_08-0013",
+      "farsi": "تاریخ",
+      "transliteration": "tārikh",
+      "english": "history / date",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_68_2025-10-08.pdf",
+        "lesson": 68,
+        "date": "2025-10-08",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_68_2025_10_08-0014",
+      "farsi": "تأخیر",
+      "transliteration": "ta'khir",
+      "english": "delay",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_68_2025-10-08.pdf",
+        "lesson": 68,
+        "date": "2025-10-08",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_68_2025_10_08-0015",
+      "farsi": "تغییر",
+      "transliteration": "taghyir",
+      "english": "change",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_68_2025-10-08.pdf",
+        "lesson": 68,
+        "date": "2025-10-08",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_68_2025_10_08-0016",
+      "farsi": "تحقیق",
+      "transliteration": "tahghigh",
+      "english": "research",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_68_2025-10-08.pdf",
+        "lesson": 68,
+        "date": "2025-10-08",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_68_2025_10_08-0017",
+      "farsi": "تحقیر",
+      "transliteration": "tahghir",
+      "english": "humiliation",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_68_2025-10-08.pdf",
+        "lesson": 68,
+        "date": "2025-10-08",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_68_2025_10_08-0018",
+      "farsi": "عرضه و تقاضا",
+      "transliteration": "arzeh va taghāzā",
+      "english": "supply and demand",
+      "partOfSpeech": "phrase",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_68_2025-10-08.pdf",
+        "lesson": 68,
+        "date": "2025-10-08",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_68_2025_10_08-0019",
+      "farsi": "تحقیق",
+      "transliteration": "tahghigh",
+      "english": "research",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_68_2025-10-08.pdf",
+        "lesson": 68,
+        "date": "2025-10-08",
+        "page": 1
+      },
+      "needsReview": true
+    }
+  ]
+}

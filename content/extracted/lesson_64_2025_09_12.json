@@ -1,0 +1,428 @@
+{
+  "source": {
+    "file": "Lesson_64_2025-09-12.pdf",
+    "lesson": null,
+    "date": "2025-09-12"
+  },
+  "notes": "HANDWRITTEN – agent vision extraction needed. Fill in entries array.",
+  "pages": [
+    "content/pages/note_2025_09_12/p01.png",
+    "content/pages/note_2025_09_12/p02.png"
+  ],
+  "entries": [
+    {
+      "id": "lesson_64_2025_09_12-0000",
+      "farsi": "خلیفه",
+      "transliteration": "khalife",
+      "english": "Caliph",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_64_2025-09-12.pdf",
+        "lesson": 64,
+        "date": "2025-09-12",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_64_2025_09_12-0001",
+      "farsi": "مسلمون",
+      "transliteration": "mosalmoon",
+      "english": "Muslim",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_64_2025-09-12.pdf",
+        "lesson": 64,
+        "date": "2025-09-12",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_64_2025_09_12-0002",
+      "farsi": "کلیسا",
+      "transliteration": "kelisā",
+      "english": "church",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_64_2025-09-12.pdf",
+        "lesson": 64,
+        "date": "2025-09-12",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_64_2025_09_12-0003",
+      "farsi": "قرون وسطا",
+      "transliteration": "ghoroone vostā",
+      "english": "middle ages",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_64_2025-09-12.pdf",
+        "lesson": 64,
+        "date": "2025-09-12",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_64_2025_09_12-0004",
+      "farsi": "پرده",
+      "transliteration": "parde",
+      "english": "curtain",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_64_2025-09-12.pdf",
+        "lesson": 64,
+        "date": "2025-09-12",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_64_2025_09_12-0005",
+      "farsi": "صفحه",
+      "transliteration": "sofhe",
+      "english": "page / screen",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_64_2025-09-12.pdf",
+        "lesson": 64,
+        "date": "2025-09-12",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_64_2025_09_12-0006",
+      "farsi": "نیم دایره",
+      "transliteration": "nim dāyre",
+      "english": "half-circle",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_64_2025-09-12.pdf",
+        "lesson": 64,
+        "date": "2025-09-12",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_64_2025_09_12-0007",
+      "farsi": "نقاشی کردن / کشیدن",
+      "transliteration": "naghāshi kardan / keshidan",
+      "english": "to draw",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_64_2025-09-12.pdf",
+        "lesson": 64,
+        "date": "2025-09-12",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_64_2025_09_12-0008",
+      "farsi": "مغول",
+      "transliteration": "moghol",
+      "english": "Mongol",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_64_2025-09-12.pdf",
+        "lesson": 64,
+        "date": "2025-09-12",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_64_2025_09_12-0009",
+      "farsi": "عثمانی",
+      "transliteration": "osmāni",
+      "english": "Ottoman",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_64_2025-09-12.pdf",
+        "lesson": 64,
+        "date": "2025-09-12",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_64_2025_09_12-0010",
+      "farsi": "پیامبر",
+      "transliteration": "peyāmbar",
+      "english": "prophet",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_64_2025-09-12.pdf",
+        "lesson": 64,
+        "date": "2025-09-12",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_64_2025_09_12-0011",
+      "farsi": "مسیح",
+      "transliteration": "masih",
+      "english": "Christ",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_64_2025-09-12.pdf",
+        "lesson": 64,
+        "date": "2025-09-12",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_64_2025_09_12-0012",
+      "farsi": "مسیحی",
+      "transliteration": "masihi",
+      "english": "Christian",
+      "partOfSpeech": "adjective",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_64_2025-09-12.pdf",
+        "lesson": 64,
+        "date": "2025-09-12",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_64_2025_09_12-0013",
+      "farsi": "مسیحیت",
+      "transliteration": "masihiyat",
+      "english": "Christianity",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_64_2025-09-12.pdf",
+        "lesson": 64,
+        "date": "2025-09-12",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_64_2025_09_12-0014",
+      "farsi": "یونان",
+      "transliteration": "yoonān",
+      "english": "Greece",
+      "partOfSpeech": "proper noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_64_2025-09-12.pdf",
+        "lesson": 64,
+        "date": "2025-09-12",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_64_2025_09_12-0015",
+      "farsi": "یونانی",
+      "transliteration": "yoonāni",
+      "english": "Greek",
+      "partOfSpeech": "adjective",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_64_2025-09-12.pdf",
+        "lesson": 64,
+        "date": "2025-09-12",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_64_2025_09_12-0016",
+      "farsi": "یهودی",
+      "transliteration": "yahudi",
+      "english": "Jewish",
+      "partOfSpeech": "adjective",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_64_2025-09-12.pdf",
+        "lesson": 64,
+        "date": "2025-09-12",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_64_2025_09_12-0017",
+      "farsi": "یهودیت",
+      "transliteration": "yahudiyat",
+      "english": "Judaism",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_64_2025-09-12.pdf",
+        "lesson": 64,
+        "date": "2025-09-12",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_64_2025_09_12-0018",
+      "farsi": "امضا",
+      "transliteration": "emzā",
+      "english": "signature",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_64_2025-09-12.pdf",
+        "lesson": 64,
+        "date": "2025-09-12",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_64_2025_09_12-0019",
+      "farsi": "منظو",
+      "transliteration": "manzoor",
+      "english": "view",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_64_2025-09-12.pdf",
+        "lesson": 64,
+        "date": "2025-09-12",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_64_2025_09_12-0020",
+      "farsi": "توی بیشتر مواد",
+      "transliteration": "tooy bishtar mavāred",
+      "english": "in the majority of cases",
+      "partOfSpeech": "phrase",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_64_2025-09-12.pdf",
+        "lesson": 64,
+        "date": "2025-09-12",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_64_2025_09_12-0021",
+      "farsi": "نور",
+      "transliteration": "noor",
+      "english": "light",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_64_2025-09-12.pdf",
+        "lesson": 64,
+        "date": "2025-09-12",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_64_2025_09_12-0022",
+      "farsi": "وارد شدن",
+      "transliteration": "vāred shodan",
+      "english": "to enter",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_64_2025-09-12.pdf",
+        "lesson": 64,
+        "date": "2025-09-12",
+        "page": 1
+      },
+      "needsReview": true
+    }
+  ]
+}

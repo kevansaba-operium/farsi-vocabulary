@@ -1,0 +1,212 @@
+{
+  "source": {
+    "file": "Lesson_21_2024-09-24.pdf",
+    "lesson": 21,
+    "date": "2024-09-24"
+  },
+  "notes": "HANDWRITTEN – agent vision extraction needed. Fill in entries array.",
+  "pages": [
+    "content/pages/lesson_21_2024_09_24/p01.png",
+    "content/pages/lesson_21_2024_09_24/p02.png"
+  ],
+  "entries": [
+    {
+      "id": "lesson_21_2024_09_24-0000",
+      "farsi": "برخلاف",
+      "transliteration": "bar khalāf",
+      "english": "despite / against",
+      "partOfSpeech": "preposition",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_21_2024-09-24.pdf",
+        "lesson": 21,
+        "date": "2024-09-24",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_21_2024_09_24-0001",
+      "farsi": "تصویر",
+      "transliteration": "tasvir",
+      "english": "image / picture",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_21_2024-09-24.pdf",
+        "lesson": 21,
+        "date": "2024-09-24",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_21_2024_09_24-0002",
+      "farsi": "عکس",
+      "transliteration": "aks",
+      "english": "photo / photograph",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_21_2024-09-24.pdf",
+        "lesson": 21,
+        "date": "2024-09-24",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_21_2024_09_24-0003",
+      "farsi": "ذهن",
+      "transliteration": "zehn",
+      "english": "mind",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_21_2024-09-24.pdf",
+        "lesson": 21,
+        "date": "2024-09-24",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_21_2024_09_24-0004",
+      "farsi": "فرضیه",
+      "transliteration": "farziye",
+      "english": "hypothesis",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_21_2024-09-24.pdf",
+        "lesson": 21,
+        "date": "2024-09-24",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_21_2024_09_24-0005",
+      "farsi": "نژاد",
+      "transliteration": "nezhād",
+      "english": "1) breed  2) race",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_21_2024-09-24.pdf",
+        "lesson": 21,
+        "date": "2024-09-24",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_21_2024_09_24-0006",
+      "farsi": "نژادپرست",
+      "transliteration": "nezhādparast",
+      "english": "racist",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_21_2024-09-24.pdf",
+        "lesson": 21,
+        "date": "2024-09-24",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_21_2024_09_24-0007",
+      "farsi": "نژادپرستی",
+      "transliteration": "nezhādparasti",
+      "english": "racism",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_21_2024-09-24.pdf",
+        "lesson": 21,
+        "date": "2024-09-24",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_21_2024_09_24-0008",
+      "farsi": "لوس",
+      "transliteration": "loos",
+      "english": "spoiled (person)",
+      "partOfSpeech": "adjective",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_21_2024-09-24.pdf",
+        "lesson": 21,
+        "date": "2024-09-24",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_21_2024_09_24-0009",
+      "farsi": "بر زدن",
+      "transliteration": "bar zadan",
+      "english": "to shuffle (cards)",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_21_2024-09-24.pdf",
+        "lesson": 21,
+        "date": "2024-09-24",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_21_2024_09_24-0010",
+      "farsi": "جامعه",
+      "transliteration": "jāme'e",
+      "english": "society",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_21_2024-09-24.pdf",
+        "lesson": 21,
+        "date": "2024-09-24",
+        "page": 1
+      },
+      "needsReview": true
+    }
+  ]
+}

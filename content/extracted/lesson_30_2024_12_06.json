@@ -1,0 +1,391 @@
+{
+  "source": {
+    "file": "Lesson_30_2024-12-06.pdf",
+    "lesson": null,
+    "date": "2024-12-06"
+  },
+  "notes": "HANDWRITTEN – agent vision extraction needed. Fill in entries array.",
+  "pages": [
+    "content/pages/note_2024_12_06/p01.png"
+  ],
+  "entries": [
+    {
+      "id": "lesson_30_2024_12_06-0000",
+      "farsi": "دید",
+      "transliteration": "did",
+      "english": "vision / perspective",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_30_2024-12-06.pdf",
+        "lesson": 30,
+        "date": "2024-12-06",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_30_2024_12_06-0001",
+      "farsi": "تجربه",
+      "transliteration": "tajrobe",
+      "english": "experience",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_30_2024-12-06.pdf",
+        "lesson": 30,
+        "date": "2024-12-06",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_30_2024_12_06-0002",
+      "farsi": "شرط",
+      "transliteration": "shart",
+      "english": "condition",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_30_2024-12-06.pdf",
+        "lesson": 30,
+        "date": "2024-12-06",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_30_2024_12_06-0003",
+      "farsi": "کشاورزی",
+      "transliteration": "keshāvarzi",
+      "english": "agriculture",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_30_2024-12-06.pdf",
+        "lesson": 30,
+        "date": "2024-12-06",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_30_2024_12_06-0004",
+      "farsi": "امیر",
+      "transliteration": "amir",
+      "english": "prince / commander",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_30_2024-12-06.pdf",
+        "lesson": 30,
+        "date": "2024-12-06",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_30_2024_12_06-0005",
+      "farsi": "قرن",
+      "transliteration": "gharn",
+      "english": "century",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_30_2024-12-06.pdf",
+        "lesson": 30,
+        "date": "2024-12-06",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_30_2024_12_06-0006",
+      "farsi": "قبیله",
+      "transliteration": "ghabile",
+      "english": "tribe",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_30_2024-12-06.pdf",
+        "lesson": 30,
+        "date": "2024-12-06",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_30_2024_12_06-0007",
+      "farsi": "نیاکان",
+      "transliteration": "niyākān",
+      "english": "ancestors",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_30_2024-12-06.pdf",
+        "lesson": 30,
+        "date": "2024-12-06",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_30_2024_12_06-0008",
+      "farsi": "چیدن",
+      "transliteration": "chidan",
+      "english": "to pick (fruits)",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_30_2024-12-06.pdf",
+        "lesson": 30,
+        "date": "2024-12-06",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_30_2024_12_06-0009",
+      "farsi": "شکار",
+      "transliteration": "shekār",
+      "english": "hunting / hunting prey",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_30_2024-12-06.pdf",
+        "lesson": 30,
+        "date": "2024-12-06",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_30_2024_12_06-0010",
+      "farsi": "شکارچی",
+      "transliteration": "shekārchi",
+      "english": "hunter",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_30_2024-12-06.pdf",
+        "lesson": 30,
+        "date": "2024-12-06",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_30_2024_12_06-0011",
+      "farsi": "نقشه",
+      "transliteration": "naghshe",
+      "english": "map",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_30_2024-12-06.pdf",
+        "lesson": 30,
+        "date": "2024-12-06",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_30_2024_12_06-0012",
+      "farsi": "سه بعدی",
+      "transliteration": "se bo'di",
+      "english": "3-dimensional",
+      "partOfSpeech": "adjective",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_30_2024-12-06.pdf",
+        "lesson": 30,
+        "date": "2024-12-06",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_30_2024_12_06-0013",
+      "farsi": "رابطه",
+      "transliteration": "rābete",
+      "english": "relation",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_30_2024-12-06.pdf",
+        "lesson": 30,
+        "date": "2024-12-06",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_30_2024_12_06-0014",
+      "farsi": "گزاشتن",
+      "transliteration": "gozāshtan",
+      "english": "1) to save  2) to put",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_30_2024-12-06.pdf",
+        "lesson": 30,
+        "date": "2024-12-06",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_30_2024_12_06-0015",
+      "farsi": "پیچیده",
+      "transliteration": "pichide",
+      "english": "complicated / complex",
+      "partOfSpeech": "adjective",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_30_2024-12-06.pdf",
+        "lesson": 30,
+        "date": "2024-12-06",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_30_2024_12_06-0016",
+      "farsi": "پیچیدگی",
+      "transliteration": "pichidegi",
+      "english": "complexity",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_30_2024-12-06.pdf",
+        "lesson": 30,
+        "date": "2024-12-06",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_30_2024_12_06-0017",
+      "farsi": "تخصص",
+      "transliteration": "takhassos",
+      "english": "speciality / specialization",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_30_2024-12-06.pdf",
+        "lesson": 30,
+        "date": "2024-12-06",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_30_2024_12_06-0018",
+      "farsi": "متخصص",
+      "transliteration": "motakhasses",
+      "english": "a person who has a speciality",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_30_2024-12-06.pdf",
+        "lesson": 30,
+        "date": "2024-12-06",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_30_2024_12_06-0019",
+      "farsi": "تولید کردن",
+      "transliteration": "tolid kardan",
+      "english": "to produce",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_30_2024-12-06.pdf",
+        "lesson": 30,
+        "date": "2024-12-06",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_30_2024_12_06-0020",
+      "farsi": "پدیده",
+      "transliteration": "padide",
+      "english": "phenomenon",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_30_2024-12-06.pdf",
+        "lesson": 30,
+        "date": "2024-12-06",
+        "page": 1
+      },
+      "needsReview": true
+    }
+  ]
+}

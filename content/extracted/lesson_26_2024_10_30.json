@@ -1,0 +1,319 @@
+{
+  "source": {
+    "file": "Lesson_26_2024-10-30.pdf",
+    "lesson": null,
+    "date": "2024-10-30"
+  },
+  "notes": "HANDWRITTEN – agent vision extraction needed. Fill in entries array.",
+  "pages": [
+    "content/pages/note_2024_10_30/p01.png"
+  ],
+  "entries": [
+    {
+      "id": "lesson_26_2024_10_30-0000",
+      "farsi": "مدت",
+      "transliteration": "moddat",
+      "english": "long-term / duration",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_26_2024-10-30.pdf",
+        "lesson": 26,
+        "date": "2024-10-30",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_26_2024_10_30-0001",
+      "farsi": "کوتاه مدت",
+      "transliteration": "kutāh moddat",
+      "english": "short-term",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_26_2024-10-30.pdf",
+        "lesson": 26,
+        "date": "2024-10-30",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_26_2024_10_30-0002",
+      "farsi": "کلافه",
+      "transliteration": "kalāfe",
+      "english": "frustrated",
+      "partOfSpeech": "adjective",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_26_2024-10-30.pdf",
+        "lesson": 26,
+        "date": "2024-10-30",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_26_2024_10_30-0003",
+      "farsi": "آگاه بودن از",
+      "transliteration": "āgāh budan az",
+      "english": "to be aware of something",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_26_2024-10-30.pdf",
+        "lesson": 26,
+        "date": "2024-10-30",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_26_2024_10_30-0004",
+      "farsi": "فرصت",
+      "transliteration": "forsat",
+      "english": "opportunity",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_26_2024-10-30.pdf",
+        "lesson": 26,
+        "date": "2024-10-30",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_26_2024_10_30-0005",
+      "farsi": "قتل",
+      "transliteration": "ghatl",
+      "english": "murder",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_26_2024-10-30.pdf",
+        "lesson": 26,
+        "date": "2024-10-30",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_26_2024_10_30-0006",
+      "farsi": "قاتل",
+      "transliteration": "ghātel",
+      "english": "murderer",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_26_2024-10-30.pdf",
+        "lesson": 26,
+        "date": "2024-10-30",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_26_2024_10_30-0007",
+      "farsi": "حفظ کردن",
+      "transliteration": "hefz kardan",
+      "english": "to memorize",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_26_2024-10-30.pdf",
+        "lesson": 26,
+        "date": "2024-10-30",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_26_2024_10_30-0008",
+      "farsi": "طوطی",
+      "transliteration": "tooti",
+      "english": "parrot",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_26_2024-10-30.pdf",
+        "lesson": 26,
+        "date": "2024-10-30",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_26_2024_10_30-0009",
+      "farsi": "فاعل",
+      "transliteration": "fā'el",
+      "english": "subject (grammar)",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_26_2024-10-30.pdf",
+        "lesson": 26,
+        "date": "2024-10-30",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_26_2024_10_30-0010",
+      "farsi": "مفعول",
+      "transliteration": "maf'ool",
+      "english": "object (grammar)",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_26_2024-10-30.pdf",
+        "lesson": 26,
+        "date": "2024-10-30",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_26_2024_10_30-0011",
+      "farsi": "مراقبت کردن",
+      "transliteration": "morāghabat kardan",
+      "english": "1) to take care of something  2) to look after  3) to protect",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_26_2024-10-30.pdf",
+        "lesson": 26,
+        "date": "2024-10-30",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_26_2024_10_30-0012",
+      "farsi": "خلق کردن",
+      "transliteration": "khalgh kardan",
+      "english": "to create",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_26_2024-10-30.pdf",
+        "lesson": 26,
+        "date": "2024-10-30",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_26_2024_10_30-0013",
+      "farsi": "خالق",
+      "transliteration": "khāleggh",
+      "english": "creator",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_26_2024-10-30.pdf",
+        "lesson": 26,
+        "date": "2024-10-30",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_26_2024_10_30-0014",
+      "farsi": "کشف کردن",
+      "transliteration": "kashf kardan",
+      "english": "to discover",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_26_2024-10-30.pdf",
+        "lesson": 26,
+        "date": "2024-10-30",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_26_2024_10_30-0015",
+      "farsi": "کاشف",
+      "transliteration": "kāshef",
+      "english": "a person who discovered something",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_26_2024-10-30.pdf",
+        "lesson": 26,
+        "date": "2024-10-30",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_26_2024_10_30-0016",
+      "farsi": "جسم + روح",
+      "transliteration": "jesm + rooh",
+      "english": "body + soul (B.S.)",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_26_2024-10-30.pdf",
+        "lesson": 26,
+        "date": "2024-10-30",
+        "page": 1
+      },
+      "needsReview": true
+    }
+  ]
+}

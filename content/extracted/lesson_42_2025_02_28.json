@@ -1,0 +1,301 @@
+{
+  "source": {
+    "file": "Lesson_42_2025-02-28.pdf",
+    "lesson": null,
+    "date": "2025-02-28"
+  },
+  "notes": "HANDWRITTEN – agent vision extraction needed. Fill in entries array.",
+  "pages": [
+    "content/pages/note_2025_02_28/p01.png"
+  ],
+  "entries": [
+    {
+      "id": "lesson_42_2025_02_28-0000",
+      "farsi": "واقعی",
+      "transliteration": "vāghe'i",
+      "english": "real (adj)",
+      "partOfSpeech": "adjective",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_42_2025-02-28.pdf",
+        "lesson": 42,
+        "date": "2025-02-28",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_42_2025_02_28-0001",
+      "farsi": "حریص",
+      "transliteration": "haris",
+      "english": "greedy",
+      "partOfSpeech": "adjective",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_42_2025-02-28.pdf",
+        "lesson": 42,
+        "date": "2025-02-28",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_42_2025_02_28-0002",
+      "farsi": "بحران",
+      "transliteration": "bohrān",
+      "english": "crisis",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_42_2025-02-28.pdf",
+        "lesson": 42,
+        "date": "2025-02-28",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_42_2025_02_28-0003",
+      "farsi": "غر زدن",
+      "transliteration": "ghor zadan",
+      "english": "to nag / to whine",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_42_2025-02-28.pdf",
+        "lesson": 42,
+        "date": "2025-02-28",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_42_2025_02_28-0004",
+      "farsi": "تخمین",
+      "transliteration": "takhmin",
+      "english": "estimate (noun)",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_42_2025-02-28.pdf",
+        "lesson": 42,
+        "date": "2025-02-28",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_42_2025_02_28-0005",
+      "farsi": "تخمین زدن",
+      "transliteration": "takhmin zadan",
+      "english": "to estimate",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_42_2025-02-28.pdf",
+        "lesson": 42,
+        "date": "2025-02-28",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_42_2025_02_28-0006",
+      "farsi": "حزب",
+      "transliteration": "hezb",
+      "english": "party (political)",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_42_2025-02-28.pdf",
+        "lesson": 42,
+        "date": "2025-02-28",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_42_2025_02_28-0007",
+      "farsi": "مهاجر",
+      "transliteration": "mohājer",
+      "english": "immigrant",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_42_2025-02-28.pdf",
+        "lesson": 42,
+        "date": "2025-02-28",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_42_2025_02_28-0008",
+      "farsi": "مستأجر",
+      "transliteration": "mostā'jer",
+      "english": "tenant",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_42_2025-02-28.pdf",
+        "lesson": 42,
+        "date": "2025-02-28",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_42_2025_02_28-0009",
+      "farsi": "یخچال",
+      "transliteration": "yakhchāl",
+      "english": "fridge",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_42_2025-02-28.pdf",
+        "lesson": 42,
+        "date": "2025-02-28",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_42_2025_02_28-0010",
+      "farsi": "تی",
+      "transliteration": "ti",
+      "english": "mop (for cleaning)",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_42_2025-02-28.pdf",
+        "lesson": 42,
+        "date": "2025-02-28",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_42_2025_02_28-0011",
+      "farsi": "جارو",
+      "transliteration": "jāroo",
+      "english": "broom",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_42_2025-02-28.pdf",
+        "lesson": 42,
+        "date": "2025-02-28",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_42_2025_02_28-0012",
+      "farsi": "عجله کردن",
+      "transliteration": "ajale kardan",
+      "english": "to hurry / to rush",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_42_2025-02-28.pdf",
+        "lesson": 42,
+        "date": "2025-02-28",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_42_2025_02_28-0013",
+      "farsi": "پخش کردن",
+      "transliteration": "pakhsh kardan",
+      "english": "to distribute",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_42_2025-02-28.pdf",
+        "lesson": 42,
+        "date": "2025-02-28",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_42_2025_02_28-0014",
+      "farsi": "سرمایه‌گذاری کردن",
+      "transliteration": "sarmāye gozāri kardan",
+      "english": "to invest",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_42_2025-02-28.pdf",
+        "lesson": 42,
+        "date": "2025-02-28",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_42_2025_02_28-0015",
+      "farsi": "سرمایه",
+      "transliteration": "sarmāye",
+      "english": "capital",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_42_2025-02-28.pdf",
+        "lesson": 42,
+        "date": "2025-02-28",
+        "page": 1
+      },
+      "needsReview": true
+    }
+  ]
+}

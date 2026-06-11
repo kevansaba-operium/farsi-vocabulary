@@ -1,0 +1,338 @@
+{
+  "source": {
+    "file": "Lesson_23_2024-10-11.pdf",
+    "lesson": 23,
+    "date": "2024-10-11"
+  },
+  "notes": "HANDWRITTEN – agent vision extraction needed. Fill in entries array.",
+  "pages": [
+    "content/pages/lesson_23_2024_10_11/p01.png",
+    "content/pages/lesson_23_2024_10_11/p02.png"
+  ],
+  "entries": [
+    {
+      "id": "lesson_23_2024_10_11-0000",
+      "farsi": "اجاره",
+      "transliteration": "ejāre",
+      "english": "rent (noun)",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_23_2024-10-11.pdf",
+        "lesson": 23,
+        "date": "2024-10-11",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_23_2024_10_11-0001",
+      "farsi": "اجاره دادن",
+      "transliteration": "ejāre dādan",
+      "english": "to rent out (landlord)",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_23_2024-10-11.pdf",
+        "lesson": 23,
+        "date": "2024-10-11",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_23_2024_10_11-0002",
+      "farsi": "اجاره کردن",
+      "transliteration": "ejāre kardan",
+      "english": "to rent (tenant)",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_23_2024-10-11.pdf",
+        "lesson": 23,
+        "date": "2024-10-11",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_23_2024_10_11-0003",
+      "farsi": "دادگاه",
+      "transliteration": "dādgāh",
+      "english": "court",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_23_2024-10-11.pdf",
+        "lesson": 23,
+        "date": "2024-10-11",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_23_2024_10_11-0004",
+      "farsi": "قرارداد",
+      "transliteration": "gharārdād",
+      "english": "contract",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_23_2024-10-11.pdf",
+        "lesson": 23,
+        "date": "2024-10-11",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_23_2024_10_11-0005",
+      "farsi": "قراردادنامه",
+      "transliteration": "gharārdādname",
+      "english": "the paper of the contract",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_23_2024-10-11.pdf",
+        "lesson": 23,
+        "date": "2024-10-11",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_23_2024_10_11-0006",
+      "farsi": "اعتراض",
+      "transliteration": "e'terāz",
+      "english": "1) protest  2) objection",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_23_2024-10-11.pdf",
+        "lesson": 23,
+        "date": "2024-10-11",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_23_2024_10_11-0007",
+      "farsi": "من اعتراض دارم",
+      "transliteration": "man e'terāz dāram",
+      "english": "I have an objection",
+      "partOfSpeech": "phrase",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_23_2024-10-11.pdf",
+        "lesson": 23,
+        "date": "2024-10-11",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_23_2024_10_11-0008",
+      "farsi": "سیاست مدار",
+      "transliteration": "siyāsat madār",
+      "english": "politician",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_23_2024-10-11.pdf",
+        "lesson": 23,
+        "date": "2024-10-11",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_23_2024_10_11-0009",
+      "farsi": "امضا",
+      "transliteration": "emzā",
+      "english": "signature",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_23_2024-10-11.pdf",
+        "lesson": 23,
+        "date": "2024-10-11",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_23_2024_10_11-0010",
+      "farsi": "امضا کردن",
+      "transliteration": "emzā kardan",
+      "english": "to sign",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_23_2024-10-11.pdf",
+        "lesson": 23,
+        "date": "2024-10-11",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_23_2024_10_11-0011",
+      "farsi": "سوء استفاده کردن",
+      "transliteration": "su'estafāde kardan",
+      "english": "to abuse",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_23_2024-10-11.pdf",
+        "lesson": 23,
+        "date": "2024-10-11",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_23_2024_10_11-0012",
+      "farsi": "نتیجه",
+      "transliteration": "natije",
+      "english": "result / conclusion",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_23_2024-10-11.pdf",
+        "lesson": 23,
+        "date": "2024-10-11",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_23_2024_10_11-0013",
+      "farsi": "انگیزه",
+      "transliteration": "angize",
+      "english": "1) motivation  2) incentive",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_23_2024-10-11.pdf",
+        "lesson": 23,
+        "date": "2024-10-11",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_23_2024_10_11-0014",
+      "farsi": "حیاط",
+      "transliteration": "hayāt",
+      "english": "garden / courtyard",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_23_2024-10-11.pdf",
+        "lesson": 23,
+        "date": "2024-10-11",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_23_2024_10_11-0015",
+      "farsi": "قاضی",
+      "transliteration": "ghāzi",
+      "english": "judge (noun)",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_23_2024-10-11.pdf",
+        "lesson": 23,
+        "date": "2024-10-11",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_23_2024_10_11-0016",
+      "farsi": "مقصر",
+      "transliteration": "moghasser",
+      "english": "at fault / guilty",
+      "partOfSpeech": "adjective",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_23_2024-10-11.pdf",
+        "lesson": 23,
+        "date": "2024-10-11",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_23_2024_10_11-0017",
+      "farsi": "اورژانسی",
+      "transliteration": "oorzhansi",
+      "english": "urgent / emergency",
+      "partOfSpeech": "adjective",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_23_2024-10-11.pdf",
+        "lesson": 23,
+        "date": "2024-10-11",
+        "page": 1
+      },
+      "needsReview": true
+    }
+  ]
+}

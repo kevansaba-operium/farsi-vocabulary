@@ -1,0 +1,140 @@
+{
+  "source": {
+    "file": "Lesson_08_2024-07-14.pdf",
+    "lesson": 8,
+    "date": "2024-07-14"
+  },
+  "notes": "HANDWRITTEN – agent vision extraction needed. Fill in entries array.",
+  "pages": [
+    "content/pages/lesson_08_2024_07_14/p01.png",
+    "content/pages/lesson_08_2024_07_14/p02.png"
+  ],
+  "entries": [
+    {
+      "id": "lesson_08_2024_07_14-0000",
+      "farsi": "کنجکاو",
+      "transliteration": "konjkāv",
+      "english": "curious",
+      "partOfSpeech": "adjective",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_08_2024-07-14.pdf",
+        "lesson": 8,
+        "date": "2024-07-14",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_08_2024_07_14-0001",
+      "farsi": "آوردن",
+      "transliteration": "āvardan",
+      "english": "to bring",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_08_2024-07-14.pdf",
+        "lesson": 8,
+        "date": "2024-07-14",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_08_2024_07_14-0002",
+      "farsi": "بردن",
+      "transliteration": "bordan",
+      "english": "to take",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_08_2024-07-14.pdf",
+        "lesson": 8,
+        "date": "2024-07-14",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_08_2024_07_14-0003",
+      "farsi": "سرعت",
+      "transliteration": "sor'at",
+      "english": "pace / speed",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_08_2024-07-14.pdf",
+        "lesson": 8,
+        "date": "2024-07-14",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_08_2024_07_14-0004",
+      "farsi": "سریع",
+      "transliteration": "sari'",
+      "english": "fast",
+      "partOfSpeech": "adjective",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_08_2024-07-14.pdf",
+        "lesson": 8,
+        "date": "2024-07-14",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_08_2024_07_14-0005",
+      "farsi": "آروم / یواش / کند",
+      "transliteration": "āroom / yavāsh / kand",
+      "english": "slow",
+      "partOfSpeech": "adjective",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_08_2024-07-14.pdf",
+        "lesson": 8,
+        "date": "2024-07-14",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_08_2024_07_14-0006",
+      "farsi": "هیچ",
+      "transliteration": "hich",
+      "english": "none / nothing",
+      "partOfSpeech": "pronoun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_08_2024-07-14.pdf",
+        "lesson": 8,
+        "date": "2024-07-14",
+        "page": 1
+      },
+      "needsReview": true
+    }
+  ]
+}

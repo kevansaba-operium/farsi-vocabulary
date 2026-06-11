@@ -1,0 +1,337 @@
+{
+  "source": {
+    "file": "Lesson_67_2025-10-03.pdf",
+    "lesson": null,
+    "date": "2025-10-03"
+  },
+  "notes": "HANDWRITTEN – agent vision extraction needed. Fill in entries array.",
+  "pages": [
+    "content/pages/note_2025_10_03/p01.png"
+  ],
+  "entries": [
+    {
+      "id": "lesson_67_2025_10_03-0000",
+      "farsi": "ناکجا آباد",
+      "transliteration": "nakojā ābād",
+      "english": "somewhere over there / in the middle of nowhere",
+      "partOfSpeech": "phrase",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_67_2025-10-03.pdf",
+        "lesson": 67,
+        "date": "2025-10-03",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_67_2025_10_03-0001",
+      "farsi": "بین‌شان فاصله افتاده",
+      "transliteration": "beyne onā fāsele oftāde",
+      "english": "they got apart (in the sense they have issues)",
+      "partOfSpeech": "phrase",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_67_2025-10-03.pdf",
+        "lesson": 67,
+        "date": "2025-10-03",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_67_2025_10_03-0002",
+      "farsi": "خاص",
+      "transliteration": "khās",
+      "english": "unique / specific",
+      "partOfSpeech": "adjective",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_67_2025-10-03.pdf",
+        "lesson": 67,
+        "date": "2025-10-03",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_67_2025_10_03-0003",
+      "farsi": "گزینه",
+      "transliteration": "gozine",
+      "english": "option / choice",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_67_2025-10-03.pdf",
+        "lesson": 67,
+        "date": "2025-10-03",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_67_2025_10_03-0004",
+      "farsi": "متحد",
+      "transliteration": "mottahed",
+      "english": "ally / united",
+      "partOfSpeech": "adjective",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_67_2025-10-03.pdf",
+        "lesson": 67,
+        "date": "2025-10-03",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_67_2025_10_03-0005",
+      "farsi": "آبادی",
+      "transliteration": "ābādi",
+      "english": "settlement / village",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_67_2025-10-03.pdf",
+        "lesson": 67,
+        "date": "2025-10-03",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_67_2025_10_03-0006",
+      "farsi": "بکر",
+      "transliteration": "bekr",
+      "english": "untouched / virgin",
+      "partOfSpeech": "adjective",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_67_2025-10-03.pdf",
+        "lesson": 67,
+        "date": "2025-10-03",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_67_2025_10_03-0007",
+      "farsi": "طیف",
+      "transliteration": "teyf",
+      "english": "spectrum",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_67_2025-10-03.pdf",
+        "lesson": 67,
+        "date": "2025-10-03",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_67_2025_10_03-0008",
+      "farsi": "ماست",
+      "transliteration": "māst",
+      "english": "yogurt",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_67_2025-10-03.pdf",
+        "lesson": 67,
+        "date": "2025-10-03",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_67_2025_10_03-0009",
+      "farsi": "کلمه",
+      "transliteration": "kalame",
+      "english": "vocabulary word",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_67_2025-10-03.pdf",
+        "lesson": 67,
+        "date": "2025-10-03",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_67_2025_10_03-0010",
+      "farsi": "واژه",
+      "transliteration": "vāzhe",
+      "english": "word / term",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_67_2025-10-03.pdf",
+        "lesson": 67,
+        "date": "2025-10-03",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_67_2025_10_03-0011",
+      "farsi": "استعمار کردن",
+      "transliteration": "este'mār kardan",
+      "english": "to colonize",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_67_2025-10-03.pdf",
+        "lesson": 67,
+        "date": "2025-10-03",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_67_2025_10_03-0012",
+      "farsi": "رسمی",
+      "transliteration": "rasmi",
+      "english": "official / formal",
+      "partOfSpeech": "adjective",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_67_2025-10-03.pdf",
+        "lesson": 67,
+        "date": "2025-10-03",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_67_2025_10_03-0013",
+      "farsi": "رسید",
+      "transliteration": "resid",
+      "english": "receipt",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_67_2025-10-03.pdf",
+        "lesson": 67,
+        "date": "2025-10-03",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_67_2025_10_03-0014",
+      "farsi": "دشمنی",
+      "transliteration": "doshmani",
+      "english": "resentment / hostility",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_67_2025-10-03.pdf",
+        "lesson": 67,
+        "date": "2025-10-03",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_67_2025_10_03-0015",
+      "farsi": "اغراق کردن",
+      "transliteration": "eghrāgh kardan",
+      "english": "to exaggerate",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_67_2025-10-03.pdf",
+        "lesson": 67,
+        "date": "2025-10-03",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_67_2025_10_03-0016",
+      "farsi": "جریمه شدن",
+      "transliteration": "jarime shodan",
+      "english": "to get a penalty / fine",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_67_2025-10-03.pdf",
+        "lesson": 67,
+        "date": "2025-10-03",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_67_2025_10_03-0017",
+      "farsi": "تعادل",
+      "transliteration": "ta'ādol",
+      "english": "balance / equilibrium",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_67_2025-10-03.pdf",
+        "lesson": 67,
+        "date": "2025-10-03",
+        "page": 1
+      },
+      "needsReview": true
+    }
+  ]
+}

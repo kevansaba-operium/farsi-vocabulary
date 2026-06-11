@@ -1,0 +1,230 @@
+{
+  "source": {
+    "file": "Lesson_17_2024-08-27.pdf",
+    "lesson": 17,
+    "date": "2024-08-27"
+  },
+  "notes": "HANDWRITTEN – agent vision extraction needed. Fill in entries array.",
+  "pages": [
+    "content/pages/lesson_17_2024_08_27/p01.png",
+    "content/pages/lesson_17_2024_08_27/p02.png"
+  ],
+  "entries": [
+    {
+      "id": "lesson_17_2024_08_27-0000",
+      "farsi": "شیمی",
+      "transliteration": "shimi",
+      "english": "chemistry",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_17_2024-08-27.pdf",
+        "lesson": 17,
+        "date": "2024-08-27",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_17_2024_08_27-0001",
+      "farsi": "ادبیات",
+      "transliteration": "adabiyāt",
+      "english": "literature",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_17_2024-08-27.pdf",
+        "lesson": 17,
+        "date": "2024-08-27",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_17_2024_08_27-0002",
+      "farsi": "ناراحتی",
+      "transliteration": "nārāhati",
+      "english": "sadness / upset",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_17_2024-08-27.pdf",
+        "lesson": 17,
+        "date": "2024-08-27",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_17_2024_08_27-0003",
+      "farsi": "ناراحت کردن",
+      "transliteration": "nārāhat kardan",
+      "english": "to make upset",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_17_2024-08-27.pdf",
+        "lesson": 17,
+        "date": "2024-08-27",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_17_2024_08_27-0004",
+      "farsi": "استعداد",
+      "transliteration": "este'dād",
+      "english": "talent",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_17_2024-08-27.pdf",
+        "lesson": 17,
+        "date": "2024-08-27",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_17_2024_08_27-0005",
+      "farsi": "بیمه",
+      "transliteration": "bime",
+      "english": "insurance",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_17_2024-08-27.pdf",
+        "lesson": 17,
+        "date": "2024-08-27",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_17_2024_08_27-0006",
+      "farsi": "تبلیغ",
+      "transliteration": "tablight",
+      "english": "advertisement",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_17_2024-08-27.pdf",
+        "lesson": 17,
+        "date": "2024-08-27",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_17_2024_08_27-0007",
+      "farsi": "تبلیغ کردن",
+      "transliteration": "tablight kardan",
+      "english": "to advertise",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_17_2024-08-27.pdf",
+        "lesson": 17,
+        "date": "2024-08-27",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_17_2024_08_27-0008",
+      "farsi": "ریاضی",
+      "transliteration": "riyāzi",
+      "english": "math",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_17_2024-08-27.pdf",
+        "lesson": 17,
+        "date": "2024-08-27",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_17_2024_08_27-0009",
+      "farsi": "نفت",
+      "transliteration": "naft",
+      "english": "oil (black)",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_17_2024-08-27.pdf",
+        "lesson": 17,
+        "date": "2024-08-27",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_17_2024_08_27-0010",
+      "farsi": "روغن",
+      "transliteration": "roghon",
+      "english": "cooking oil",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_17_2024-08-27.pdf",
+        "lesson": 17,
+        "date": "2024-08-27",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_17_2024_08_27-0011",
+      "farsi": "سود",
+      "transliteration": "sood",
+      "english": "interest (financial)",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_17_2024-08-27.pdf",
+        "lesson": 17,
+        "date": "2024-08-27",
+        "page": 1
+      },
+      "needsReview": true
+    }
+  ]
+}

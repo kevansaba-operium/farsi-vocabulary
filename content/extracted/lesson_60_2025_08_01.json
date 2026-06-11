@@ -1,0 +1,247 @@
+{
+  "source": {
+    "file": "Lesson_60_2025-08-01.pdf",
+    "lesson": null,
+    "date": "2025-08-01"
+  },
+  "notes": "HANDWRITTEN – agent vision extraction needed. Fill in entries array.",
+  "pages": [
+    "content/pages/note_2025_08_01/p01.png"
+  ],
+  "entries": [
+    {
+      "id": "lesson_60_2025_08_01-0000",
+      "farsi": "سالگرد",
+      "transliteration": "sālgard",
+      "english": "anniversary",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_60_2025-08-01.pdf",
+        "lesson": 60,
+        "date": "2025-08-01",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_60_2025_08_01-0001",
+      "farsi": "انعطاف",
+      "transliteration": "en'etāf",
+      "english": "flexibility",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_60_2025-08-01.pdf",
+        "lesson": 60,
+        "date": "2025-08-01",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_60_2025_08_01-0002",
+      "farsi": "انعطاف‌پذیر",
+      "transliteration": "en'etāf pazir",
+      "english": "flexible",
+      "partOfSpeech": "adjective",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_60_2025-08-01.pdf",
+        "lesson": 60,
+        "date": "2025-08-01",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_60_2025_08_01-0003",
+      "farsi": "عمل",
+      "transliteration": "amal",
+      "english": "action",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_60_2025-08-01.pdf",
+        "lesson": 60,
+        "date": "2025-08-01",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_60_2025_08_01-0004",
+      "farsi": "فعال",
+      "transliteration": "fa'āl",
+      "english": "active",
+      "partOfSpeech": "adjective",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_60_2025-08-01.pdf",
+        "lesson": 60,
+        "date": "2025-08-01",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_60_2025_08_01-0005",
+      "farsi": "خیال کردم",
+      "transliteration": "khiyāl kardam",
+      "english": "I thought (I was wrong)",
+      "partOfSpeech": "phrase",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_60_2025-08-01.pdf",
+        "lesson": 60,
+        "date": "2025-08-01",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_60_2025_08_01-0006",
+      "farsi": "تحقیق کردن",
+      "transliteration": "tahghigh kardan",
+      "english": "to research",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_60_2025-08-01.pdf",
+        "lesson": 60,
+        "date": "2025-08-01",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_60_2025_08_01-0007",
+      "farsi": "درآوردن",
+      "transliteration": "dar āvardan",
+      "english": "to take off / to remove",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_60_2025-08-01.pdf",
+        "lesson": 60,
+        "date": "2025-08-01",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_60_2025_08_01-0008",
+      "farsi": "مقاله",
+      "transliteration": "maghāle",
+      "english": "article (paper)",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_60_2025-08-01.pdf",
+        "lesson": 60,
+        "date": "2025-08-01",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_60_2025_08_01-0009",
+      "farsi": "خلق کردن",
+      "transliteration": "khalgh kardan",
+      "english": "to create",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_60_2025-08-01.pdf",
+        "lesson": 60,
+        "date": "2025-08-01",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_60_2025_08_01-0010",
+      "farsi": "خلاقیت",
+      "transliteration": "khalāghiyat",
+      "english": "creativity",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_60_2025-08-01.pdf",
+        "lesson": 60,
+        "date": "2025-08-01",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_60_2025_08_01-0011",
+      "farsi": "مشترک",
+      "transliteration": "moshtarak",
+      "english": "common (in between 2 things)",
+      "partOfSpeech": "adjective",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_60_2025-08-01.pdf",
+        "lesson": 60,
+        "date": "2025-08-01",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_60_2025_08_01-0012",
+      "farsi": "مهارت",
+      "transliteration": "mahārat",
+      "english": "skill",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_60_2025-08-01.pdf",
+        "lesson": 60,
+        "date": "2025-08-01",
+        "page": 1
+      },
+      "needsReview": true
+    }
+  ]
+}

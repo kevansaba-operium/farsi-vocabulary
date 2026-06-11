@@ -1,0 +1,283 @@
+{
+  "source": {
+    "file": "Lesson_24_2024-10-18.pdf",
+    "lesson": 24,
+    "date": "2024-10-18"
+  },
+  "notes": "HANDWRITTEN – agent vision extraction needed. Fill in entries array.",
+  "pages": [
+    "content/pages/lesson_24_2024_10_18/p01.png"
+  ],
+  "entries": [
+    {
+      "id": "lesson_24_2024_10_18-0000",
+      "farsi": "استخدام کردن",
+      "transliteration": "estekhdam kardan",
+      "english": "to employ",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_24_2024-10-18.pdf",
+        "lesson": 24,
+        "date": "2024-10-18",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_24_2024_10_18-0001",
+      "farsi": "اخراج کردن",
+      "transliteration": "ekhrāj kardan",
+      "english": "to fire somebody",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_24_2024-10-18.pdf",
+        "lesson": 24,
+        "date": "2024-10-18",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_24_2024_10_18-0002",
+      "farsi": "راه حل",
+      "transliteration": "rāhe hal",
+      "english": "solution",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_24_2024-10-18.pdf",
+        "lesson": 24,
+        "date": "2024-10-18",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_24_2024_10_18-0003",
+      "farsi": "هماهنگ کردن",
+      "transliteration": "hamāhang kardan",
+      "english": "I can arrange a meeting",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_24_2024-10-18.pdf",
+        "lesson": 24,
+        "date": "2024-10-18",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_24_2024_10_18-0004",
+      "farsi": "قرار دادن",
+      "transliteration": "gharār dādan",
+      "english": "to arrange something (in the sense to discuss and agree on sthg)",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_24_2024-10-18.pdf",
+        "lesson": 24,
+        "date": "2024-10-18",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_24_2024_10_18-0005",
+      "farsi": "قرار گذاشتن",
+      "transliteration": "gharār gozāshtan",
+      "english": "to arrange a meeting",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_24_2024-10-18.pdf",
+        "lesson": 24,
+        "date": "2024-10-18",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_24_2024_10_18-0006",
+      "farsi": "گروه",
+      "transliteration": "goruh",
+      "english": "group",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_24_2024-10-18.pdf",
+        "lesson": 24,
+        "date": "2024-10-18",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_24_2024_10_18-0007",
+      "farsi": "هدر دادن",
+      "transliteration": "hadar dādan",
+      "english": "to waste",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_24_2024-10-18.pdf",
+        "lesson": 24,
+        "date": "2024-10-18",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_24_2024_10_18-0008",
+      "farsi": "هدر رفتن",
+      "transliteration": "hadar raftan",
+      "english": "to go to waste",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_24_2024-10-18.pdf",
+        "lesson": 24,
+        "date": "2024-10-18",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_24_2024_10_18-0009",
+      "farsi": "فناوری",
+      "transliteration": "fanāvari",
+      "english": "efficiency",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_24_2024-10-18.pdf",
+        "lesson": 24,
+        "date": "2024-10-18",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_24_2024_10_18-0010",
+      "farsi": "سوسول",
+      "transliteration": "soosool",
+      "english": "an adjective to describe a person who is soft, not tough",
+      "partOfSpeech": "adjective",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_24_2024-10-18.pdf",
+        "lesson": 24,
+        "date": "2024-10-18",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_24_2024_10_18-0011",
+      "farsi": "سست",
+      "transliteration": "sost",
+      "english": "firm / weak",
+      "partOfSpeech": "adjective",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_24_2024-10-18.pdf",
+        "lesson": 24,
+        "date": "2024-10-18",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_24_2024_10_18-0012",
+      "farsi": "ماهی کوچک",
+      "transliteration": "māhi kuchak",
+      "english": "kindle garden (a small fish)",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_24_2024-10-18.pdf",
+        "lesson": 24,
+        "date": "2024-10-18",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_24_2024_10_18-0013",
+      "farsi": "شوخی",
+      "transliteration": "shookhi",
+      "english": "joke",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_24_2024-10-18.pdf",
+        "lesson": 24,
+        "date": "2024-10-18",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_24_2024_10_18-0014",
+      "farsi": "ضعیف",
+      "transliteration": "za'if",
+      "english": "weak (adj)",
+      "partOfSpeech": "adjective",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_24_2024-10-18.pdf",
+        "lesson": 24,
+        "date": "2024-10-18",
+        "page": 1
+      },
+      "needsReview": true
+    }
+  ]
+}

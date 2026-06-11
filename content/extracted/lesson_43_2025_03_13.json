@@ -1,0 +1,302 @@
+{
+  "source": {
+    "file": "Lesson_43_2025-03-13.pdf",
+    "lesson": null,
+    "date": "2025-03-13"
+  },
+  "notes": "HANDWRITTEN – agent vision extraction needed. Fill in entries array.",
+  "pages": [
+    "content/pages/note_2025_03_13/p01.png",
+    "content/pages/note_2025_03_13/p02.png"
+  ],
+  "entries": [
+    {
+      "id": "lesson_43_2025_03_13-0000",
+      "farsi": "روان‌شناسی",
+      "transliteration": "ravān shenāsi",
+      "english": "psychology",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_43_2025-03-13.pdf",
+        "lesson": 43,
+        "date": "2025-03-13",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_43_2025_03_13-0001",
+      "farsi": "بین المللی",
+      "transliteration": "beyn almellali",
+      "english": "international",
+      "partOfSpeech": "adjective",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_43_2025-03-13.pdf",
+        "lesson": 43,
+        "date": "2025-03-13",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_43_2025_03_13-0002",
+      "farsi": "ساحل",
+      "transliteration": "sāhel",
+      "english": "beach",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_43_2025-03-13.pdf",
+        "lesson": 43,
+        "date": "2025-03-13",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_43_2025_03_13-0003",
+      "farsi": "دکترا",
+      "transliteration": "doktorā",
+      "english": "PhD",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_43_2025-03-13.pdf",
+        "lesson": 43,
+        "date": "2025-03-13",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_43_2025_03_13-0004",
+      "farsi": "متقاعد کردن",
+      "transliteration": "motegha'ed kardan",
+      "english": "to convince",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_43_2025-03-13.pdf",
+        "lesson": 43,
+        "date": "2025-03-13",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_43_2025_03_13-0005",
+      "farsi": "غواصی",
+      "transliteration": "ghavāsi",
+      "english": "1) snorkeling  2) diving",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_43_2025-03-13.pdf",
+        "lesson": 43,
+        "date": "2025-03-13",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_43_2025_03_13-0006",
+      "farsi": "جا گذاشتن",
+      "transliteration": "jā gozāshtan",
+      "english": "to leave something behind",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_43_2025-03-13.pdf",
+        "lesson": 43,
+        "date": "2025-03-13",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_43_2025_03_13-0007",
+      "farsi": "باور غلط",
+      "transliteration": "bāvare ghalat",
+      "english": "fallacy",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_43_2025-03-13.pdf",
+        "lesson": 43,
+        "date": "2025-03-13",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_43_2025_03_13-0008",
+      "farsi": "سرمایه‌گذاری",
+      "transliteration": "sarmāyegozāri",
+      "english": "investment",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_43_2025-03-13.pdf",
+        "lesson": 43,
+        "date": "2025-03-13",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_43_2025_03_13-0009",
+      "farsi": "خط استوا",
+      "transliteration": "khate ostvā",
+      "english": "tropic of cancer",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_43_2025-03-13.pdf",
+        "lesson": 43,
+        "date": "2025-03-13",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_43_2025_03_13-0010",
+      "farsi": "بی‌تجربه",
+      "transliteration": "bi tajrobe",
+      "english": "inexperienced",
+      "partOfSpeech": "adjective",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_43_2025-03-13.pdf",
+        "lesson": 43,
+        "date": "2025-03-13",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_43_2025_03_13-0011",
+      "farsi": "رقیب",
+      "transliteration": "raghib",
+      "english": "competition (in the sense of your competitor)",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_43_2025-03-13.pdf",
+        "lesson": 43,
+        "date": "2025-03-13",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_43_2025_03_13-0012",
+      "farsi": "اذیت کردن",
+      "transliteration": "aziyat kardan",
+      "english": "to bother",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_43_2025-03-13.pdf",
+        "lesson": 43,
+        "date": "2025-03-13",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_43_2025_03_13-0013",
+      "farsi": "سوسک",
+      "transliteration": "soosk",
+      "english": "cockroach",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_43_2025-03-13.pdf",
+        "lesson": 43,
+        "date": "2025-03-13",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_43_2025_03_13-0014",
+      "farsi": "حشره",
+      "transliteration": "hashare",
+      "english": "insect",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_43_2025-03-13.pdf",
+        "lesson": 43,
+        "date": "2025-03-13",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_43_2025_03_13-0015",
+      "farsi": "پیشنهاد کردن",
+      "transliteration": "pishnehād kardan",
+      "english": "to propose",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_43_2025-03-13.pdf",
+        "lesson": 43,
+        "date": "2025-03-13",
+        "page": 1
+      },
+      "needsReview": true
+    }
+  ]
+}

@@ -1,0 +1,213 @@
+{
+  "source": {
+    "file": "Lesson_16_2024-08-20.pdf",
+    "lesson": 16,
+    "date": "2024-08-20"
+  },
+  "notes": "HANDWRITTEN – agent vision extraction needed. Fill in entries array.",
+  "pages": [
+    "content/pages/lesson_16_2024_08_20/p01.png",
+    "content/pages/lesson_16_2024_08_20/p02.png",
+    "content/pages/lesson_16_2024_08_20/p03.png"
+  ],
+  "entries": [
+    {
+      "id": "lesson_16_2024_08_20-0000",
+      "farsi": "پیشرفت",
+      "transliteration": "pishraft",
+      "english": "progress",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_16_2024-08-20.pdf",
+        "lesson": 16,
+        "date": "2024-08-20",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_16_2024_08_20-0001",
+      "farsi": "پیشرفت کردن",
+      "transliteration": "pishraft kardan",
+      "english": "to make progress",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_16_2024-08-20.pdf",
+        "lesson": 16,
+        "date": "2024-08-20",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_16_2024_08_20-0002",
+      "farsi": "فعال",
+      "transliteration": "fa'āl",
+      "english": "active",
+      "partOfSpeech": "adjective",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_16_2024-08-20.pdf",
+        "lesson": 16,
+        "date": "2024-08-20",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_16_2024_08_20-0003",
+      "farsi": "فعالانه",
+      "transliteration": "fa'alāne",
+      "english": "actively",
+      "partOfSpeech": "adverb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_16_2024-08-20.pdf",
+        "lesson": 16,
+        "date": "2024-08-20",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_16_2024_08_20-0004",
+      "farsi": "بازنشسته شدن",
+      "transliteration": "bāzneshoste shodan",
+      "english": "to retire",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_16_2024-08-20.pdf",
+        "lesson": 16,
+        "date": "2024-08-20",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_16_2024_08_20-0005",
+      "farsi": "بازنشسته",
+      "transliteration": "bāzneshoste",
+      "english": "retired",
+      "partOfSpeech": "adjective",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_16_2024-08-20.pdf",
+        "lesson": 16,
+        "date": "2024-08-20",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_16_2024_08_20-0006",
+      "farsi": "موضوع",
+      "transliteration": "mowzu'",
+      "english": "subject / topic",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_16_2024-08-20.pdf",
+        "lesson": 16,
+        "date": "2024-08-20",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_16_2024_08_20-0007",
+      "farsi": "بشر",
+      "transliteration": "bashar",
+      "english": "humankind",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_16_2024-08-20.pdf",
+        "lesson": 16,
+        "date": "2024-08-20",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_16_2024_08_20-0008",
+      "farsi": "بازارکار",
+      "transliteration": "bāzāre kār",
+      "english": "job market",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_16_2024-08-20.pdf",
+        "lesson": 16,
+        "date": "2024-08-20",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_16_2024_08_20-0009",
+      "farsi": "بازاریابی",
+      "transliteration": "bāzāryābi",
+      "english": "marketing",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_16_2024-08-20.pdf",
+        "lesson": 16,
+        "date": "2024-08-20",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_16_2024_08_20-0010",
+      "farsi": "تفنگ",
+      "transliteration": "tofang",
+      "english": "gun",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_16_2024-08-20.pdf",
+        "lesson": 16,
+        "date": "2024-08-20",
+        "page": 1
+      },
+      "needsReview": true
+    }
+  ]
+}

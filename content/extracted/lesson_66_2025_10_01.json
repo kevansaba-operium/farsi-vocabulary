@@ -1,0 +1,355 @@
+{
+  "source": {
+    "file": "Lesson_66_2025-10-01.pdf",
+    "lesson": null,
+    "date": "2025-10-01"
+  },
+  "notes": "HANDWRITTEN – agent vision extraction needed. Fill in entries array.",
+  "pages": [
+    "content/pages/lesson_x_2025_10_01/p01.png"
+  ],
+  "entries": [
+    {
+      "id": "lesson_66_2025_10_01-0000",
+      "farsi": "اجاق گاز",
+      "transliteration": "ojāghe gāz",
+      "english": "stove",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_66_2025-10-01.pdf",
+        "lesson": 66,
+        "date": "2025-10-01",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_66_2025_10_01-0001",
+      "farsi": "فر",
+      "transliteration": "fer",
+      "english": "oven",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_66_2025-10-01.pdf",
+        "lesson": 66,
+        "date": "2025-10-01",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_66_2025_10_01-0002",
+      "farsi": "اون یکی",
+      "transliteration": "on yeki",
+      "english": "the other one",
+      "partOfSpeech": "phrase",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_66_2025-10-01.pdf",
+        "lesson": 66,
+        "date": "2025-10-01",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_66_2025_10_01-0003",
+      "farsi": "عادلانه",
+      "transliteration": "ādelāne",
+      "english": "fair (concept/law)",
+      "partOfSpeech": "adjective",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_66_2025-10-01.pdf",
+        "lesson": 66,
+        "date": "2025-10-01",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_66_2025_10_01-0004",
+      "farsi": "عادل",
+      "transliteration": "ādel",
+      "english": "fair (as a person)",
+      "partOfSpeech": "adjective",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_66_2025-10-01.pdf",
+        "lesson": 66,
+        "date": "2025-10-01",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_66_2025_10_01-0005",
+      "farsi": "جمعیت",
+      "transliteration": "jamiyat",
+      "english": "population",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_66_2025-10-01.pdf",
+        "lesson": 66,
+        "date": "2025-10-01",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_66_2025_10_01-0006",
+      "farsi": "تخصص",
+      "transliteration": "takhassos",
+      "english": "expertise / specialization",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_66_2025-10-01.pdf",
+        "lesson": 66,
+        "date": "2025-10-01",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_66_2025_10_01-0007",
+      "farsi": "تخصصی",
+      "transliteration": "takhassosi",
+      "english": "specialized (adj)",
+      "partOfSpeech": "adjective",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_66_2025-10-01.pdf",
+        "lesson": 66,
+        "date": "2025-10-01",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_66_2025_10_01-0008",
+      "farsi": "فضا",
+      "transliteration": "fazā",
+      "english": "space",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_66_2025-10-01.pdf",
+        "lesson": 66,
+        "date": "2025-10-01",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_66_2025_10_01-0009",
+      "farsi": "انتخابات",
+      "transliteration": "entekhābāt",
+      "english": "election",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_66_2025-10-01.pdf",
+        "lesson": 66,
+        "date": "2025-10-01",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_66_2025_10_01-0010",
+      "farsi": "مهارت",
+      "transliteration": "mahārat",
+      "english": "skill",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_66_2025-10-01.pdf",
+        "lesson": 66,
+        "date": "2025-10-01",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_66_2025_10_01-0011",
+      "farsi": "تحلیل",
+      "transliteration": "tahlil",
+      "english": "analysis",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_66_2025-10-01.pdf",
+        "lesson": 66,
+        "date": "2025-10-01",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_66_2025_10_01-0012",
+      "farsi": "عافیت باشه",
+      "transliteration": "āfiyat bāshe",
+      "english": "bless you (after sneeze or shower)",
+      "partOfSpeech": "phrase",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_66_2025-10-01.pdf",
+        "lesson": 66,
+        "date": "2025-10-01",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_66_2025_10_01-0013",
+      "farsi": "سمت",
+      "transliteration": "samt",
+      "english": "direction / side",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_66_2025-10-01.pdf",
+        "lesson": 66,
+        "date": "2025-10-01",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_66_2025_10_01-0014",
+      "farsi": "اضافه کردن",
+      "transliteration": "ezāfe kardan",
+      "english": "to add",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_66_2025-10-01.pdf",
+        "lesson": 66,
+        "date": "2025-10-01",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_66_2025_10_01-0015",
+      "farsi": "آزادی بیان",
+      "transliteration": "āzādi bayān",
+      "english": "freedom of speech",
+      "partOfSpeech": "phrase",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_66_2025-10-01.pdf",
+        "lesson": 66,
+        "date": "2025-10-01",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_66_2025_10_01-0016",
+      "farsi": "چمدان",
+      "transliteration": "chamadān",
+      "english": "luggage / suitcase",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_66_2025-10-01.pdf",
+        "lesson": 66,
+        "date": "2025-10-01",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_66_2025_10_01-0017",
+      "farsi": "انگیزه",
+      "transliteration": "angize",
+      "english": "motivation / incentive",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_66_2025-10-01.pdf",
+        "lesson": 66,
+        "date": "2025-10-01",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_66_2025_10_01-0018",
+      "farsi": "شرکت کردن",
+      "transliteration": "sherkat kardan",
+      "english": "to participate",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_66_2025-10-01.pdf",
+        "lesson": 66,
+        "date": "2025-10-01",
+        "page": 1
+      },
+      "needsReview": true
+    }
+  ]
+}

@@ -1,0 +1,320 @@
+{
+  "source": {
+    "file": "Lesson_33_2025-01-01.pdf",
+    "lesson": null,
+    "date": "2025-01-01"
+  },
+  "notes": "HANDWRITTEN – agent vision extraction needed. Fill in entries array.",
+  "pages": [
+    "content/pages/note_2025_01_01/p01.png",
+    "content/pages/note_2025_01_01/p02.png"
+  ],
+  "entries": [
+    {
+      "id": "lesson_33_2025_01_01-0000",
+      "farsi": "لیسانس",
+      "transliteration": "lisāns",
+      "english": "bachelor's degree",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_33_2025-01-01.pdf",
+        "lesson": 33,
+        "date": "2025-01-01",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_33_2025_01_01-0001",
+      "farsi": "فوق لیسانس",
+      "transliteration": "foghe lisāns",
+      "english": "master's degree",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_33_2025-01-01.pdf",
+        "lesson": 33,
+        "date": "2025-01-01",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_33_2025_01_01-0002",
+      "farsi": "خط مترو",
+      "transliteration": "khate metro",
+      "english": "metro line",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_33_2025-01-01.pdf",
+        "lesson": 33,
+        "date": "2025-01-01",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_33_2025_01_01-0003",
+      "farsi": "کافی",
+      "transliteration": "kāfi",
+      "english": "enough",
+      "partOfSpeech": "adjective",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_33_2025-01-01.pdf",
+        "lesson": 33,
+        "date": "2025-01-01",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_33_2025_01_01-0004",
+      "farsi": "بقیه",
+      "transliteration": "baghiye",
+      "english": "the rest",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_33_2025-01-01.pdf",
+        "lesson": 33,
+        "date": "2025-01-01",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_33_2025_01_01-0005",
+      "farsi": "وسط",
+      "transliteration": "vasat",
+      "english": "middle",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_33_2025-01-01.pdf",
+        "lesson": 33,
+        "date": "2025-01-01",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_33_2025_01_01-0006",
+      "farsi": "جمعیت",
+      "transliteration": "jam'iyat",
+      "english": "population",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_33_2025-01-01.pdf",
+        "lesson": 33,
+        "date": "2025-01-01",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_33_2025_01_01-0007",
+      "farsi": "حمل و نقل عمومی",
+      "transliteration": "hamlo naghle omomi",
+      "english": "public transportation",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_33_2025-01-01.pdf",
+        "lesson": 33,
+        "date": "2025-01-01",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_33_2025_01_01-0008",
+      "farsi": "فوق العاده",
+      "transliteration": "fogholādde",
+      "english": "extraordinary",
+      "partOfSpeech": "adjective",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_33_2025-01-01.pdf",
+        "lesson": 33,
+        "date": "2025-01-01",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_33_2025_01_01-0009",
+      "farsi": "سبک زندگی",
+      "transliteration": "sabke zandegi",
+      "english": "life style",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_33_2025-01-01.pdf",
+        "lesson": 33,
+        "date": "2025-01-01",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_33_2025_01_01-0010",
+      "farsi": "شکار",
+      "transliteration": "shekār",
+      "english": "hunting",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_33_2025-01-01.pdf",
+        "lesson": 33,
+        "date": "2025-01-01",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_33_2025_01_01-0011",
+      "farsi": "طرف",
+      "transliteration": "taraf",
+      "english": "side / direction",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_33_2025-01-01.pdf",
+        "lesson": 33,
+        "date": "2025-01-01",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_33_2025_01_01-0012",
+      "farsi": "امکانات",
+      "transliteration": "emkānāt",
+      "english": "facilities / basic things you need for living",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_33_2025-01-01.pdf",
+        "lesson": 33,
+        "date": "2025-01-01",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_33_2025_01_01-0013",
+      "farsi": "واضحاً",
+      "transliteration": "vāzehan",
+      "english": "obviously",
+      "partOfSpeech": "adverb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_33_2025-01-01.pdf",
+        "lesson": 33,
+        "date": "2025-01-01",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_33_2025_01_01-0014",
+      "farsi": "معلوم",
+      "transliteration": "ma'loom",
+      "english": "it is obvious that",
+      "partOfSpeech": "adjective",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_33_2025-01-01.pdf",
+        "lesson": 33,
+        "date": "2025-01-01",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_33_2025_01_01-0015",
+      "farsi": "فرصت",
+      "transliteration": "forsat",
+      "english": "opportunity",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_33_2025-01-01.pdf",
+        "lesson": 33,
+        "date": "2025-01-01",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_33_2025_01_01-0016",
+      "farsi": "خلبان",
+      "transliteration": "khalabān",
+      "english": "pilot",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_33_2025-01-01.pdf",
+        "lesson": 33,
+        "date": "2025-01-01",
+        "page": 1
+      },
+      "needsReview": true
+    }
+  ]
+}

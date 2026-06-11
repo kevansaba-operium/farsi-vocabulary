@@ -1,0 +1,356 @@
+{
+  "source": {
+    "file": "Lesson_48_2025-05-02.pdf",
+    "lesson": null,
+    "date": "2025-05-02"
+  },
+  "notes": "HANDWRITTEN – agent vision extraction needed. Fill in entries array.",
+  "pages": [
+    "content/pages/note_2025_05_02/p01.png",
+    "content/pages/note_2025_05_02/p02.png"
+  ],
+  "entries": [
+    {
+      "id": "lesson_48_2025_05_02-0000",
+      "farsi": "مشاوره",
+      "transliteration": "moshāvare",
+      "english": "consultation (noun)",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_48_2025-05-02.pdf",
+        "lesson": 48,
+        "date": "2025-05-02",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_48_2025_05_02-0001",
+      "farsi": "مشاوره دادن",
+      "transliteration": "moshāvare dādan",
+      "english": "to give consultation",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_48_2025-05-02.pdf",
+        "lesson": 48,
+        "date": "2025-05-02",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_48_2025_05_02-0002",
+      "farsi": "مشاوره گرفتن",
+      "transliteration": "moshāvare gereftan",
+      "english": "to receive consultation",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_48_2025-05-02.pdf",
+        "lesson": 48,
+        "date": "2025-05-02",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_48_2025_05_02-0003",
+      "farsi": "دو راهی",
+      "transliteration": "de rāhi",
+      "english": "dilemma",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_48_2025-05-02.pdf",
+        "lesson": 48,
+        "date": "2025-05-02",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_48_2025_05_02-0004",
+      "farsi": "دانشمند",
+      "transliteration": "dāneshmand",
+      "english": "scientist",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_48_2025-05-02.pdf",
+        "lesson": 48,
+        "date": "2025-05-02",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_48_2025_05_02-0005",
+      "farsi": "استعداد",
+      "transliteration": "este'dād",
+      "english": "talent",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_48_2025-05-02.pdf",
+        "lesson": 48,
+        "date": "2025-05-02",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_48_2025_05_02-0006",
+      "farsi": "بخش",
+      "transliteration": "bakhsh",
+      "english": "section",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_48_2025-05-02.pdf",
+        "lesson": 48,
+        "date": "2025-05-02",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_48_2025_05_02-0007",
+      "farsi": "دانش",
+      "transliteration": "dānesh",
+      "english": "knowledge",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_48_2025-05-02.pdf",
+        "lesson": 48,
+        "date": "2025-05-02",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_48_2025_05_02-0008",
+      "farsi": "کمبود هست میشه",
+      "transliteration": "kambood has mishe",
+      "english": "the deficit is rising",
+      "partOfSpeech": "phrase",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_48_2025-05-02.pdf",
+        "lesson": 48,
+        "date": "2025-05-02",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_48_2025_05_02-0009",
+      "farsi": "کل شرکت‌ها",
+      "transliteration": "kole sharkathā",
+      "english": "the entire company",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_48_2025-05-02.pdf",
+        "lesson": 48,
+        "date": "2025-05-02",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_48_2025_05_02-0010",
+      "farsi": "بالغ",
+      "transliteration": "bālegh",
+      "english": "mature",
+      "partOfSpeech": "adjective",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_48_2025-05-02.pdf",
+        "lesson": 48,
+        "date": "2025-05-02",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_48_2025_05_02-0011",
+      "farsi": "عقل کل",
+      "transliteration": "aghle kol",
+      "english": "know-it-all",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_48_2025-05-02.pdf",
+        "lesson": 48,
+        "date": "2025-05-02",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_48_2025_05_02-0012",
+      "farsi": "نمیصرفه",
+      "transliteration": "nemisorfe",
+      "english": "it's not worth it",
+      "partOfSpeech": "phrase",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_48_2025-05-02.pdf",
+        "lesson": 48,
+        "date": "2025-05-02",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_48_2025_05_02-0013",
+      "farsi": "مصرفه",
+      "transliteration": "misorfe",
+      "english": "it's worth it",
+      "partOfSpeech": "phrase",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_48_2025-05-02.pdf",
+        "lesson": 48,
+        "date": "2025-05-02",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_48_2025_05_02-0014",
+      "farsi": "داور",
+      "transliteration": "dāvar",
+      "english": "referee (noun)",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_48_2025-05-02.pdf",
+        "lesson": 48,
+        "date": "2025-05-02",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_48_2025_05_02-0015",
+      "farsi": "قاضی",
+      "transliteration": "ghāzi",
+      "english": "judge (noun)",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_48_2025-05-02.pdf",
+        "lesson": 48,
+        "date": "2025-05-02",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_48_2025_05_02-0016",
+      "farsi": "مسئولیت",
+      "transliteration": "mas'uliyat",
+      "english": "responsibility",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_48_2025-05-02.pdf",
+        "lesson": 48,
+        "date": "2025-05-02",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_48_2025_05_02-0017",
+      "farsi": "نابغه",
+      "transliteration": "nābeghe",
+      "english": "genius",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_48_2025-05-02.pdf",
+        "lesson": 48,
+        "date": "2025-05-02",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_48_2025_05_02-0018",
+      "farsi": "خلاصه",
+      "transliteration": "kholāse",
+      "english": "1) summary  2) in short",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_48_2025-05-02.pdf",
+        "lesson": 48,
+        "date": "2025-05-02",
+        "page": 1
+      },
+      "needsReview": true
+    }
+  ]
+}

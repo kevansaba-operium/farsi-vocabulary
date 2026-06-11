@@ -1,0 +1,409 @@
+{
+  "source": {
+    "file": "Lesson_40_2025-02-14.pdf",
+    "lesson": null,
+    "date": "2025-02-14"
+  },
+  "notes": "HANDWRITTEN – agent vision extraction needed. Fill in entries array.",
+  "pages": [
+    "content/pages/note_2025_02_14/p01.png"
+  ],
+  "entries": [
+    {
+      "id": "lesson_40_2025_02_14-0000",
+      "farsi": "روز عاشق‌ها",
+      "transliteration": "rooze oshāghā",
+      "english": "Valentine's day",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_40_2025-02-14.pdf",
+        "lesson": 40,
+        "date": "2025-02-14",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_40_2025_02_14-0001",
+      "farsi": "مصرف‌گرا",
+      "transliteration": "masraf garā",
+      "english": "consumerism",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_40_2025-02-14.pdf",
+        "lesson": 40,
+        "date": "2025-02-14",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_40_2025_02_14-0002",
+      "farsi": "مصرف کردن",
+      "transliteration": "masraf kardan",
+      "english": "to consume",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_40_2025-02-14.pdf",
+        "lesson": 40,
+        "date": "2025-02-14",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_40_2025_02_14-0003",
+      "farsi": "امکانات",
+      "transliteration": "emkānāt",
+      "english": "facilities",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_40_2025-02-14.pdf",
+        "lesson": 40,
+        "date": "2025-02-14",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_40_2025_02_14-0004",
+      "farsi": "تجربه",
+      "transliteration": "tajrobe",
+      "english": "experience",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_40_2025-02-14.pdf",
+        "lesson": 40,
+        "date": "2025-02-14",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_40_2025_02_14-0005",
+      "farsi": "قحطی",
+      "transliteration": "ghahti",
+      "english": "famine",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_40_2025-02-14.pdf",
+        "lesson": 40,
+        "date": "2025-02-14",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_40_2025_02_14-0006",
+      "farsi": "نقش",
+      "transliteration": "naghsh",
+      "english": "function / role",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_40_2025-02-14.pdf",
+        "lesson": 40,
+        "date": "2025-02-14",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_40_2025_02_14-0007",
+      "farsi": "جامعه ایرانی",
+      "transliteration": "jāme'e irāni",
+      "english": "Iranian society / community",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_40_2025-02-14.pdf",
+        "lesson": 40,
+        "date": "2025-02-14",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_40_2025_02_14-0008",
+      "farsi": "شخصیت",
+      "transliteration": "shakhsiyat",
+      "english": "character",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_40_2025-02-14.pdf",
+        "lesson": 40,
+        "date": "2025-02-14",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_40_2025_02_14-0009",
+      "farsi": "نیاز مادی",
+      "transliteration": "niyāze mādi",
+      "english": "materialistic needs",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_40_2025-02-14.pdf",
+        "lesson": 40,
+        "date": "2025-02-14",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_40_2025_02_14-0010",
+      "farsi": "نصیحت",
+      "transliteration": "nasihat",
+      "english": "advice",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_40_2025-02-14.pdf",
+        "lesson": 40,
+        "date": "2025-02-14",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_40_2025_02_14-0011",
+      "farsi": "سیستم سرمایه‌داری",
+      "transliteration": "sisteme sarmāye dāri",
+      "english": "capitalistic system",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_40_2025-02-14.pdf",
+        "lesson": 40,
+        "date": "2025-02-14",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_40_2025_02_14-0012",
+      "farsi": "خصوصی",
+      "transliteration": "khosusi",
+      "english": "private",
+      "partOfSpeech": "adjective",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_40_2025-02-14.pdf",
+        "lesson": 40,
+        "date": "2025-02-14",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_40_2025_02_14-0013",
+      "farsi": "شرکت خصوصی",
+      "transliteration": "sherkat khosusi",
+      "english": "private company",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_40_2025-02-14.pdf",
+        "lesson": 40,
+        "date": "2025-02-14",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_40_2025_02_14-0014",
+      "farsi": "مشهور / معروف",
+      "transliteration": "mashhur / ma'roof",
+      "english": "famous",
+      "partOfSpeech": "adjective",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_40_2025-02-14.pdf",
+        "lesson": 40,
+        "date": "2025-02-14",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_40_2025_02_14-0015",
+      "farsi": "سفیر",
+      "transliteration": "safir",
+      "english": "ambassador",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_40_2025-02-14.pdf",
+        "lesson": 40,
+        "date": "2025-02-14",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_40_2025_02_14-0016",
+      "farsi": "قرون وسطا",
+      "transliteration": "ghoroone vostā",
+      "english": "middle age",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_40_2025-02-14.pdf",
+        "lesson": 40,
+        "date": "2025-02-14",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_40_2025_02_14-0017",
+      "farsi": "حریص",
+      "transliteration": "haris",
+      "english": "greedy",
+      "partOfSpeech": "adjective",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_40_2025-02-14.pdf",
+        "lesson": 40,
+        "date": "2025-02-14",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_40_2025_02_14-0018",
+      "farsi": "مهمان‌نوازی",
+      "transliteration": "mehmān navāzi",
+      "english": "hospitality",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_40_2025-02-14.pdf",
+        "lesson": 40,
+        "date": "2025-02-14",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_40_2025_02_14-0019",
+      "farsi": "پوچ",
+      "transliteration": "pooch",
+      "english": "emptiness / nothing (informal)",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_40_2025-02-14.pdf",
+        "lesson": 40,
+        "date": "2025-02-14",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_40_2025_02_14-0020",
+      "farsi": "خودخواه",
+      "transliteration": "khodkhāh",
+      "english": "selfish (person)",
+      "partOfSpeech": "adjective",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_40_2025-02-14.pdf",
+        "lesson": 40,
+        "date": "2025-02-14",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_40_2025_02_14-0021",
+      "farsi": "گروه‌های مذهبی",
+      "transliteration": "groohāye mazhhabi",
+      "english": "religious groups",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_40_2025-02-14.pdf",
+        "lesson": 40,
+        "date": "2025-02-14",
+        "page": 1
+      },
+      "needsReview": true
+    }
+  ]
+}

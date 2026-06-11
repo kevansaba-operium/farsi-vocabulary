@@ -1,0 +1,301 @@
+{
+  "source": {
+    "file": "Lesson_47_2025-04-25.pdf",
+    "lesson": null,
+    "date": "2025-04-25"
+  },
+  "notes": "HANDWRITTEN – agent vision extraction needed. Fill in entries array.",
+  "pages": [
+    "content/pages/note_2025_04_25/p01.png"
+  ],
+  "entries": [
+    {
+      "id": "lesson_47_2025_04_25-0000",
+      "farsi": "ماشین لباسشویی",
+      "transliteration": "māshine lebāsshouyi",
+      "english": "washer",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_47_2025-04-25.pdf",
+        "lesson": 47,
+        "date": "2025-04-25",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_47_2025_04_25-0001",
+      "farsi": "خشک‌کن",
+      "transliteration": "khoshkkon",
+      "english": "dryer",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_47_2025-04-25.pdf",
+        "lesson": 47,
+        "date": "2025-04-25",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_47_2025_04_25-0002",
+      "farsi": "ماشین ظرف‌شویی",
+      "transliteration": "māshine zarfshooyi",
+      "english": "dish washer",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_47_2025-04-25.pdf",
+        "lesson": 47,
+        "date": "2025-04-25",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_47_2025_04_25-0003",
+      "farsi": "نصب کردن",
+      "transliteration": "nasb kardan",
+      "english": "to install",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_47_2025-04-25.pdf",
+        "lesson": 47,
+        "date": "2025-04-25",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_47_2025_04_25-0004",
+      "farsi": "تورم",
+      "transliteration": "toram",
+      "english": "inflation",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_47_2025-04-25.pdf",
+        "lesson": 47,
+        "date": "2025-04-25",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_47_2025_04_25-0005",
+      "farsi": "وام / قسط / گِست",
+      "transliteration": "vām / ghest / gest",
+      "english": "loan",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_47_2025-04-25.pdf",
+        "lesson": 47,
+        "date": "2025-04-25",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_47_2025_04_25-0006",
+      "farsi": "استثنائاً",
+      "transliteration": "estesnā'an",
+      "english": "exceptionally",
+      "partOfSpeech": "adverb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_47_2025-04-25.pdf",
+        "lesson": 47,
+        "date": "2025-04-25",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_47_2025_04_25-0007",
+      "farsi": "در ده سال آینده",
+      "transliteration": "dar dah sāle āyande",
+      "english": "in 10 years",
+      "partOfSpeech": "phrase",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_47_2025-04-25.pdf",
+        "lesson": 47,
+        "date": "2025-04-25",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_47_2025_04_25-0008",
+      "farsi": "مخفی",
+      "transliteration": "makhfi",
+      "english": "hidden",
+      "partOfSpeech": "adjective",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_47_2025-04-25.pdf",
+        "lesson": 47,
+        "date": "2025-04-25",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_47_2025_04_25-0009",
+      "farsi": "دولت فعلی",
+      "transliteration": "dolate fe'li",
+      "english": "current government",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_47_2025-04-25.pdf",
+        "lesson": 47,
+        "date": "2025-04-25",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_47_2025_04_25-0010",
+      "farsi": "سیمان",
+      "transliteration": "simān",
+      "english": "cement",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_47_2025-04-25.pdf",
+        "lesson": 47,
+        "date": "2025-04-25",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_47_2025_04_25-0011",
+      "farsi": "اخیراً",
+      "transliteration": "akhiran",
+      "english": "recently",
+      "partOfSpeech": "adverb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_47_2025-04-25.pdf",
+        "lesson": 47,
+        "date": "2025-04-25",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_47_2025_04_25-0012",
+      "farsi": "به‌جز",
+      "transliteration": "be joz",
+      "english": "except",
+      "partOfSpeech": "preposition",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_47_2025-04-25.pdf",
+        "lesson": 47,
+        "date": "2025-04-25",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_47_2025_04_25-0013",
+      "farsi": "پرداخت کردن",
+      "transliteration": "pardākht kardan",
+      "english": "to pay",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_47_2025-04-25.pdf",
+        "lesson": 47,
+        "date": "2025-04-25",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_47_2025_04_25-0014",
+      "farsi": "بدهی",
+      "transliteration": "badehi",
+      "english": "debt",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_47_2025-04-25.pdf",
+        "lesson": 47,
+        "date": "2025-04-25",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_47_2025_04_25-0015",
+      "farsi": "پس گرفتن",
+      "transliteration": "pos gereftan",
+      "english": "to take back",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_47_2025-04-25.pdf",
+        "lesson": 47,
+        "date": "2025-04-25",
+        "page": 1
+      },
+      "needsReview": true
+    }
+  ]
+}

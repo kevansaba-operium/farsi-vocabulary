@@ -1,0 +1,319 @@
+{
+  "source": {
+    "file": "Lesson_44_2025-03-14.pdf",
+    "lesson": null,
+    "date": "2025-03-14"
+  },
+  "notes": "HANDWRITTEN – agent vision extraction needed. Fill in entries array.",
+  "pages": [
+    "content/pages/note_2025_03_14/p01.png"
+  ],
+  "entries": [
+    {
+      "id": "lesson_44_2025_03_14-0000",
+      "farsi": "کافی",
+      "transliteration": "kāfi",
+      "english": "enough",
+      "partOfSpeech": "adjective",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_44_2025-03-14.pdf",
+        "lesson": 44,
+        "date": "2025-03-14",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_44_2025_03_14-0001",
+      "farsi": "ماواد",
+      "transliteration": "mavād",
+      "english": "recreational drug",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_44_2025-03-14.pdf",
+        "lesson": 44,
+        "date": "2025-03-14",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_44_2025_03_14-0002",
+      "farsi": "کالا",
+      "transliteration": "kālā",
+      "english": "product",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_44_2025-03-14.pdf",
+        "lesson": 44,
+        "date": "2025-03-14",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_44_2025_03_14-0003",
+      "farsi": "توانایی",
+      "transliteration": "tavānāyi",
+      "english": "ability",
+      "partOfSpeech": "adjective",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_44_2025-03-14.pdf",
+        "lesson": 44,
+        "date": "2025-03-14",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_44_2025_03_14-0004",
+      "farsi": "یهودی",
+      "transliteration": "yahudi",
+      "english": "Jew",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_44_2025-03-14.pdf",
+        "lesson": 44,
+        "date": "2025-03-14",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_44_2025_03_14-0005",
+      "farsi": "ترسوندن",
+      "transliteration": "tarsoondan",
+      "english": "to frighten",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_44_2025-03-14.pdf",
+        "lesson": 44,
+        "date": "2025-03-14",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_44_2025_03_14-0006",
+      "farsi": "کشف",
+      "transliteration": "kashf",
+      "english": "discovery (noun)",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_44_2025-03-14.pdf",
+        "lesson": 44,
+        "date": "2025-03-14",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_44_2025_03_14-0007",
+      "farsi": "کشف کردن",
+      "transliteration": "kashf kardan",
+      "english": "to discover",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_44_2025-03-14.pdf",
+        "lesson": 44,
+        "date": "2025-03-14",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_44_2025_03_14-0008",
+      "farsi": "کیفیت",
+      "transliteration": "keyfiyat",
+      "english": "quality",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_44_2025-03-14.pdf",
+        "lesson": 44,
+        "date": "2025-03-14",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_44_2025_03_14-0009",
+      "farsi": "تمرکز",
+      "transliteration": "tamakkoz",
+      "english": "focus",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_44_2025-03-14.pdf",
+        "lesson": 44,
+        "date": "2025-03-14",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_44_2025_03_14-0010",
+      "farsi": "علوم اجتماعی",
+      "transliteration": "oloome ejtemā'i",
+      "english": "social sciences",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_44_2025-03-14.pdf",
+        "lesson": 44,
+        "date": "2025-03-14",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_44_2025_03_14-0011",
+      "farsi": "عادل",
+      "transliteration": "ādel",
+      "english": "just / fair (for a person)",
+      "partOfSpeech": "adjective",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_44_2025-03-14.pdf",
+        "lesson": 44,
+        "date": "2025-03-14",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_44_2025_03_14-0012",
+      "farsi": "عادلانه",
+      "transliteration": "ādelāne",
+      "english": "just / fair (for concepts)",
+      "partOfSpeech": "adjective",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_44_2025-03-14.pdf",
+        "lesson": 44,
+        "date": "2025-03-14",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_44_2025_03_14-0013",
+      "farsi": "نقش",
+      "transliteration": "naghsh",
+      "english": "impact / role",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_44_2025-03-14.pdf",
+        "lesson": 44,
+        "date": "2025-03-14",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_44_2025_03_14-0014",
+      "farsi": "عصبانی",
+      "transliteration": "asabāni",
+      "english": "angry / mad",
+      "partOfSpeech": "adjective",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_44_2025-03-14.pdf",
+        "lesson": 44,
+        "date": "2025-03-14",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_44_2025_03_14-0015",
+      "farsi": "کلاه‌برداری",
+      "transliteration": "kolāh bardāri",
+      "english": "rip off / fraud",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_44_2025-03-14.pdf",
+        "lesson": 44,
+        "date": "2025-03-14",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_44_2025_03_14-0016",
+      "farsi": "کلاس مجازی",
+      "transliteration": "kelāse majāzi",
+      "english": "virtual class",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_44_2025-03-14.pdf",
+        "lesson": 44,
+        "date": "2025-03-14",
+        "page": 1
+      },
+      "needsReview": true
+    }
+  ]
+}

@@ -1,0 +1,337 @@
+{
+  "source": {
+    "file": "Lesson_61_2025-08-08.pdf",
+    "lesson": null,
+    "date": "2025-08-08"
+  },
+  "notes": "HANDWRITTEN – agent vision extraction needed. Fill in entries array.",
+  "pages": [
+    "content/pages/note_2025_08_08/p01.png"
+  ],
+  "entries": [
+    {
+      "id": "lesson_61_2025_08_08-0000",
+      "farsi": "ارسال کردن",
+      "transliteration": "ersāl kardan",
+      "english": "to send",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_61_2025-08-08.pdf",
+        "lesson": 61,
+        "date": "2025-08-08",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_61_2025_08_08-0001",
+      "farsi": "فرستادن",
+      "transliteration": "ferestādan",
+      "english": "to send",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_61_2025-08-08.pdf",
+        "lesson": 61,
+        "date": "2025-08-08",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_61_2025_08_08-0002",
+      "farsi": "فایده",
+      "transliteration": "fāyde",
+      "english": "benefit (what's the use of this?)",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_61_2025-08-08.pdf",
+        "lesson": 61,
+        "date": "2025-08-08",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_61_2025_08_08-0003",
+      "farsi": "اصلی",
+      "transliteration": "asli",
+      "english": "main",
+      "partOfSpeech": "adjective",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_61_2025-08-08.pdf",
+        "lesson": 61,
+        "date": "2025-08-08",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_61_2025_08_08-0004",
+      "farsi": "کشف کردن",
+      "transliteration": "kashf kardan",
+      "english": "to discover",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_61_2025-08-08.pdf",
+        "lesson": 61,
+        "date": "2025-08-08",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_61_2025_08_08-0005",
+      "farsi": "کمبود",
+      "transliteration": "kambood",
+      "english": "deficit / shortage",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_61_2025-08-08.pdf",
+        "lesson": 61,
+        "date": "2025-08-08",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_61_2025_08_08-0006",
+      "farsi": "ورشکست شدن",
+      "transliteration": "varshekast shodan",
+      "english": "to go bankrupt",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_61_2025-08-08.pdf",
+        "lesson": 61,
+        "date": "2025-08-08",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_61_2025_08_08-0007",
+      "farsi": "عادل",
+      "transliteration": "ādel",
+      "english": "fair (for a person)",
+      "partOfSpeech": "adjective",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_61_2025-08-08.pdf",
+        "lesson": 61,
+        "date": "2025-08-08",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_61_2025_08_08-0008",
+      "farsi": "عادلانه",
+      "transliteration": "ādelāne",
+      "english": "fair (for concepts)",
+      "partOfSpeech": "adjective",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_61_2025-08-08.pdf",
+        "lesson": 61,
+        "date": "2025-08-08",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_61_2025_08_08-0009",
+      "farsi": "به‌جای",
+      "transliteration": "be jāye",
+      "english": "rather than / instead of",
+      "partOfSpeech": "preposition",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_61_2025-08-08.pdf",
+        "lesson": 61,
+        "date": "2025-08-08",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_61_2025_08_08-0010",
+      "farsi": "اخیراً / تازگی",
+      "transliteration": "akhiran / tāzegi",
+      "english": "recently",
+      "partOfSpeech": "adverb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_61_2025-08-08.pdf",
+        "lesson": 61,
+        "date": "2025-08-08",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_61_2025_08_08-0011",
+      "farsi": "مشکل‌ساز",
+      "transliteration": "moshkalsāz",
+      "english": "problematic / something that creates problems",
+      "partOfSpeech": "adjective",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_61_2025-08-08.pdf",
+        "lesson": 61,
+        "date": "2025-08-08",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_61_2025_08_08-0012",
+      "farsi": "اتحادیه",
+      "transliteration": "ettehādiye",
+      "english": "union",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_61_2025-08-08.pdf",
+        "lesson": 61,
+        "date": "2025-08-08",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_61_2025_08_08-0013",
+      "farsi": "عضو",
+      "transliteration": "ozv",
+      "english": "member",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_61_2025-08-08.pdf",
+        "lesson": 61,
+        "date": "2025-08-08",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_61_2025_08_08-0014",
+      "farsi": "توصیف کردن",
+      "transliteration": "towsif kardan",
+      "english": "to describe",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_61_2025-08-08.pdf",
+        "lesson": 61,
+        "date": "2025-08-08",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_61_2025_08_08-0015",
+      "farsi": "جزئیات",
+      "transliteration": "joziyāt",
+      "english": "details",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_61_2025-08-08.pdf",
+        "lesson": 61,
+        "date": "2025-08-08",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_61_2025_08_08-0016",
+      "farsi": "اعتصاب کردن",
+      "transliteration": "e'tesāb kardan",
+      "english": "to go on strike",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_61_2025-08-08.pdf",
+        "lesson": 61,
+        "date": "2025-08-08",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_61_2025_08_08-0017",
+      "farsi": "استخدام کردن",
+      "transliteration": "estekhdām kardan",
+      "english": "to hire",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_61_2025-08-08.pdf",
+        "lesson": 61,
+        "date": "2025-08-08",
+        "page": 1
+      },
+      "needsReview": true
+    }
+  ]
+}

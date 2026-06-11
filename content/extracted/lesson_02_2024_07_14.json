@@ -1,0 +1,953 @@
+{
+  "source": {
+    "file": "Lesson_02_2024-07-14.pdf",
+    "lesson": 2,
+    "date": "2024-07-14"
+  },
+  "notes": "HANDWRITTEN – agent vision extraction needed. Fill in entries array.",
+  "pages": [
+    "content/pages/lesson_02_2024_07_14/p01.png",
+    "content/pages/lesson_02_2024_07_14/p02.png",
+    "content/pages/lesson_02_2024_07_14/p03.png",
+    "content/pages/lesson_02_2024_07_14/p04.png",
+    "content/pages/lesson_02_2024_07_14/p05.png"
+  ],
+  "entries": [
+    {
+      "id": "lesson_02_2024_07_14-0000",
+      "farsi": "پیر",
+      "transliteration": "pir",
+      "english": "old",
+      "partOfSpeech": "adjective",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_02_2024-07-14.pdf",
+        "lesson": 2,
+        "date": "2024-07-14",
+        "page": 2
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_02_2024_07_14-0001",
+      "farsi": "زیبا",
+      "transliteration": "zibā",
+      "english": "beautiful",
+      "partOfSpeech": "adjective",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_02_2024-07-14.pdf",
+        "lesson": 2,
+        "date": "2024-07-14",
+        "page": 2
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_02_2024_07_14-0002",
+      "farsi": "با ادب",
+      "transliteration": "bā adab",
+      "english": "polite",
+      "partOfSpeech": "adjective",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_02_2024-07-14.pdf",
+        "lesson": 2,
+        "date": "2024-07-14",
+        "page": 2
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_02_2024_07_14-0003",
+      "farsi": "قشنگ",
+      "transliteration": "ghashang",
+      "english": "beautiful / pretty",
+      "partOfSpeech": "adjective",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_02_2024-07-14.pdf",
+        "lesson": 2,
+        "date": "2024-07-14",
+        "page": 2
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_02_2024_07_14-0004",
+      "farsi": "ساکت",
+      "transliteration": "sāket",
+      "english": "quiet",
+      "partOfSpeech": "adjective",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_02_2024-07-14.pdf",
+        "lesson": 2,
+        "date": "2024-07-14",
+        "page": 2
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_02_2024_07_14-0005",
+      "farsi": "خوشگل",
+      "transliteration": "khoshgel",
+      "english": "beautiful / pretty",
+      "partOfSpeech": "adjective",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_02_2024-07-14.pdf",
+        "lesson": 2,
+        "date": "2024-07-14",
+        "page": 2
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_02_2024_07_14-0006",
+      "farsi": "کوچیک / کوچک",
+      "transliteration": "koochik / kuchak",
+      "english": "small",
+      "partOfSpeech": "adjective",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_02_2024-07-14.pdf",
+        "lesson": 2,
+        "date": "2024-07-14",
+        "page": 2
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_02_2024_07_14-0007",
+      "farsi": "بزرگ",
+      "transliteration": "bozorg",
+      "english": "big / large",
+      "partOfSpeech": "adjective",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_02_2024-07-14.pdf",
+        "lesson": 2,
+        "date": "2024-07-14",
+        "page": 2
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_02_2024_07_14-0008",
+      "farsi": "زرنگ",
+      "transliteration": "zerang",
+      "english": "smart",
+      "partOfSpeech": "adjective",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_02_2024-07-14.pdf",
+        "lesson": 2,
+        "date": "2024-07-14",
+        "page": 2
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_02_2024_07_14-0009",
+      "farsi": "خوشمزه",
+      "transliteration": "khoshmaze",
+      "english": "delicious",
+      "partOfSpeech": "adjective",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_02_2024-07-14.pdf",
+        "lesson": 2,
+        "date": "2024-07-14",
+        "page": 2
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_02_2024_07_14-0010",
+      "farsi": "میانسال",
+      "transliteration": "miyānsāl",
+      "english": "middle aged",
+      "partOfSpeech": "adjective",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_02_2024-07-14.pdf",
+        "lesson": 2,
+        "date": "2024-07-14",
+        "page": 2
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_02_2024_07_14-0011",
+      "farsi": "خوشحال",
+      "transliteration": "khoshhāl",
+      "english": "happy",
+      "partOfSpeech": "adjective",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_02_2024-07-14.pdf",
+        "lesson": 2,
+        "date": "2024-07-14",
+        "page": 2
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_02_2024_07_14-0012",
+      "farsi": "خسته",
+      "transliteration": "khaste",
+      "english": "tired",
+      "partOfSpeech": "adjective",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_02_2024-07-14.pdf",
+        "lesson": 2,
+        "date": "2024-07-14",
+        "page": 2
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_02_2024_07_14-0013",
+      "farsi": "بی ادب",
+      "transliteration": "bi adab",
+      "english": "impolite",
+      "partOfSpeech": "adjective",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_02_2024-07-14.pdf",
+        "lesson": 2,
+        "date": "2024-07-14",
+        "page": 2
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_02_2024_07_14-0014",
+      "farsi": "ناراحت",
+      "transliteration": "nārāhat",
+      "english": "upset / sad",
+      "partOfSpeech": "adjective",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_02_2024-07-14.pdf",
+        "lesson": 2,
+        "date": "2024-07-14",
+        "page": 2
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_02_2024_07_14-0015",
+      "farsi": "باهوش",
+      "transliteration": "bāhush",
+      "english": "intelligent",
+      "partOfSpeech": "adjective",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_02_2024-07-14.pdf",
+        "lesson": 2,
+        "date": "2024-07-14",
+        "page": 2
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_02_2024_07_14-0016",
+      "farsi": "جوون / جوان",
+      "transliteration": "javoon / javān",
+      "english": "young",
+      "partOfSpeech": "adjective",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_02_2024-07-14.pdf",
+        "lesson": 2,
+        "date": "2024-07-14",
+        "page": 2
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_02_2024_07_14-0017",
+      "farsi": "تنبل",
+      "transliteration": "tanbal",
+      "english": "lazy",
+      "partOfSpeech": "adjective",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_02_2024-07-14.pdf",
+        "lesson": 2,
+        "date": "2024-07-14",
+        "page": 2
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_02_2024_07_14-0018",
+      "farsi": "مهربان",
+      "transliteration": "mehrabān",
+      "english": "kind",
+      "partOfSpeech": "adjective",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_02_2024-07-14.pdf",
+        "lesson": 2,
+        "date": "2024-07-14",
+        "page": 2
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_02_2024_07_14-0019",
+      "farsi": "قوی",
+      "transliteration": "ghavi",
+      "english": "strong (physical)",
+      "partOfSpeech": "adjective",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_02_2024-07-14.pdf",
+        "lesson": 2,
+        "date": "2024-07-14",
+        "page": 2
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_02_2024_07_14-0020",
+      "farsi": "بد",
+      "transliteration": "bad",
+      "english": "bad",
+      "partOfSpeech": "adjective",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_02_2024-07-14.pdf",
+        "lesson": 2,
+        "date": "2024-07-14",
+        "page": 2
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_02_2024_07_14-0021",
+      "farsi": "خوب",
+      "transliteration": "khub",
+      "english": "good / fine",
+      "partOfSpeech": "adjective",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_02_2024-07-14.pdf",
+        "lesson": 2,
+        "date": "2024-07-14",
+        "page": 2
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_02_2024_07_14-0022",
+      "farsi": "متأهل",
+      "transliteration": "motā'hel",
+      "english": "married",
+      "partOfSpeech": "adjective",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_02_2024-07-14.pdf",
+        "lesson": 2,
+        "date": "2024-07-14",
+        "page": 2
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_02_2024_07_14-0023",
+      "farsi": "مجرد",
+      "transliteration": "mojarrad",
+      "english": "single",
+      "partOfSpeech": "adjective",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_02_2024-07-14.pdf",
+        "lesson": 2,
+        "date": "2024-07-14",
+        "page": 2
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_02_2024_07_14-0024",
+      "farsi": "استاد",
+      "transliteration": "ostād",
+      "english": "professor",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_02_2024-07-14.pdf",
+        "lesson": 2,
+        "date": "2024-07-14",
+        "page": 3
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_02_2024_07_14-0025",
+      "farsi": "دانشجو",
+      "transliteration": "dāneshjoo",
+      "english": "university student",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_02_2024-07-14.pdf",
+        "lesson": 2,
+        "date": "2024-07-14",
+        "page": 3
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_02_2024_07_14-0026",
+      "farsi": "معلم",
+      "transliteration": "mo'allem",
+      "english": "teacher",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_02_2024-07-14.pdf",
+        "lesson": 2,
+        "date": "2024-07-14",
+        "page": 3
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_02_2024_07_14-0027",
+      "farsi": "پلیس",
+      "transliteration": "polis",
+      "english": "police officer",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_02_2024-07-14.pdf",
+        "lesson": 2,
+        "date": "2024-07-14",
+        "page": 3
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_02_2024_07_14-0028",
+      "farsi": "دانش‌آموز",
+      "transliteration": "dānesh āmooz",
+      "english": "elementary/high school student",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_02_2024-07-14.pdf",
+        "lesson": 2,
+        "date": "2024-07-14",
+        "page": 3
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_02_2024_07_14-0029",
+      "farsi": "سرباز",
+      "transliteration": "sarbāz",
+      "english": "soldier",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_02_2024-07-14.pdf",
+        "lesson": 2,
+        "date": "2024-07-14",
+        "page": 3
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_02_2024_07_14-0030",
+      "farsi": "مهندس",
+      "transliteration": "mohandes",
+      "english": "engineer",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_02_2024-07-14.pdf",
+        "lesson": 2,
+        "date": "2024-07-14",
+        "page": 3
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_02_2024_07_14-0031",
+      "farsi": "منشی",
+      "transliteration": "monshi",
+      "english": "secretary",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_02_2024-07-14.pdf",
+        "lesson": 2,
+        "date": "2024-07-14",
+        "page": 3
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_02_2024_07_14-0032",
+      "farsi": "نقاش",
+      "transliteration": "naghāsh",
+      "english": "painter",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_02_2024-07-14.pdf",
+        "lesson": 2,
+        "date": "2024-07-14",
+        "page": 3
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_02_2024_07_14-0033",
+      "farsi": "پرستار",
+      "transliteration": "parastār",
+      "english": "nurse",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_02_2024-07-14.pdf",
+        "lesson": 2,
+        "date": "2024-07-14",
+        "page": 3
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_02_2024_07_14-0034",
+      "farsi": "آشپز",
+      "transliteration": "āshpaz",
+      "english": "cook",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_02_2024-07-14.pdf",
+        "lesson": 2,
+        "date": "2024-07-14",
+        "page": 3
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_02_2024_07_14-0035",
+      "farsi": "مدیر",
+      "transliteration": "modir",
+      "english": "manager / principal",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_02_2024-07-14.pdf",
+        "lesson": 2,
+        "date": "2024-07-14",
+        "page": 3
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_02_2024_07_14-0036",
+      "farsi": "دکتر",
+      "transliteration": "doktor",
+      "english": "doctor",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_02_2024-07-14.pdf",
+        "lesson": 2,
+        "date": "2024-07-14",
+        "page": 3
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_02_2024_07_14-0037",
+      "farsi": "خواننده",
+      "transliteration": "khānande",
+      "english": "singer",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_02_2024-07-14.pdf",
+        "lesson": 2,
+        "date": "2024-07-14",
+        "page": 3
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_02_2024_07_14-0038",
+      "farsi": "نویسنده",
+      "transliteration": "nevisande",
+      "english": "writer / author",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_02_2024-07-14.pdf",
+        "lesson": 2,
+        "date": "2024-07-14",
+        "page": 3
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_02_2024_07_14-0039",
+      "farsi": "شاعر",
+      "transliteration": "shāer",
+      "english": "poet",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_02_2024-07-14.pdf",
+        "lesson": 2,
+        "date": "2024-07-14",
+        "page": 3
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_02_2024_07_14-0040",
+      "farsi": "کارگر",
+      "transliteration": "kārgar",
+      "english": "worker",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_02_2024-07-14.pdf",
+        "lesson": 2,
+        "date": "2024-07-14",
+        "page": 3
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_02_2024_07_14-0041",
+      "farsi": "فروشنده",
+      "transliteration": "forushande",
+      "english": "sales person",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_02_2024-07-14.pdf",
+        "lesson": 2,
+        "date": "2024-07-14",
+        "page": 3
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_02_2024_07_14-0042",
+      "farsi": "کارمند",
+      "transliteration": "kārmand",
+      "english": "employee (office)",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_02_2024-07-14.pdf",
+        "lesson": 2,
+        "date": "2024-07-14",
+        "page": 3
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_02_2024_07_14-0043",
+      "farsi": "هنرمند",
+      "transliteration": "honarmand",
+      "english": "artist",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_02_2024-07-14.pdf",
+        "lesson": 2,
+        "date": "2024-07-14",
+        "page": 3
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_02_2024_07_14-0044",
+      "farsi": "خورشید گرفتگی",
+      "transliteration": "khorshid gereftegi",
+      "english": "eclipse",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_02_2024-07-14.pdf",
+        "lesson": 2,
+        "date": "2024-07-14",
+        "page": 5
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_02_2024_07_14-0045",
+      "farsi": "آفتاب",
+      "transliteration": "āftāb",
+      "english": "sun",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_02_2024-07-14.pdf",
+        "lesson": 2,
+        "date": "2024-07-14",
+        "page": 5
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_02_2024_07_14-0046",
+      "farsi": "عینک آفتابی",
+      "transliteration": "eynak āftābi",
+      "english": "sunglasses",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_02_2024-07-14.pdf",
+        "lesson": 2,
+        "date": "2024-07-14",
+        "page": 5
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_02_2024_07_14-0047",
+      "farsi": "مسیر",
+      "transliteration": "masir",
+      "english": "projector / path",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_02_2024-07-14.pdf",
+        "lesson": 2,
+        "date": "2024-07-14",
+        "page": 5
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_02_2024_07_14-0048",
+      "farsi": "طول کشیدن",
+      "transliteration": "tool keshidan",
+      "english": "to take time / to last",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_02_2024-07-14.pdf",
+        "lesson": 2,
+        "date": "2024-07-14",
+        "page": 5
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_02_2024_07_14-0049",
+      "farsi": "فرش",
+      "transliteration": "farsh",
+      "english": "carpet",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_02_2024-07-14.pdf",
+        "lesson": 2,
+        "date": "2024-07-14",
+        "page": 5
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_02_2024_07_14-0050",
+      "farsi": "جارو برقی",
+      "transliteration": "jāru barghi",
+      "english": "vacuum cleaner",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_02_2024-07-14.pdf",
+        "lesson": 2,
+        "date": "2024-07-14",
+        "page": 5
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_02_2024_07_14-0051",
+      "farsi": "مرتب",
+      "transliteration": "moratab",
+      "english": "organized / neat / in order",
+      "partOfSpeech": "adjective",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_02_2024-07-14.pdf",
+        "lesson": 2,
+        "date": "2024-07-14",
+        "page": 5
+      },
+      "needsReview": true
+    }
+  ]
+}

@@ -1,0 +1,212 @@
+{
+  "source": {
+    "file": "Lesson_04_2024-07-14.pdf",
+    "lesson": 4,
+    "date": "2024-07-14"
+  },
+  "notes": "HANDWRITTEN – agent vision extraction needed. Fill in entries array.",
+  "pages": [
+    "content/pages/lesson_04_2024_07_14/p01.png",
+    "content/pages/lesson_04_2024_07_14/p02.png"
+  ],
+  "entries": [
+    {
+      "id": "lesson_04_2024_07_14-0000",
+      "farsi": "راست",
+      "transliteration": "rāst",
+      "english": "by the way / right / true",
+      "partOfSpeech": "adverb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_04_2024-07-14.pdf",
+        "lesson": 4,
+        "date": "2024-07-14",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_04_2024_07_14-0001",
+      "farsi": "فرق",
+      "transliteration": "fargh",
+      "english": "difference",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_04_2024-07-14.pdf",
+        "lesson": 4,
+        "date": "2024-07-14",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_04_2024_07_14-0002",
+      "farsi": "اصطلاح",
+      "transliteration": "estelāh",
+      "english": "expression",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_04_2024-07-14.pdf",
+        "lesson": 4,
+        "date": "2024-07-14",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_04_2024_07_14-0003",
+      "farsi": "متفاوت",
+      "transliteration": "motafāvet",
+      "english": "different",
+      "partOfSpeech": "adjective",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_04_2024-07-14.pdf",
+        "lesson": 4,
+        "date": "2024-07-14",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_04_2024_07_14-0004",
+      "farsi": "راحت",
+      "transliteration": "rāhat",
+      "english": "comfortable / easy",
+      "partOfSpeech": "adjective",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_04_2024-07-14.pdf",
+        "lesson": 4,
+        "date": "2024-07-14",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_04_2024_07_14-0005",
+      "farsi": "معمولاً",
+      "transliteration": "ma'moulan",
+      "english": "usually",
+      "partOfSpeech": "adverb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_04_2024-07-14.pdf",
+        "lesson": 4,
+        "date": "2024-07-14",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_04_2024_07_14-0006",
+      "farsi": "مثال",
+      "transliteration": "mesāl",
+      "english": "example",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_04_2024-07-14.pdf",
+        "lesson": 4,
+        "date": "2024-07-14",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_04_2024_07_14-0007",
+      "farsi": "مثال زدن",
+      "transliteration": "mesāl zadan",
+      "english": "to give an example",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_04_2024-07-14.pdf",
+        "lesson": 4,
+        "date": "2024-07-14",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_04_2024_07_14-0008",
+      "farsi": "ربع",
+      "transliteration": "rob'",
+      "english": "quarter",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_04_2024-07-14.pdf",
+        "lesson": 4,
+        "date": "2024-07-14",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_04_2024_07_14-0009",
+      "farsi": "نیم",
+      "transliteration": "nim",
+      "english": "half",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_04_2024-07-14.pdf",
+        "lesson": 4,
+        "date": "2024-07-14",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_04_2024_07_14-0010",
+      "farsi": "دقیقه",
+      "transliteration": "dagighe",
+      "english": "minute",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_04_2024-07-14.pdf",
+        "lesson": 4,
+        "date": "2024-07-14",
+        "page": 1
+      },
+      "needsReview": true
+    }
+  ]
+}

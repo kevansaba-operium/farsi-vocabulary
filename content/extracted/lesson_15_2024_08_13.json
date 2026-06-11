@@ -1,0 +1,159 @@
+{
+  "source": {
+    "file": "Lesson_15_2024-08-13.pdf",
+    "lesson": 15,
+    "date": "2024-08-13"
+  },
+  "notes": "HANDWRITTEN – agent vision extraction needed. Fill in entries array.",
+  "pages": [
+    "content/pages/lesson_15_2024_08_13/p01.png",
+    "content/pages/lesson_15_2024_08_13/p02.png",
+    "content/pages/lesson_15_2024_08_13/p03.png"
+  ],
+  "entries": [
+    {
+      "id": "lesson_15_2024_08_13-0000",
+      "farsi": "کاشی",
+      "transliteration": "kāshi",
+      "english": "tile",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_15_2024-08-13.pdf",
+        "lesson": 15,
+        "date": "2024-08-13",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_15_2024_08_13-0001",
+      "farsi": "فیروزه ای",
+      "transliteration": "firooze'i",
+      "english": "turquoise (color)",
+      "partOfSpeech": "adjective",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_15_2024-08-13.pdf",
+        "lesson": 15,
+        "date": "2024-08-13",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_15_2024_08_13-0002",
+      "farsi": "فیروزه",
+      "transliteration": "firooze",
+      "english": "turquoise (stone)",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_15_2024-08-13.pdf",
+        "lesson": 15,
+        "date": "2024-08-13",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_15_2024_08_13-0003",
+      "farsi": "گنبد",
+      "transliteration": "gonbad",
+      "english": "dome",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_15_2024-08-13.pdf",
+        "lesson": 15,
+        "date": "2024-08-13",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_15_2024_08_13-0004",
+      "farsi": "کبوتر",
+      "transliteration": "kabootar",
+      "english": "pigeon",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_15_2024-08-13.pdf",
+        "lesson": 15,
+        "date": "2024-08-13",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_15_2024_08_13-0005",
+      "farsi": "به وجود آوردن",
+      "transliteration": "be vojood āvardan",
+      "english": "to create",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_15_2024-08-13.pdf",
+        "lesson": 15,
+        "date": "2024-08-13",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_15_2024_08_13-0006",
+      "farsi": "مسافر",
+      "transliteration": "mosāfer",
+      "english": "traveler",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_15_2024-08-13.pdf",
+        "lesson": 15,
+        "date": "2024-08-13",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_15_2024_08_13-0007",
+      "farsi": "پایه",
+      "transliteration": "pāye",
+      "english": "base / foot",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_15_2024-08-13.pdf",
+        "lesson": 15,
+        "date": "2024-08-13",
+        "page": 1
+      },
+      "needsReview": true
+    }
+  ]
+}

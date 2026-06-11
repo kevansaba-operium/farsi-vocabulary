@@ -1,0 +1,319 @@
+{
+  "source": {
+    "file": "Lesson_51_2025-05-26.pdf",
+    "lesson": null,
+    "date": "2025-05-26"
+  },
+  "notes": "HANDWRITTEN – agent vision extraction needed. Fill in entries array.",
+  "pages": [
+    "content/pages/note_2025_05_26/p01.png"
+  ],
+  "entries": [
+    {
+      "id": "lesson_51_2025_05_26-0000",
+      "farsi": "ثانیه",
+      "transliteration": "sāniye",
+      "english": "second (time unit)",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_51_2025-05-26.pdf",
+        "lesson": 51,
+        "date": "2025-05-26",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_51_2025_05_26-0001",
+      "farsi": "مبتدی",
+      "transliteration": "mobtadi",
+      "english": "beginner",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_51_2025-05-26.pdf",
+        "lesson": 51,
+        "date": "2025-05-26",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_51_2025_05_26-0002",
+      "farsi": "راه حل سریع",
+      "transliteration": "rāhe hale sari",
+      "english": "quick fix",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_51_2025-05-26.pdf",
+        "lesson": 51,
+        "date": "2025-05-26",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_51_2025_05_26-0003",
+      "farsi": "ستون",
+      "transliteration": "sotoon",
+      "english": "column",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_51_2025-05-26.pdf",
+        "lesson": 51,
+        "date": "2025-05-26",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_51_2025_05_26-0004",
+      "farsi": "کف",
+      "transliteration": "kaf",
+      "english": "bottom / floor",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_51_2025-05-26.pdf",
+        "lesson": 51,
+        "date": "2025-05-26",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_51_2025_05_26-0005",
+      "farsi": "زیر زمین",
+      "transliteration": "zir zamin",
+      "english": "basement",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_51_2025-05-26.pdf",
+        "lesson": 51,
+        "date": "2025-05-26",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_51_2025_05_26-0006",
+      "farsi": "تجربه",
+      "transliteration": "tajrobe",
+      "english": "experience",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_51_2025-05-26.pdf",
+        "lesson": 51,
+        "date": "2025-05-26",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_51_2025_05_26-0007",
+      "farsi": "جرات",
+      "transliteration": "jorāt",
+      "english": "dares / guts to do something",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_51_2025-05-26.pdf",
+        "lesson": 51,
+        "date": "2025-05-26",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_51_2025_05_26-0008",
+      "farsi": "بالغ",
+      "transliteration": "bālegh",
+      "english": "mature (for people)",
+      "partOfSpeech": "adjective",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_51_2025-05-26.pdf",
+        "lesson": 51,
+        "date": "2025-05-26",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_51_2025_05_26-0009",
+      "farsi": "تهاجمی",
+      "transliteration": "tahājomi",
+      "english": "aggressive",
+      "partOfSpeech": "adjective",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_51_2025-05-26.pdf",
+        "lesson": 51,
+        "date": "2025-05-26",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_51_2025_05_26-0010",
+      "farsi": "تقریباً هر روز",
+      "transliteration": "taghribon har rooz",
+      "english": "almost every day",
+      "partOfSpeech": "adverb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_51_2025-05-26.pdf",
+        "lesson": 51,
+        "date": "2025-05-26",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_51_2025_05_26-0011",
+      "farsi": "خوش‌بین",
+      "transliteration": "khosh bin",
+      "english": "optimist",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_51_2025-05-26.pdf",
+        "lesson": 51,
+        "date": "2025-05-26",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_51_2025_05_26-0012",
+      "farsi": "واقع‌بین",
+      "transliteration": "vāghe bin",
+      "english": "realist",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_51_2025-05-26.pdf",
+        "lesson": 51,
+        "date": "2025-05-26",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_51_2025_05_26-0013",
+      "farsi": "بدبین",
+      "transliteration": "bad bin",
+      "english": "pessimist",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_51_2025-05-26.pdf",
+        "lesson": 51,
+        "date": "2025-05-26",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_51_2025_05_26-0014",
+      "farsi": "نابغه",
+      "transliteration": "nābeghe",
+      "english": "genius",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_51_2025-05-26.pdf",
+        "lesson": 51,
+        "date": "2025-05-26",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_51_2025_05_26-0015",
+      "farsi": "غر زدن",
+      "transliteration": "ghor zadan",
+      "english": "to nag",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_51_2025-05-26.pdf",
+        "lesson": 51,
+        "date": "2025-05-26",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_51_2025_05_26-0016",
+      "farsi": "شکایت کردن",
+      "transliteration": "shekāyat kardan",
+      "english": "to complain",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_51_2025-05-26.pdf",
+        "lesson": 51,
+        "date": "2025-05-26",
+        "page": 1
+      },
+      "needsReview": true
+    }
+  ]
+}

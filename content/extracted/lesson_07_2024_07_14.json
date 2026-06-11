@@ -1,0 +1,284 @@
+{
+  "source": {
+    "file": "Lesson_07_2024-07-14.pdf",
+    "lesson": 7,
+    "date": "2024-07-14"
+  },
+  "notes": "HANDWRITTEN – agent vision extraction needed. Fill in entries array.",
+  "pages": [
+    "content/pages/lesson_07_2024_07_14/p01.png",
+    "content/pages/lesson_07_2024_07_14/p02.png"
+  ],
+  "entries": [
+    {
+      "id": "lesson_07_2024_07_14-0000",
+      "farsi": "موسیقی",
+      "transliteration": "moosighi",
+      "english": "music",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_07_2024-07-14.pdf",
+        "lesson": 7,
+        "date": "2024-07-14",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_07_2024_07_14-0001",
+      "farsi": "آهنگ",
+      "transliteration": "āhang",
+      "english": "track / song",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_07_2024-07-14.pdf",
+        "lesson": 7,
+        "date": "2024-07-14",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_07_2024_07_14-0002",
+      "farsi": "معنی",
+      "transliteration": "ma'ni",
+      "english": "meaning",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_07_2024-07-14.pdf",
+        "lesson": 7,
+        "date": "2024-07-14",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_07_2024_07_14-0003",
+      "farsi": "حافظه",
+      "transliteration": "hāfeze",
+      "english": "memory",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_07_2024-07-14.pdf",
+        "lesson": 7,
+        "date": "2024-07-14",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_07_2024_07_14-0004",
+      "farsi": "حفظ کردن",
+      "transliteration": "hefz kardan",
+      "english": "to memorize",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_07_2024-07-14.pdf",
+        "lesson": 7,
+        "date": "2024-07-14",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_07_2024_07_14-0005",
+      "farsi": "اضافه کردن",
+      "transliteration": "ezāfe kardan",
+      "english": "to add (Ezafe connector)",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_07_2024-07-14.pdf",
+        "lesson": 7,
+        "date": "2024-07-14",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_07_2024_07_14-0006",
+      "farsi": "گذاشتن",
+      "transliteration": "gozāshtan",
+      "english": "1) to put  2) to allow",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_07_2024-07-14.pdf",
+        "lesson": 7,
+        "date": "2024-07-14",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_07_2024_07_14-0007",
+      "farsi": "متن",
+      "transliteration": "matn",
+      "english": "text",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_07_2024-07-14.pdf",
+        "lesson": 7,
+        "date": "2024-07-14",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_07_2024_07_14-0008",
+      "farsi": "فرستادن",
+      "transliteration": "ferestādan",
+      "english": "to send",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_07_2024-07-14.pdf",
+        "lesson": 7,
+        "date": "2024-07-14",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_07_2024_07_14-0009",
+      "farsi": "حق",
+      "transliteration": "haghgh",
+      "english": "right (noun)",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_07_2024-07-14.pdf",
+        "lesson": 7,
+        "date": "2024-07-14",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_07_2024_07_14-0010",
+      "farsi": "چاق",
+      "transliteration": "chāgh",
+      "english": "fat",
+      "partOfSpeech": "adjective",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_07_2024-07-14.pdf",
+        "lesson": 7,
+        "date": "2024-07-14",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_07_2024_07_14-0011",
+      "farsi": "لاغر",
+      "transliteration": "lāghar",
+      "english": "skinny",
+      "partOfSpeech": "adjective",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_07_2024-07-14.pdf",
+        "lesson": 7,
+        "date": "2024-07-14",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_07_2024_07_14-0012",
+      "farsi": "شل",
+      "transliteration": "shol",
+      "english": "chubby",
+      "partOfSpeech": "adjective",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_07_2024-07-14.pdf",
+        "lesson": 7,
+        "date": "2024-07-14",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_07_2024_07_14-0013",
+      "farsi": "عضله",
+      "transliteration": "azole",
+      "english": "muscle",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_07_2024-07-14.pdf",
+        "lesson": 7,
+        "date": "2024-07-14",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_07_2024_07_14-0014",
+      "farsi": "بلیط",
+      "transliteration": "belit",
+      "english": "ticket",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_07_2024-07-14.pdf",
+        "lesson": 7,
+        "date": "2024-07-14",
+        "page": 1
+      },
+      "needsReview": true
+    }
+  ]
+}

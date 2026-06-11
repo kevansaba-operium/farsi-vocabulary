@@ -1,0 +1,464 @@
+{
+  "source": {
+    "file": "Lesson_32_2024-12-20.pdf",
+    "lesson": null,
+    "date": "2024-12-20"
+  },
+  "notes": "HANDWRITTEN – agent vision extraction needed. Fill in entries array.",
+  "pages": [
+    "content/pages/note_2024_12_20/p01.png",
+    "content/pages/note_2024_12_20/p02.png"
+  ],
+  "entries": [
+    {
+      "id": "lesson_32_2024_12_20-0000",
+      "farsi": "جشن",
+      "transliteration": "jashn",
+      "english": "celebration / festival",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_32_2024-12-20.pdf",
+        "lesson": 32,
+        "date": "2024-12-20",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_32_2024_12_20-0001",
+      "farsi": "جشن گرفتن",
+      "transliteration": "jashn gereftan",
+      "english": "to celebrate",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_32_2024-12-20.pdf",
+        "lesson": 32,
+        "date": "2024-12-20",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_32_2024_12_20-0002",
+      "farsi": "سلطنت",
+      "transliteration": "saltanat",
+      "english": "kingdom",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_32_2024-12-20.pdf",
+        "lesson": 32,
+        "date": "2024-12-20",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_32_2024_12_20-0003",
+      "farsi": "شاهنشاهی",
+      "transliteration": "shāhanshāhi",
+      "english": "feudal system / imperial system",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_32_2024-12-20.pdf",
+        "lesson": 32,
+        "date": "2024-12-20",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_32_2024_12_20-0004",
+      "farsi": "رسم",
+      "transliteration": "rasm",
+      "english": "tradition",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_32_2024-12-20.pdf",
+        "lesson": 32,
+        "date": "2024-12-20",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_32_2024_12_20-0005",
+      "farsi": "نیرو",
+      "transliteration": "niroo",
+      "english": "force",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_32_2024-12-20.pdf",
+        "lesson": 32,
+        "date": "2024-12-20",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_32_2024_12_20-0006",
+      "farsi": "بی قدرت",
+      "transliteration": "bi ghodrat",
+      "english": "powerless",
+      "partOfSpeech": "adjective",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_32_2024-12-20.pdf",
+        "lesson": 32,
+        "date": "2024-12-20",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_32_2024_12_20-0007",
+      "farsi": "پرتاب شدن",
+      "transliteration": "par shadan",
+      "english": "to get decapitated / to scatter",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_32_2024-12-20.pdf",
+        "lesson": 32,
+        "date": "2024-12-20",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_32_2024_12_20-0008",
+      "farsi": "خاص",
+      "transliteration": "khās",
+      "english": "unique / special",
+      "partOfSpeech": "adjective",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_32_2024-12-20.pdf",
+        "lesson": 32,
+        "date": "2024-12-20",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_32_2024_12_20-0009",
+      "farsi": "جنگ صدساله",
+      "transliteration": "jange sad sāle",
+      "english": "100 year war",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_32_2024-12-20.pdf",
+        "lesson": 32,
+        "date": "2024-12-20",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_32_2024_12_20-0010",
+      "farsi": "آتش بس",
+      "transliteration": "ātash bas",
+      "english": "cease fire",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_32_2024-12-20.pdf",
+        "lesson": 32,
+        "date": "2024-12-20",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_32_2024_12_20-0011",
+      "farsi": "صلح",
+      "transliteration": "solh",
+      "english": "peace",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_32_2024-12-20.pdf",
+        "lesson": 32,
+        "date": "2024-12-20",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_32_2024_12_20-0012",
+      "farsi": "حمله",
+      "transliteration": "hamle",
+      "english": "attack (noun)",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_32_2024-12-20.pdf",
+        "lesson": 32,
+        "date": "2024-12-20",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_32_2024_12_20-0013",
+      "farsi": "حمله کردن",
+      "transliteration": "hamle kardan",
+      "english": "to attack",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_32_2024-12-20.pdf",
+        "lesson": 32,
+        "date": "2024-12-20",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_32_2024_12_20-0014",
+      "farsi": "نوادگان",
+      "transliteration": "navādegān",
+      "english": "descendants",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_32_2024-12-20.pdf",
+        "lesson": 32,
+        "date": "2024-12-20",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_32_2024_12_20-0015",
+      "farsi": "هویت",
+      "transliteration": "hoviyat",
+      "english": "identity",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_32_2024-12-20.pdf",
+        "lesson": 32,
+        "date": "2024-12-20",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_32_2024_12_20-0016",
+      "farsi": "اختلاف",
+      "transliteration": "ekhtelāf",
+      "english": "1) difference  2) conflict",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_32_2024-12-20.pdf",
+        "lesson": 32,
+        "date": "2024-12-20",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_32_2024_12_20-0017",
+      "farsi": "ارزش",
+      "transliteration": "arzesh",
+      "english": "value",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_32_2024-12-20.pdf",
+        "lesson": 32,
+        "date": "2024-12-20",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_32_2024_12_20-0018",
+      "farsi": "ارزشمند",
+      "transliteration": "arzeshmand",
+      "english": "valuable",
+      "partOfSpeech": "adjective",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_32_2024-12-20.pdf",
+        "lesson": 32,
+        "date": "2024-12-20",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_32_2024_12_20-0019",
+      "farsi": "باهوش",
+      "transliteration": "bāhune",
+      "english": "excuse",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_32_2024-12-20.pdf",
+        "lesson": 32,
+        "date": "2024-12-20",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_32_2024_12_20-0020",
+      "farsi": "فلسفه",
+      "transliteration": "falsafe",
+      "english": "philosophy",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_32_2024-12-20.pdf",
+        "lesson": 32,
+        "date": "2024-12-20",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_32_2024_12_20-0021",
+      "farsi": "نماد",
+      "transliteration": "namād",
+      "english": "symbol",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_32_2024-12-20.pdf",
+        "lesson": 32,
+        "date": "2024-12-20",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_32_2024_12_20-0022",
+      "farsi": "نبرد / آتش‌بس",
+      "transliteration": "nabard / ātashbas",
+      "english": "battle / ceasefire",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_32_2024-12-20.pdf",
+        "lesson": 32,
+        "date": "2024-12-20",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_32_2024_12_20-0023",
+      "farsi": "جانشین تاج و تخت",
+      "transliteration": "jāneshin tāj o takht",
+      "english": "right to the throne",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_32_2024-12-20.pdf",
+        "lesson": 32,
+        "date": "2024-12-20",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_32_2024_12_20-0024",
+      "farsi": "طرز فکر",
+      "transliteration": "tarze fekr",
+      "english": "way of thinking",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_32_2024-12-20.pdf",
+        "lesson": 32,
+        "date": "2024-12-20",
+        "page": 1
+      },
+      "needsReview": true
+    }
+  ]
+}

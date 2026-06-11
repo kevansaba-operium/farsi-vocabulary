@@ -1,0 +1,391 @@
+{
+  "source": {
+    "file": "Lesson_69_2025-10-10.pdf",
+    "lesson": null,
+    "date": "2025-10-10"
+  },
+  "notes": "HANDWRITTEN – agent vision extraction needed. Fill in entries array.",
+  "pages": [
+    "content/pages/note_2025_10_10/p01.png"
+  ],
+  "entries": [
+    {
+      "id": "lesson_69_2025_10_10-0000",
+      "farsi": "مزرعه",
+      "transliteration": "mazra'e",
+      "english": "farm",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_69_2025-10-10.pdf",
+        "lesson": 69,
+        "date": "2025-10-10",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_69_2025_10_10-0001",
+      "farsi": "کشاورز",
+      "transliteration": "keshāvarz",
+      "english": "farmer",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_69_2025-10-10.pdf",
+        "lesson": 69,
+        "date": "2025-10-10",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_69_2025_10_10-0002",
+      "farsi": "تلخ",
+      "transliteration": "talkh",
+      "english": "bitter",
+      "partOfSpeech": "adjective",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_69_2025-10-10.pdf",
+        "lesson": 69,
+        "date": "2025-10-10",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_69_2025_10_10-0003",
+      "farsi": "سرخ کرده",
+      "transliteration": "sorkh karde",
+      "english": "fried",
+      "partOfSpeech": "adjective",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_69_2025-10-10.pdf",
+        "lesson": 69,
+        "date": "2025-10-10",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_69_2025_10_10-0004",
+      "farsi": "چیدن",
+      "transliteration": "chidan",
+      "english": "to pick fruits from trees",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_69_2025-10-10.pdf",
+        "lesson": 69,
+        "date": "2025-10-10",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_69_2025_10_10-0005",
+      "farsi": "گوشت قل قلی",
+      "transliteration": "goosht ghel gheli",
+      "english": "meatball",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_69_2025-10-10.pdf",
+        "lesson": 69,
+        "date": "2025-10-10",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_69_2025_10_10-0006",
+      "farsi": "بلند کردن",
+      "transliteration": "boland kardan",
+      "english": "to lift",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_69_2025-10-10.pdf",
+        "lesson": 69,
+        "date": "2025-10-10",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_69_2025_10_10-0007",
+      "farsi": "ادویه",
+      "transliteration": "adwiye",
+      "english": "spice",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_69_2025-10-10.pdf",
+        "lesson": 69,
+        "date": "2025-10-10",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_69_2025_10_10-0008",
+      "farsi": "پشه",
+      "transliteration": "pashe",
+      "english": "mosquito",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_69_2025-10-10.pdf",
+        "lesson": 69,
+        "date": "2025-10-10",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_69_2025_10_10-0009",
+      "farsi": "خاص",
+      "transliteration": "khās",
+      "english": "specific / unique",
+      "partOfSpeech": "adjective",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_69_2025-10-10.pdf",
+        "lesson": 69,
+        "date": "2025-10-10",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_69_2025_10_10-0010",
+      "farsi": "حشره",
+      "transliteration": "hashare",
+      "english": "insect",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_69_2025-10-10.pdf",
+        "lesson": 69,
+        "date": "2025-10-10",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_69_2025_10_10-0011",
+      "farsi": "جلسه",
+      "transliteration": "jalase",
+      "english": "meeting / session",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_69_2025-10-10.pdf",
+        "lesson": 69,
+        "date": "2025-10-10",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_69_2025_10_10-0012",
+      "farsi": "علاوه بر اینها",
+      "transliteration": "alāve bar inhā",
+      "english": "on top of these / in addition to these",
+      "partOfSpeech": "phrase",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_69_2025-10-10.pdf",
+        "lesson": 69,
+        "date": "2025-10-10",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_69_2025_10_10-0013",
+      "farsi": "درجه",
+      "transliteration": "daraje",
+      "english": "degree",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_69_2025-10-10.pdf",
+        "lesson": 69,
+        "date": "2025-10-10",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_69_2025_10_10-0014",
+      "farsi": "تأثیر",
+      "transliteration": "ta'sir",
+      "english": "effect / influence",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_69_2025-10-10.pdf",
+        "lesson": 69,
+        "date": "2025-10-10",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_69_2025_10_10-0015",
+      "farsi": "جزیره",
+      "transliteration": "jazire",
+      "english": "island",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_69_2025-10-10.pdf",
+        "lesson": 69,
+        "date": "2025-10-10",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_69_2025_10_10-0016",
+      "farsi": "اینجا زمستون به اندازه ی جاهای دیگه طول نمی کشه",
+      "transliteration": "inja zemestoon be andāze'i jāhāye dige tool nemi keshe",
+      "english": "winter here doesn't last as long as other places",
+      "partOfSpeech": "phrase",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_69_2025-10-10.pdf",
+        "lesson": 69,
+        "date": "2025-10-10",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_69_2025_10_10-0017",
+      "farsi": "متنفر بودن",
+      "transliteration": "motanaffar budan",
+      "english": "to hate",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_69_2025-10-10.pdf",
+        "lesson": 69,
+        "date": "2025-10-10",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_69_2025_10_10-0018",
+      "farsi": "مرخصی",
+      "transliteration": "morakhasi",
+      "english": "week vacation / leave",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_69_2025-10-10.pdf",
+        "lesson": 69,
+        "date": "2025-10-10",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_69_2025_10_10-0019",
+      "farsi": "رفاه اجتماعی",
+      "transliteration": "rafāhe ejtemā'i",
+      "english": "social welfare",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_69_2025-10-10.pdf",
+        "lesson": 69,
+        "date": "2025-10-10",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_69_2025_10_10-0020",
+      "farsi": "خروشت",
+      "transliteration": "kharousht",
+      "english": "show",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_69_2025-10-10.pdf",
+        "lesson": 69,
+        "date": "2025-10-10",
+        "page": 1
+      },
+      "needsReview": true
+    }
+  ]
+}

@@ -1,0 +1,536 @@
+{
+  "source": {
+    "file": "Lesson_65_2025-09-29.pdf",
+    "lesson": null,
+    "date": "2025-09-29"
+  },
+  "notes": "HANDWRITTEN – agent vision extraction needed. Fill in entries array.",
+  "pages": [
+    "content/pages/lesson_x_2025_09_29_duplicate/p01.png",
+    "content/pages/lesson_x_2025_09_29_duplicate/p02.png"
+  ],
+  "entries": [
+    {
+      "id": "lesson_65_2025_09_29-0000",
+      "farsi": "احتساب کردن",
+      "transliteration": "ehtesāb kardan",
+      "english": "to account for / to count",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_65_2025-09-29.pdf",
+        "lesson": 65,
+        "date": "2025-09-29",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_65_2025_09_29-0001",
+      "farsi": "اعتصاب کردن",
+      "transliteration": "e'tesāb kardan",
+      "english": "to go on a strike",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_65_2025-09-29.pdf",
+        "lesson": 65,
+        "date": "2025-09-29",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_65_2025_09_29-0002",
+      "farsi": "خلبان",
+      "transliteration": "khalabān",
+      "english": "pilot",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_65_2025-09-29.pdf",
+        "lesson": 65,
+        "date": "2025-09-29",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_65_2025_09_29-0003",
+      "farsi": "تحلیل کردن",
+      "transliteration": "tahlil kardan",
+      "english": "to analyze",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_65_2025-09-29.pdf",
+        "lesson": 65,
+        "date": "2025-09-29",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_65_2025_09_29-0004",
+      "farsi": "تحلیل",
+      "transliteration": "tahlil",
+      "english": "analysis",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_65_2025-09-29.pdf",
+        "lesson": 65,
+        "date": "2025-09-29",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_65_2025_09_29-0005",
+      "farsi": "منطقه",
+      "transliteration": "mantaghe",
+      "english": "region / area",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_65_2025-09-29.pdf",
+        "lesson": 65,
+        "date": "2025-09-29",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_65_2025_09_29-0006",
+      "farsi": "شدت می‌گیره",
+      "transliteration": "sheddat migire",
+      "english": "it will crack you up / it intensifies",
+      "partOfSpeech": "phrase",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_65_2025-09-29.pdf",
+        "lesson": 65,
+        "date": "2025-09-29",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_65_2025_09_29-0007",
+      "farsi": "ورشکست شدن",
+      "transliteration": "vor shekast shodan",
+      "english": "to go bankrupt",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_65_2025-09-29.pdf",
+        "lesson": 65,
+        "date": "2025-09-29",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_65_2025_09_29-0008",
+      "farsi": "فاصله",
+      "transliteration": "fāsele",
+      "english": "distance",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_65_2025-09-29.pdf",
+        "lesson": 65,
+        "date": "2025-09-29",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_65_2025_09_29-0009",
+      "farsi": "زوج",
+      "transliteration": "zoj",
+      "english": "couple / pair",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_65_2025-09-29.pdf",
+        "lesson": 65,
+        "date": "2025-09-29",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_65_2025_09_29-0010",
+      "farsi": "شهردار",
+      "transliteration": "shahrdār",
+      "english": "mayor",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_65_2025-09-29.pdf",
+        "lesson": 65,
+        "date": "2025-09-29",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_65_2025_09_29-0011",
+      "farsi": "دقیقاً بعد از",
+      "transliteration": "daghighan bad az",
+      "english": "right after",
+      "partOfSpeech": "adverb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_65_2025-09-29.pdf",
+        "lesson": 65,
+        "date": "2025-09-29",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_65_2025_09_29-0012",
+      "farsi": "اندازه گرفتن",
+      "transliteration": "andāze gereftan",
+      "english": "to measure",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_65_2025-09-29.pdf",
+        "lesson": 65,
+        "date": "2025-09-29",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_65_2025_09_29-0013",
+      "farsi": "جامعه",
+      "transliteration": "jāme'e",
+      "english": "society",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_65_2025-09-29.pdf",
+        "lesson": 65,
+        "date": "2025-09-29",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_65_2025_09_29-0014",
+      "farsi": "جنبش",
+      "transliteration": "jonbesh",
+      "english": "movement",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_65_2025-09-29.pdf",
+        "lesson": 65,
+        "date": "2025-09-29",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_65_2025_09_29-0015",
+      "farsi": "گیاه‌خوار",
+      "transliteration": "giyāh khār",
+      "english": "vegan / vegetarian",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_65_2025-09-29.pdf",
+        "lesson": 65,
+        "date": "2025-09-29",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_65_2025_09_29-0016",
+      "farsi": "پدیده",
+      "transliteration": "padide",
+      "english": "phenomenon",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_65_2025-09-29.pdf",
+        "lesson": 65,
+        "date": "2025-09-29",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_65_2025_09_29-0017",
+      "farsi": "به‌طور متوسط",
+      "transliteration": "be tour motavasset",
+      "english": "on average",
+      "partOfSpeech": "adverb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_65_2025-09-29.pdf",
+        "lesson": 65,
+        "date": "2025-09-29",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_65_2025_09_29-0018",
+      "farsi": "احترام می‌ذارم بهش",
+      "transliteration": "ehteram mizāram be'sh",
+      "english": "I respect this",
+      "partOfSpeech": "phrase",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_65_2025-09-29.pdf",
+        "lesson": 65,
+        "date": "2025-09-29",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_65_2025_09_29-0019",
+      "farsi": "بدون هیچ قضاوتی",
+      "transliteration": "bedune hich ghezāvati",
+      "english": "without any judgement",
+      "partOfSpeech": "phrase",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_65_2025-09-29.pdf",
+        "lesson": 65,
+        "date": "2025-09-29",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_65_2025_09_29-0020",
+      "farsi": "از بین رفتن",
+      "transliteration": "az beyn raftan",
+      "english": "to get destroyed / to disappear",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_65_2025-09-29.pdf",
+        "lesson": 65,
+        "date": "2025-09-29",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_65_2025_09_29-0021",
+      "farsi": "مهاجر",
+      "transliteration": "mohājer",
+      "english": "immigrant",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_65_2025-09-29.pdf",
+        "lesson": 65,
+        "date": "2025-09-29",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_65_2025_09_29-0022",
+      "farsi": "رو به‌رو شدن",
+      "transliteration": "rooye rooyi",
+      "english": "encounter / to face",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_65_2025-09-29.pdf",
+        "lesson": 65,
+        "date": "2025-09-29",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_65_2025_09_29-0023",
+      "farsi": "نخست وزیر",
+      "transliteration": "nakhost vazir",
+      "english": "prime minister",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_65_2025-09-29.pdf",
+        "lesson": 65,
+        "date": "2025-09-29",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_65_2025_09_29-0024",
+      "farsi": "سوسک",
+      "transliteration": "soosk",
+      "english": "cockroach",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_65_2025-09-29.pdf",
+        "lesson": 65,
+        "date": "2025-09-29",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_65_2025_09_29-0025",
+      "farsi": "صلیب",
+      "transliteration": "salib",
+      "english": "cross",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_65_2025-09-29.pdf",
+        "lesson": 65,
+        "date": "2025-09-29",
+        "page": 2
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_65_2025_09_29-0026",
+      "farsi": "جنگ های صلیبی",
+      "transliteration": "jang hāye salibi",
+      "english": "crusades",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_65_2025-09-29.pdf",
+        "lesson": 65,
+        "date": "2025-09-29",
+        "page": 2
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_65_2025_09_29-0027",
+      "farsi": "تکان خوردن",
+      "transliteration": "tekān khordan",
+      "english": "to move / to shake",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_65_2025-09-29.pdf",
+        "lesson": 65,
+        "date": "2025-09-29",
+        "page": 2
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_65_2025_09_29-0028",
+      "farsi": "خوابگاه",
+      "transliteration": "khābgāh",
+      "english": "dorm / dormitory",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_65_2025-09-29.pdf",
+        "lesson": 65,
+        "date": "2025-09-29",
+        "page": 2
+      },
+      "needsReview": true
+    }
+  ]
+}

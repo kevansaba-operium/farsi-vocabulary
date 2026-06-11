@@ -1,0 +1,554 @@
+{
+  "source": {
+    "file": "Lesson_05_2024-07-14.pdf",
+    "lesson": 5,
+    "date": "2024-07-14"
+  },
+  "notes": "HANDWRITTEN – agent vision extraction needed. Fill in entries array.",
+  "pages": [
+    "content/pages/lesson_05_2024_07_14/p01.png",
+    "content/pages/lesson_05_2024_07_14/p02.png"
+  ],
+  "entries": [
+    {
+      "id": "lesson_05_2024_07_14-0000",
+      "farsi": "آخر هفته",
+      "transliteration": "ākhare hafte",
+      "english": "weekend",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_05_2024-07-14.pdf",
+        "lesson": 5,
+        "date": "2024-07-14",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_05_2024_07_14-0001",
+      "farsi": "نکته",
+      "transliteration": "nokte",
+      "english": "important point / note",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_05_2024-07-14.pdf",
+        "lesson": 5,
+        "date": "2024-07-14",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_05_2024_07_14-0002",
+      "farsi": "عدد",
+      "transliteration": "adad",
+      "english": "number",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_05_2024-07-14.pdf",
+        "lesson": 5,
+        "date": "2024-07-14",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_05_2024_07_14-0003",
+      "farsi": "جنگل",
+      "transliteration": "jangal",
+      "english": "jungle / forest",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_05_2024-07-14.pdf",
+        "lesson": 5,
+        "date": "2024-07-14",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_05_2024_07_14-0004",
+      "farsi": "وحشی",
+      "transliteration": "vahshi",
+      "english": "wild",
+      "partOfSpeech": "adjective",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_05_2024-07-14.pdf",
+        "lesson": 5,
+        "date": "2024-07-14",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_05_2024_07_14-0005",
+      "farsi": "وقت",
+      "transliteration": "vaght",
+      "english": "time",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_05_2024-07-14.pdf",
+        "lesson": 5,
+        "date": "2024-07-14",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_05_2024_07_14-0006",
+      "farsi": "زمان",
+      "transliteration": "zamān",
+      "english": "time / era",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_05_2024-07-14.pdf",
+        "lesson": 5,
+        "date": "2024-07-14",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_05_2024_07_14-0007",
+      "farsi": "حال",
+      "transliteration": "hāl",
+      "english": "present tense",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_05_2024-07-14.pdf",
+        "lesson": 5,
+        "date": "2024-07-14",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_05_2024_07_14-0008",
+      "farsi": "الآن",
+      "transliteration": "alān",
+      "english": "now",
+      "partOfSpeech": "adverb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_05_2024-07-14.pdf",
+        "lesson": 5,
+        "date": "2024-07-14",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_05_2024_07_14-0009",
+      "farsi": "دما",
+      "transliteration": "damā",
+      "english": "temperature",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_05_2024-07-14.pdf",
+        "lesson": 5,
+        "date": "2024-07-14",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_05_2024_07_14-0010",
+      "farsi": "فصل",
+      "transliteration": "fasl",
+      "english": "season",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_05_2024-07-14.pdf",
+        "lesson": 5,
+        "date": "2024-07-14",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_05_2024_07_14-0011",
+      "farsi": "درجه",
+      "transliteration": "daraje",
+      "english": "degree",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_05_2024-07-14.pdf",
+        "lesson": 5,
+        "date": "2024-07-14",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_05_2024_07_14-0012",
+      "farsi": "مرز",
+      "transliteration": "marz",
+      "english": "border",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_05_2024-07-14.pdf",
+        "lesson": 5,
+        "date": "2024-07-14",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_05_2024_07_14-0013",
+      "farsi": "مغز",
+      "transliteration": "maghz",
+      "english": "brain",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_05_2024-07-14.pdf",
+        "lesson": 5,
+        "date": "2024-07-14",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_05_2024_07_14-0014",
+      "farsi": "بهار",
+      "transliteration": "bahār",
+      "english": "spring",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_05_2024-07-14.pdf",
+        "lesson": 5,
+        "date": "2024-07-14",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_05_2024_07_14-0015",
+      "farsi": "تابستون / تابستان",
+      "transliteration": "tābeston / tābestan",
+      "english": "summer",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_05_2024-07-14.pdf",
+        "lesson": 5,
+        "date": "2024-07-14",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_05_2024_07_14-0016",
+      "farsi": "پاییز",
+      "transliteration": "pāyiz",
+      "english": "fall / autumn",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_05_2024-07-14.pdf",
+        "lesson": 5,
+        "date": "2024-07-14",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_05_2024_07_14-0017",
+      "farsi": "زمستون / زمستان",
+      "transliteration": "zemeston / zemestan",
+      "english": "winter",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_05_2024-07-14.pdf",
+        "lesson": 5,
+        "date": "2024-07-14",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_05_2024_07_14-0018",
+      "farsi": "شمال",
+      "transliteration": "shomāl",
+      "english": "north",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_05_2024-07-14.pdf",
+        "lesson": 5,
+        "date": "2024-07-14",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_05_2024_07_14-0019",
+      "farsi": "شرق",
+      "transliteration": "shargh",
+      "english": "east",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_05_2024-07-14.pdf",
+        "lesson": 5,
+        "date": "2024-07-14",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_05_2024_07_14-0020",
+      "farsi": "غرب",
+      "transliteration": "gharb",
+      "english": "west",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_05_2024-07-14.pdf",
+        "lesson": 5,
+        "date": "2024-07-14",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_05_2024_07_14-0021",
+      "farsi": "جنوب",
+      "transliteration": "jonoob",
+      "english": "south",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_05_2024-07-14.pdf",
+        "lesson": 5,
+        "date": "2024-07-14",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_05_2024_07_14-0022",
+      "farsi": "خطرناک",
+      "transliteration": "khatarnāk",
+      "english": "dangerous",
+      "partOfSpeech": "adjective",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_05_2024-07-14.pdf",
+        "lesson": 5,
+        "date": "2024-07-14",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_05_2024_07_14-0023",
+      "farsi": "زرنگی می‌کنم",
+      "transliteration": "zerangi mikonam",
+      "english": "I'm being clever",
+      "partOfSpeech": "phrase",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_05_2024-07-14.pdf",
+        "lesson": 5,
+        "date": "2024-07-14",
+        "page": 2
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_05_2024_07_14-0024",
+      "farsi": "باختن",
+      "transliteration": "bākhtan",
+      "english": "to lose",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_05_2024-07-14.pdf",
+        "lesson": 5,
+        "date": "2024-07-14",
+        "page": 2
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_05_2024_07_14-0025",
+      "farsi": "استخر",
+      "transliteration": "estakhr",
+      "english": "pool",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_05_2024-07-14.pdf",
+        "lesson": 5,
+        "date": "2024-07-14",
+        "page": 2
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_05_2024_07_14-0026",
+      "farsi": "شنا",
+      "transliteration": "shenā",
+      "english": "swimming",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_05_2024-07-14.pdf",
+        "lesson": 5,
+        "date": "2024-07-14",
+        "page": 2
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_05_2024_07_14-0027",
+      "farsi": "شنا کردن",
+      "transliteration": "shenā kardan",
+      "english": "to swim",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_05_2024-07-14.pdf",
+        "lesson": 5,
+        "date": "2024-07-14",
+        "page": 2
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_05_2024_07_14-0028",
+      "farsi": "رودخونه",
+      "transliteration": "rudkhone",
+      "english": "river",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_05_2024-07-14.pdf",
+        "lesson": 5,
+        "date": "2024-07-14",
+        "page": 2
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_05_2024_07_14-0029",
+      "farsi": "به‌تصادف خوردن",
+      "transliteration": "be tasādof khordan",
+      "english": "to bump into / to run into someone",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_05_2024-07-14.pdf",
+        "lesson": 5,
+        "date": "2024-07-14",
+        "page": 2
+      },
+      "needsReview": true
+    }
+  ]
+}

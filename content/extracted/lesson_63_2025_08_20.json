@@ -1,0 +1,301 @@
+{
+  "source": {
+    "file": "Lesson_63_2025-08-20.pdf",
+    "lesson": null,
+    "date": "2025-08-20"
+  },
+  "notes": "HANDWRITTEN – agent vision extraction needed. Fill in entries array.",
+  "pages": [
+    "content/pages/note_2025_08_20/p01.png"
+  ],
+  "entries": [
+    {
+      "id": "lesson_63_2025_08_20-0000",
+      "farsi": "جلسه",
+      "transliteration": "jalase",
+      "english": "meeting",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_63_2025-08-20.pdf",
+        "lesson": 63,
+        "date": "2025-08-20",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_63_2025_08_20-0001",
+      "farsi": "بازه زمانی",
+      "transliteration": "bāzeye zamāni",
+      "english": "time slot / time window",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_63_2025-08-20.pdf",
+        "lesson": 63,
+        "date": "2025-08-20",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_63_2025_08_20-0002",
+      "farsi": "مدیریت",
+      "transliteration": "modiriyat",
+      "english": "management",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_63_2025-08-20.pdf",
+        "lesson": 63,
+        "date": "2025-08-20",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_63_2025_08_20-0003",
+      "farsi": "مدیریت کردن",
+      "transliteration": "modiriyat kardan",
+      "english": "to manage",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_63_2025-08-20.pdf",
+        "lesson": 63,
+        "date": "2025-08-20",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_63_2025_08_20-0004",
+      "farsi": "چشم‌انداز",
+      "transliteration": "cheshmandāz",
+      "english": "prospect / vision",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_63_2025-08-20.pdf",
+        "lesson": 63,
+        "date": "2025-08-20",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_63_2025_08_20-0005",
+      "farsi": "گزینه",
+      "transliteration": "gozine",
+      "english": "option",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_63_2025-08-20.pdf",
+        "lesson": 63,
+        "date": "2025-08-20",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_63_2025_08_20-0006",
+      "farsi": "اولین انتخاب‌ها",
+      "transliteration": "avolin entekhābhā",
+      "english": "first options",
+      "partOfSpeech": "phrase",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_63_2025-08-20.pdf",
+        "lesson": 63,
+        "date": "2025-08-20",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_63_2025_08_20-0007",
+      "farsi": "مهارت",
+      "transliteration": "mahārat",
+      "english": "skill",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_63_2025-08-20.pdf",
+        "lesson": 63,
+        "date": "2025-08-20",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_63_2025_08_20-0008",
+      "farsi": "ماهر",
+      "transliteration": "māher",
+      "english": "skillful",
+      "partOfSpeech": "adjective",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_63_2025-08-20.pdf",
+        "lesson": 63,
+        "date": "2025-08-20",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_63_2025_08_20-0009",
+      "farsi": "مشاوره دادن",
+      "transliteration": "moshāvare dādan",
+      "english": "to give consultation",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_63_2025-08-20.pdf",
+        "lesson": 63,
+        "date": "2025-08-20",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_63_2025_08_20-0010",
+      "farsi": "مشاور",
+      "transliteration": "moshāver",
+      "english": "consultant",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_63_2025-08-20.pdf",
+        "lesson": 63,
+        "date": "2025-08-20",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_63_2025_08_20-0011",
+      "farsi": "مهارت برقراری ارتباط",
+      "transliteration": "mahārate barghāriye ertebāt",
+      "english": "communication skill",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_63_2025-08-20.pdf",
+        "lesson": 63,
+        "date": "2025-08-20",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_63_2025_08_20-0012",
+      "farsi": "مفید",
+      "transliteration": "mofid",
+      "english": "beneficial / useful",
+      "partOfSpeech": "adjective",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_63_2025-08-20.pdf",
+        "lesson": 63,
+        "date": "2025-08-20",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_63_2025_08_20-0013",
+      "farsi": "تعریف کردن",
+      "transliteration": "ta'rif kardan",
+      "english": "to define",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_63_2025-08-20.pdf",
+        "lesson": 63,
+        "date": "2025-08-20",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_63_2025_08_20-0014",
+      "farsi": "رفتار",
+      "transliteration": "raftār",
+      "english": "behavior",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_63_2025-08-20.pdf",
+        "lesson": 63,
+        "date": "2025-08-20",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_63_2025_08_20-0015",
+      "farsi": "سنتی",
+      "transliteration": "sonati",
+      "english": "traditional",
+      "partOfSpeech": "adjective",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_63_2025-08-20.pdf",
+        "lesson": 63,
+        "date": "2025-08-20",
+        "page": 1
+      },
+      "needsReview": true
+    }
+  ]
+}

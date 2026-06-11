@@ -1,0 +1,770 @@
+{
+  "Lesson_01_2024-07-14.pdf": {
+    "entryCount": 0,
+    "lastProcessed": "2026-06-08T21:25:22.440024Z",
+    "pageCount": 2,
+    "sha256": "9e9b0204ac65a5e92a86fe0a5200c42b916e94fe4a3e51643be2bf5253380368",
+    "status": "needs_vision",
+    "type": "handwritten"
+  },
+  "Lesson_02_2024-07-14.pdf": {
+    "entryCount": 0,
+    "lastProcessed": "2026-06-08T21:25:22.815126Z",
+    "pageCount": 5,
+    "sha256": "e4e7edd8818ed6a14065274cee4df5a6a6913a48425a5da154f4708893395d47",
+    "status": "needs_vision",
+    "type": "handwritten"
+  },
+  "Lesson_03_2024-07-14.pdf": {
+    "entryCount": 20,
+    "lastProcessed": "2026-06-08T21:27:52.667153Z",
+    "pageCount": 2,
+    "sha256": "bf8154a250f9a9363c76793ed0fb060ecf9bb96d7d3fcaa14afc648b7805f0f9",
+    "status": "reviewed",
+    "type": "handwritten"
+  },
+  "Lesson_04_2024-07-14.pdf": {
+    "entryCount": 0,
+    "lastProcessed": "2026-06-08T21:25:23.933576Z",
+    "pageCount": 2,
+    "sha256": "14fd43001972a9b2d706aa23608e0720c343830484176a825ce25b334f5d2c93",
+    "status": "needs_vision",
+    "type": "handwritten"
+  },
+  "Lesson_05_2024-07-14.pdf": {
+    "entryCount": 0,
+    "lastProcessed": "2026-06-08T21:25:24.114827Z",
+    "pageCount": 2,
+    "sha256": "94ca89305db0e3d31eb85b60e97ebfdddf9f9765e03547083dfb71da7c2f65be",
+    "status": "needs_vision",
+    "type": "handwritten"
+  },
+  "Lesson_06_2024-07-14.pdf": {
+    "entryCount": 0,
+    "lastProcessed": "2026-06-08T21:25:24.225314Z",
+    "pageCount": 2,
+    "sha256": "3839da7a75af4c2ba1e206a563d807ea02b3f82d1cb53e49c4d3ab96d6eb5f5b",
+    "status": "needs_vision",
+    "type": "handwritten"
+  },
+  "Lesson_07_2024-07-14.pdf": {
+    "entryCount": 0,
+    "lastProcessed": "2026-06-08T21:25:24.313035Z",
+    "pageCount": 2,
+    "sha256": "d881e3ce1aa1c86878c128acedca75605d56f49e34742a4f4aef427e2bec78d2",
+    "status": "needs_vision",
+    "type": "handwritten"
+  },
+  "Lesson_08_2024-07-14.pdf": {
+    "entryCount": 0,
+    "lastProcessed": "2026-06-08T21:25:24.414158Z",
+    "pageCount": 2,
+    "sha256": "8ac0515919dbc4279bbfa2580f9f84d4cd7938d90c3211ed4f89ab942ec373e9",
+    "status": "needs_vision",
+    "type": "handwritten"
+  },
+  "Lesson_09_2024-07-17.pdf": {
+    "entryCount": 0,
+    "lastProcessed": "2026-06-08T21:25:24.519712Z",
+    "pageCount": 2,
+    "sha256": "cf7813019bfd04e2cfa43a962a607c5e3bbc9c751cf18a1f7941a6b28e46f172",
+    "status": "needs_vision",
+    "type": "handwritten"
+  },
+  "Lesson_10_2024-07-17.pdf": {
+    "entryCount": 0,
+    "lastProcessed": "2026-06-08T21:25:24.610044Z",
+    "pageCount": 3,
+    "sha256": "16cbf1bf2abcf5bee59a73ff2a4da7168ad3c7223bd27587659e4ef114ebb70c",
+    "status": "needs_vision",
+    "type": "handwritten"
+  },
+  "Lesson_11_2024-07-17.pdf": {
+    "entryCount": 0,
+    "lastProcessed": "2026-06-08T21:25:24.751262Z",
+    "pageCount": 2,
+    "sha256": "4558ac700b3e7208f7c461a048ee5bcf2dab671ad7e99ac2bca222e8f6b30f39",
+    "status": "needs_vision",
+    "type": "handwritten"
+  },
+  "Lesson_12_2024-07-23.pdf": {
+    "entryCount": 0,
+    "lastProcessed": "2026-06-08T21:25:24.863064Z",
+    "pageCount": 3,
+    "sha256": "79fca8d0ce5edb067bb8c40a41e6d928186d3f756722ff999905fc9a91bebc85",
+    "status": "needs_vision",
+    "type": "handwritten"
+  },
+  "Lesson_13_2024-07-30.pdf": {
+    "entryCount": 0,
+    "lastProcessed": "2026-06-08T21:25:24.969796Z",
+    "pageCount": 2,
+    "sha256": "aa9ea22753c686dfc71218e184688f4e6841b79a3d8686e6f38dfd39a8b81c3d",
+    "status": "needs_vision",
+    "type": "handwritten"
+  },
+  "Lesson_14_2024-08-06.pdf": {
+    "entryCount": 0,
+    "lastProcessed": "2026-06-08T21:25:25.067870Z",
+    "pageCount": 2,
+    "sha256": "5ed4b31062c16355a9f4a50c074ed43c775c059ea8a124162158cf5b4eea11f5",
+    "status": "needs_vision",
+    "type": "handwritten"
+  },
+  "Lesson_15_2024-08-13.pdf": {
+    "entryCount": 0,
+    "lastProcessed": "2026-06-08T21:25:25.148420Z",
+    "pageCount": 3,
+    "sha256": "99abc1a13c848db93075ec380b2f25841a55c9a6e65ccf040944205a72b7aa47",
+    "status": "needs_vision",
+    "type": "handwritten"
+  },
+  "Lesson_16_2024-08-20.pdf": {
+    "entryCount": 0,
+    "lastProcessed": "2026-06-08T21:25:25.271942Z",
+    "pageCount": 3,
+    "sha256": "d33ab724e3b1eac0186cee4be8dea86c79499655a130925e781d8006035dcc5a",
+    "status": "needs_vision",
+    "type": "handwritten"
+  },
+  "Lesson_17_2024-08-27.pdf": {
+    "entryCount": 0,
+    "lastProcessed": "2026-06-08T21:25:25.379348Z",
+    "pageCount": 2,
+    "sha256": "cd1ebe51999f00796e087820abfca7c9bcf70d96e75f3c913f151a84624b1af8",
+    "status": "needs_vision",
+    "type": "handwritten"
+  },
+  "Lesson_18_2024-09-03.pdf": {
+    "entryCount": 0,
+    "lastProcessed": "2026-06-08T21:25:25.458106Z",
+    "pageCount": 1,
+    "sha256": "b1b3da0460be616f0089f6e2410c1f4f61a125eff0dd4d61bcba2ecb9a56a51c",
+    "status": "needs_vision",
+    "type": "handwritten"
+  },
+  "Lesson_19_2024-09-11.pdf": {
+    "entryCount": 0,
+    "lastProcessed": "2026-06-08T21:25:25.521273Z",
+    "pageCount": 3,
+    "sha256": "6cb4f4910d13f0306c8c15c2da7fed65619e1870dfeb607333451020b60748a7",
+    "status": "needs_vision",
+    "type": "handwritten"
+  },
+  "Lesson_20_2024-09-17.pdf": {
+    "entryCount": 0,
+    "lastProcessed": "2026-06-08T21:25:25.632157Z",
+    "pageCount": 3,
+    "sha256": "085d6111110affc486122e4e677b7b0ec97a309ea9cdd5888cd9a28fd65d3287",
+    "status": "needs_vision",
+    "type": "handwritten"
+  },
+  "Lesson_21_2024-09-24.pdf": {
+    "entryCount": 0,
+    "lastProcessed": "2026-06-08T21:25:25.729269Z",
+    "pageCount": 2,
+    "sha256": "491f5986eb8dae08530cf6312313d4a177f8bcf0cb9d800025930f94315429fc",
+    "status": "needs_vision",
+    "type": "handwritten"
+  },
+  "Lesson_22_2024-10-08.pdf": {
+    "entryCount": 0,
+    "lastProcessed": "2026-06-08T21:25:25.817406Z",
+    "pageCount": 2,
+    "sha256": "a567912089a2b30c491e9475017e661f7b19385fd5d6ccdcdaa97c8bf3397546",
+    "status": "needs_vision",
+    "type": "handwritten"
+  },
+  "Lesson_23_2024-10-11.pdf": {
+    "entryCount": 0,
+    "lastProcessed": "2026-06-08T21:25:25.926416Z",
+    "pageCount": 2,
+    "sha256": "73b47a32f0d862897106a349724dc0a4858b3baaca5050651e03ba192f8ce26d",
+    "status": "needs_vision",
+    "type": "handwritten"
+  },
+  "Lesson_24_2024-10-18.pdf": {
+    "entryCount": 0,
+    "lastProcessed": "2026-06-08T21:25:26.078589Z",
+    "pageCount": 1,
+    "sha256": "5efacfeaca9a1a966c4e18d7f2694d98a22b6305d13bccbbf394149828b00f0e",
+    "status": "needs_vision",
+    "type": "handwritten"
+  },
+  "Lesson_25_2024-10-22.pdf": {
+    "entryCount": 0,
+    "lastProcessed": "2026-06-08T21:25:26.577683Z",
+    "pageCount": 3,
+    "sha256": "448f693a3fe29c6c7ddff4b04c5484ac4c39951f9b11faaf39a817cdd962d291",
+    "status": "needs_vision",
+    "type": "handwritten"
+  },
+  "Lesson_25_2025-09-26.pdf": {
+    "entryCount": 1,
+    "lastProcessed": "2026-06-08T21:25:26.207268Z",
+    "pageCount": 2,
+    "sha256": "7926de585c5fafe6053d2fad2b10270f4d28a239cd5df47fbb6d5f49f97696d3",
+    "status": "drafted",
+    "type": "typed"
+  },
+  "Lesson_26_2024-10-30.pdf": {
+    "entryCount": 0,
+    "lastProcessed": "2026-06-08T21:25:26.845543Z",
+    "pageCount": 1,
+    "sha256": "4d388b760def448cc1b0131631e8f75a80e66f62030c7360644129d87f028bc9",
+    "status": "needs_vision",
+    "type": "handwritten"
+  },
+  "Lesson_27_2024-11-17.pdf": {
+    "entryCount": 0,
+    "lastProcessed": "2026-06-08T21:25:26.968086Z",
+    "pageCount": 1,
+    "sha256": "c628c57d6e19bbc60c510024199d6937e657f10957e7bfad91f96664ae6f27bf",
+    "status": "needs_vision",
+    "type": "handwritten"
+  },
+  "Lesson_28_2024-11-22.pdf": {
+    "entryCount": 0,
+    "lastProcessed": "2026-06-08T21:25:27.059201Z",
+    "pageCount": 1,
+    "sha256": "7af573df046e7cafb57e4000c28e69c2ba1ddd26c88bdb6fb227899d3cfbee2f",
+    "status": "needs_vision",
+    "type": "handwritten"
+  },
+  "Lesson_29_2024-12-04.pdf": {
+    "entryCount": 0,
+    "lastProcessed": "2026-06-08T21:25:27.228529Z",
+    "pageCount": 1,
+    "sha256": "09f7779bcdd27dd98ec78df3ff20c20e93ce92a285792be271320af8cb435bd9",
+    "status": "needs_vision",
+    "type": "handwritten"
+  },
+  "Lesson_30_2024-12-06.pdf": {
+    "entryCount": 0,
+    "lastProcessed": "2026-06-08T21:25:27.374973Z",
+    "pageCount": 1,
+    "sha256": "9a4afbc45ec5d7fe1d151e306e3531fdc13c940db603cc93c5bd83635300c71a",
+    "status": "needs_vision",
+    "type": "handwritten"
+  },
+  "Lesson_31_2024-12-18.pdf": {
+    "entryCount": 0,
+    "lastProcessed": "2026-06-08T21:25:27.511948Z",
+    "pageCount": 1,
+    "sha256": "67d52a41936402267b399251ac1ae1bfaa8360216fd38a1f2003c689ab8fe46a",
+    "status": "needs_vision",
+    "type": "handwritten"
+  },
+  "Lesson_32_2024-12-20.pdf": {
+    "entryCount": 0,
+    "lastProcessed": "2026-06-08T21:25:27.677262Z",
+    "pageCount": 2,
+    "sha256": "7e68d71b74ca331b69acb38d79810bddc01699940ba3e0e3521d13ade2384d02",
+    "status": "needs_vision",
+    "type": "handwritten"
+  },
+  "Lesson_33_2025-01-01.pdf": {
+    "entryCount": 0,
+    "lastProcessed": "2026-06-08T21:25:27.892822Z",
+    "pageCount": 2,
+    "sha256": "643a7a202aa341764ce38a058c8187d711a6f15af27e7446c6db2d946befb911",
+    "status": "needs_vision",
+    "type": "handwritten"
+  },
+  "Lesson_34_2025-01-03.pdf": {
+    "entryCount": 0,
+    "lastProcessed": "2026-06-08T21:25:28.095620Z",
+    "pageCount": 1,
+    "sha256": "dba49d2f037d025136a1833a6edad94d04838c479876666de0a5daf87768d77d",
+    "status": "needs_vision",
+    "type": "handwritten"
+  },
+  "Lesson_35_2025-01-10.pdf": {
+    "entryCount": 0,
+    "lastProcessed": "2026-06-08T21:25:28.220443Z",
+    "pageCount": 1,
+    "sha256": "d255771838fab2932a9d40b35e350023e135bfc8de7c457e2c7ccde49912fd3a",
+    "status": "drafted",
+    "type": "typed"
+  },
+  "Lesson_36_2025-01-17.pdf": {
+    "entryCount": 0,
+    "lastProcessed": "2026-06-08T21:25:28.249433Z",
+    "pageCount": 1,
+    "sha256": "c391970dcda336954dcf7d78c468aa7180e9af2149bd7b353e9a983f46eb166c",
+    "status": "needs_vision",
+    "type": "handwritten"
+  },
+  "Lesson_37_2025-01-31.pdf": {
+    "entryCount": 0,
+    "lastProcessed": "2026-06-08T21:25:28.384343Z",
+    "pageCount": 1,
+    "sha256": "715107b763a6c2f1c1a0b6f31191168d48732917a4df5286d9f26cfd7911eb24",
+    "status": "needs_vision",
+    "type": "handwritten"
+  },
+  "Lesson_38_2025-02-05.pdf": {
+    "entryCount": 0,
+    "lastProcessed": "2026-06-08T21:25:28.529118Z",
+    "pageCount": 1,
+    "sha256": "458c8bc128bc0329b118da6c5aaabe66198e3dbd8325a0e65fd3445299fc6608",
+    "status": "needs_vision",
+    "type": "handwritten"
+  },
+  "Lesson_39_2025-02-07.pdf": {
+    "entryCount": 0,
+    "lastProcessed": "2026-06-08T21:25:28.666130Z",
+    "pageCount": 1,
+    "sha256": "6b2ab17a5bbd0789a3fd62e75b6be26c86eb038e4ca5a90a0a33b3e151c36dcd",
+    "status": "needs_vision",
+    "type": "handwritten"
+  },
+  "Lesson_40_2025-02-14.pdf": {
+    "entryCount": 0,
+    "lastProcessed": "2026-06-08T21:25:28.784045Z",
+    "pageCount": 1,
+    "sha256": "27ccb6998dc65b771e15c66d3888321a2b12e5e8823e62e5ad8dce57221c8136",
+    "status": "needs_vision",
+    "type": "handwritten"
+  },
+  "Lesson_41_2025-02-21.pdf": {
+    "entryCount": 0,
+    "lastProcessed": "2026-06-08T21:25:28.918090Z",
+    "pageCount": 1,
+    "sha256": "fa0f2a156203cf97c2d09f4eca24ff8c22fbb180a72b5c4425e2e145f3da8dd0",
+    "status": "needs_vision",
+    "type": "handwritten"
+  },
+  "Lesson_42_2025-02-28.pdf": {
+    "entryCount": 0,
+    "lastProcessed": "2026-06-08T21:25:29.039939Z",
+    "pageCount": 1,
+    "sha256": "fc5fb0c05592d16feabc271cb26efe83590b07ee3914661500909df79371f0d9",
+    "status": "needs_vision",
+    "type": "handwritten"
+  },
+  "Lesson_43_2025-03-13.pdf": {
+    "entryCount": 0,
+    "lastProcessed": "2026-06-08T21:25:29.160459Z",
+    "pageCount": 2,
+    "sha256": "77286dd1e4247c589452d509b9a35a51ea904675b0f1b2c50129726f7c637e3e",
+    "status": "needs_vision",
+    "type": "handwritten"
+  },
+  "Lesson_44_2025-03-14.pdf": {
+    "entryCount": 0,
+    "lastProcessed": "2026-06-08T21:25:29.365867Z",
+    "pageCount": 1,
+    "sha256": "9eef6651ab33f99d6b36ddf7fbd2359cf8c73aa3475aafc40c64b48ad19e7450",
+    "status": "needs_vision",
+    "type": "handwritten"
+  },
+  "Lesson_45_2025-03-21.pdf": {
+    "entryCount": 0,
+    "lastProcessed": "2026-06-08T21:25:29.502938Z",
+    "pageCount": 1,
+    "sha256": "218b32a3dc7682e844be04008718be0a2e9b44824b76d477a807b066f6c7a8af",
+    "status": "needs_vision",
+    "type": "handwritten"
+  },
+  "Lesson_46_2025-04-23.pdf": {
+    "entryCount": 0,
+    "lastProcessed": "2026-06-08T21:25:29.632826Z",
+    "pageCount": 1,
+    "sha256": "133756d1a58fb5d0c8676560229aeb99d25eb066f9c4bd58e094e9a49ae868fb",
+    "status": "needs_vision",
+    "type": "handwritten"
+  },
+  "Lesson_47_2025-04-25.pdf": {
+    "entryCount": 0,
+    "lastProcessed": "2026-06-08T21:25:29.761412Z",
+    "pageCount": 1,
+    "sha256": "a814a1b8cf204f3a26203bc194f9df2ebe72f029e7afa0abc4eb92c7cf6d2a31",
+    "status": "needs_vision",
+    "type": "handwritten"
+  },
+  "Lesson_48_2025-05-02.pdf": {
+    "entryCount": 0,
+    "lastProcessed": "2026-06-08T21:25:29.894938Z",
+    "pageCount": 2,
+    "sha256": "7bb553c4127c82073e081b785d390d35f04352085f2028cabf5869a6d9b948f7",
+    "status": "needs_vision",
+    "type": "handwritten"
+  },
+  "Lesson_49_2025-05-09.pdf": {
+    "entryCount": 0,
+    "lastProcessed": "2026-06-08T21:25:30.089411Z",
+    "pageCount": 1,
+    "sha256": "e7c4f6bbc4dcea5bffa586230299771a0281e7365c699308ecde97abd4e4f867",
+    "status": "needs_vision",
+    "type": "handwritten"
+  },
+  "Lesson_50_2025-05-21.pdf": {
+    "entryCount": 0,
+    "lastProcessed": "2026-06-08T21:25:30.216004Z",
+    "pageCount": 1,
+    "sha256": "11b83f8cf2defce8d404215e71fbdff452a18047372eb9fd26588fc0d5ac2234",
+    "status": "needs_vision",
+    "type": "handwritten"
+  },
+  "Lesson_51_2025-05-26.pdf": {
+    "entryCount": 0,
+    "lastProcessed": "2026-06-08T21:25:30.353075Z",
+    "pageCount": 1,
+    "sha256": "1ac5842ffcaad6f2be0c6be8f3ccf6107f3f7e19fa81827dde0b3db9bb9430d4",
+    "status": "needs_vision",
+    "type": "handwritten"
+  },
+  "Lesson_52_2025-06-09.pdf": {
+    "entryCount": 0,
+    "lastProcessed": "2026-06-08T21:25:30.486864Z",
+    "pageCount": 2,
+    "sha256": "e89671a172a1b2a42ce62da8eb0ae883d5fb56fe70ca55e6647ab5688bbead55",
+    "status": "needs_vision",
+    "type": "handwritten"
+  },
+  "Lesson_53_2025-06-16.pdf": {
+    "entryCount": 0,
+    "lastProcessed": "2026-06-08T21:25:30.700000Z",
+    "pageCount": 1,
+    "sha256": "dfe657f6539a543b9046b26b9e4f4087ffc7f697665dfe840edc948992c46ed5",
+    "status": "needs_vision",
+    "type": "handwritten"
+  },
+  "Lesson_54_2025-06-20.pdf": {
+    "entryCount": 0,
+    "lastProcessed": "2026-06-08T21:25:30.834964Z",
+    "pageCount": 2,
+    "sha256": "4bfa88e9ee478bc5d8396671b68eed809fa893f89d90998d84cc8aacaf7214db",
+    "status": "needs_vision",
+    "type": "handwritten"
+  },
+  "Lesson_55_2025-06-27.pdf": {
+    "entryCount": 0,
+    "lastProcessed": "2026-06-08T21:25:31.024517Z",
+    "pageCount": 1,
+    "sha256": "149282c3d2c28e7b264e911e872cc9bd83113f570d6bc5e0bef9299b9c1ef13c",
+    "status": "needs_vision",
+    "type": "handwritten"
+  },
+  "Lesson_56_2025-07-04.pdf": {
+    "entryCount": 0,
+    "lastProcessed": "2026-06-08T21:25:31.171895Z",
+    "pageCount": 2,
+    "sha256": "e2e0934653864da38d649f5d86e96b066e6a30aee1b168275aaad60c73f1adac",
+    "status": "needs_vision",
+    "type": "handwritten"
+  },
+  "Lesson_57_2025-07-11.pdf": {
+    "entryCount": 0,
+    "lastProcessed": "2026-06-08T21:25:31.381406Z",
+    "pageCount": 1,
+    "sha256": "92de91b54f6f743d18f2a4fa357076efa95da6b51c10f593fa590ba2fb1cc79c",
+    "status": "needs_vision",
+    "type": "handwritten"
+  },
+  "Lesson_58_2025-07-18.pdf": {
+    "entryCount": 0,
+    "lastProcessed": "2026-06-08T21:25:31.514283Z",
+    "pageCount": 1,
+    "sha256": "40cc708b1578cdeed2f9b41150c53a6b1a4b277c4cb1a9ee03e58093136c56c4",
+    "status": "needs_vision",
+    "type": "handwritten"
+  },
+  "Lesson_59_2025-07-25.pdf": {
+    "entryCount": 0,
+    "lastProcessed": "2026-06-08T21:25:31.637604Z",
+    "pageCount": 1,
+    "sha256": "028e52e7a037fb225d74aa180e2a8526e6b72a9797ed3af56651307d60f11a04",
+    "status": "needs_vision",
+    "type": "handwritten"
+  },
+  "Lesson_60_2025-08-01.pdf": {
+    "entryCount": 0,
+    "lastProcessed": "2026-06-08T21:25:31.773262Z",
+    "pageCount": 1,
+    "sha256": "06bc797fd769667abe2ffc862eeb08bef09d5abbcaf09559aea4e2ddca3b0164",
+    "status": "needs_vision",
+    "type": "handwritten"
+  },
+  "Lesson_61_2025-08-08.pdf": {
+    "entryCount": 0,
+    "lastProcessed": "2026-06-08T21:25:31.894849Z",
+    "pageCount": 1,
+    "sha256": "bdb2a0ad1fc7d29ef5c42bdef3311604aaebb6a61c30685333e95d1d0ec65636",
+    "status": "needs_vision",
+    "type": "handwritten"
+  },
+  "Lesson_62_2025-08-18.pdf": {
+    "entryCount": 0,
+    "lastProcessed": "2026-06-08T21:25:32.018690Z",
+    "pageCount": 1,
+    "sha256": "69318a49c3883d6166acab0f43eba53770c5974849e52dcf851bdf0a35fe1031",
+    "status": "needs_vision",
+    "type": "handwritten"
+  },
+  "Lesson_63_2025-08-20.pdf": {
+    "entryCount": 0,
+    "lastProcessed": "2026-06-08T21:25:32.142940Z",
+    "pageCount": 1,
+    "sha256": "7677a17cc8e8daee13e428019f948a276be6ddc890583cb9211e5b2e8f866a8f",
+    "status": "needs_vision",
+    "type": "handwritten"
+  },
+  "Lesson_64_2025-09-12.pdf": {
+    "entryCount": 0,
+    "lastProcessed": "2026-06-08T21:25:32.276540Z",
+    "pageCount": 2,
+    "sha256": "b6c17b5c8691c6421a89235ff26996f97b76ea9e94762e879d03a80305beec16",
+    "status": "needs_vision",
+    "type": "handwritten"
+  },
+  "Lesson_65_2025-09-29.pdf": {
+    "entryCount": 0,
+    "lastProcessed": "2026-06-08T21:25:26.247325Z",
+    "pageCount": 2,
+    "sha256": "b8f1f0a5ab6a2f02af84d05e61ebee980db28720f57a936da2e73b745a2ba7e5",
+    "status": "needs_vision",
+    "type": "handwritten"
+  },
+  "Lesson_66_2025-10-01.pdf": {
+    "entryCount": 0,
+    "lastProcessed": "2026-06-08T21:25:26.454839Z",
+    "pageCount": 1,
+    "sha256": "52ba9067fe2366c1e368abfbe47849d53c2bbfe565aa12daf4f7bbfb166e1f72",
+    "status": "needs_vision",
+    "type": "handwritten"
+  },
+  "Lesson_67_2025-10-03.pdf": {
+    "entryCount": 0,
+    "lastProcessed": "2026-06-08T21:25:32.704508Z",
+    "pageCount": 1,
+    "sha256": "f144446e1ad48235cd983fd4faef83e8cdd84ad8c112e72e3b1dc9bc22ae8f8d",
+    "status": "needs_vision",
+    "type": "handwritten"
+  },
+  "Lesson_68_2025-10-08.pdf": {
+    "entryCount": 0,
+    "lastProcessed": "2026-06-08T21:25:32.824921Z",
+    "pageCount": 1,
+    "sha256": "bdda2f9dd997c6caacf331463fad51e3e23f9ae162c16a0603813b1a3bb592af",
+    "status": "needs_vision",
+    "type": "handwritten"
+  },
+  "Lesson_69_2025-10-10.pdf": {
+    "entryCount": 0,
+    "lastProcessed": "2026-06-08T21:25:32.942485Z",
+    "pageCount": 1,
+    "sha256": "e8663d41f33e0a01cea73448bc49adc070734f9723e15878022c2176bc1b4276",
+    "status": "needs_vision",
+    "type": "handwritten"
+  },
+  "Lesson_70_2025-10-30.pdf": {
+    "entryCount": 0,
+    "lastProcessed": "2026-06-08T21:25:33.056400Z",
+    "pageCount": 1,
+    "sha256": "1d9d1995504939c0336b6a8a4964f3646f1d4e3dd45c26ffee3c2913eda16e93",
+    "status": "needs_vision",
+    "type": "handwritten"
+  },
+  "Lesson_71_2025-11-04.pdf": {
+    "entryCount": 0,
+    "lastProcessed": "2026-06-08T21:25:33.163868Z",
+    "pageCount": 1,
+    "sha256": "12c06eee090023bd423a11f691449c6dccd9fff970793333abf426262f370fca",
+    "status": "needs_vision",
+    "type": "handwritten"
+  },
+  "Lesson_72_2025-11-05.pdf": {
+    "entryCount": 0,
+    "lastProcessed": "2026-06-08T21:25:33.267443Z",
+    "pageCount": 1,
+    "sha256": "9e44a53a474310b06f0c82dfc2403e96c6e7547660f060868d63eb673fe989f6",
+    "status": "needs_vision",
+    "type": "handwritten"
+  },
+  "Lesson_73_2025-11-14.pdf": {
+    "entryCount": 0,
+    "lastProcessed": "2026-06-08T21:25:33.420174Z",
+    "pageCount": 3,
+    "sha256": "7555fbc200d6c2595df853418884ceb517bdb9f103d64ab0867e80536259dc18",
+    "status": "needs_vision",
+    "type": "handwritten"
+  },
+  "Lesson_74_2025-11-28.pdf": {
+    "entryCount": 0,
+    "lastProcessed": "2026-06-08T21:25:33.783764Z",
+    "pageCount": 3,
+    "sha256": "4b72f60ce9504eeaec212bace45309e4812b9b921f85b80a532f2a038a021375",
+    "status": "needs_vision",
+    "type": "handwritten"
+  },
+  "Lesson_75_2025-12-05.pdf": {
+    "entryCount": 0,
+    "lastProcessed": "2026-06-08T21:25:34.216091Z",
+    "pageCount": 4,
+    "sha256": "c424c8e0de7d5a817b7f87aba504803adc748780545df942ac7ecbc900977edc",
+    "status": "needs_vision",
+    "type": "handwritten"
+  },
+  "Lesson_76_2025-12-19.pdf": {
+    "entryCount": 0,
+    "lastProcessed": "2026-06-08T21:25:34.693516Z",
+    "pageCount": 1,
+    "sha256": "8ac2e90dc0575b38401802159775987afe5baded333d8a1ac3a240dfbb6957cf",
+    "status": "needs_vision",
+    "type": "handwritten"
+  },
+  "Lesson_77_2026-01-30.pdf": {
+    "entryCount": 0,
+    "lastProcessed": "2026-06-08T21:25:34.818673Z",
+    "pageCount": 1,
+    "sha256": "92b85543067abf6eca5e17813ac1bd169dfa2c4c2562789c39889f0b50d30efa",
+    "status": "needs_vision",
+    "type": "handwritten"
+  },
+  "Lesson_78_2026-02-10.pdf": {
+    "entryCount": 23,
+    "lastProcessed": "2026-06-08T21:25:34.937288Z",
+    "pageCount": 1,
+    "sha256": "caf8a85116a581a8ebf908488c1220638f0a37a51ebfb6536c99ea094f768996",
+    "status": "drafted",
+    "type": "typed"
+  },
+  "Lesson_79_2026-02-11.pdf": {
+    "entryCount": 9,
+    "lastProcessed": "2026-06-08T21:25:34.941168Z",
+    "pageCount": 1,
+    "sha256": "eb82a727d14763faa96c43235628d88ccb9c193ae2f81203981a08d0a335f8b8",
+    "status": "drafted",
+    "type": "typed"
+  },
+  "Lesson_80_2026-02-17.pdf": {
+    "entryCount": 3,
+    "lastProcessed": "2026-06-08T21:25:34.944869Z",
+    "pageCount": 1,
+    "sha256": "81193b069870ddf899be21956ba1cd95d6c3148826a1ba701c82b49fff8ba319",
+    "status": "drafted",
+    "type": "typed"
+  },
+  "Lesson_81_2026-03-16.pdf": {
+    "entryCount": 29,
+    "lastProcessed": "2026-06-08T21:25:34.949071Z",
+    "pageCount": 2,
+    "sha256": "7e1e5c9887f54d1b4d2d9bf170ec01a57c069a32a18a28ca002afa25eba0e9c3",
+    "status": "drafted",
+    "type": "typed"
+  },
+  "Lesson_82_2026-03-17.pdf": {
+    "entryCount": 24,
+    "lastProcessed": "2026-06-08T21:25:34.954019Z",
+    "pageCount": 2,
+    "sha256": "996b892c38928aaf98c6cf7390623966211a87902d618c67dd63c175f7c86720",
+    "status": "drafted",
+    "type": "typed"
+  },
+  "Lesson_83_2026-03-20.pdf": {
+    "entryCount": 15,
+    "lastProcessed": "2026-06-08T21:25:34.958336Z",
+    "pageCount": 1,
+    "sha256": "394bbbbdd87f7982e863768c85760d21f36da2a41459df41251b1afacb02d284",
+    "status": "drafted",
+    "type": "typed"
+  },
+  "Lesson_84_2026-03-23.pdf": {
+    "entryCount": 23,
+    "lastProcessed": "2026-06-08T21:25:34.962647Z",
+    "pageCount": 1,
+    "sha256": "8245ac72b7a864869d08a368eb05455d8d037be3af92ed6f555408cee929dc25",
+    "status": "drafted",
+    "type": "typed"
+  },
+  "Lesson_85_2026-03-27.pdf": {
+    "entryCount": 20,
+    "lastProcessed": "2026-06-08T21:25:34.967288Z",
+    "pageCount": 1,
+    "sha256": "d630443c4c4c0fae56624afd0cf8c65abcb00366b8f30d8078bee6efe9548f29",
+    "status": "drafted",
+    "type": "typed"
+  },
+  "Lesson_86_2026-04-17.pdf": {
+    "entryCount": 26,
+    "lastProcessed": "2026-06-08T21:25:34.971814Z",
+    "pageCount": 1,
+    "sha256": "fdcf1f7fa9529d17e8dcdc8bbcf005308d15e510b67294a76b8d1cdf4abd366e",
+    "status": "drafted",
+    "type": "typed"
+  },
+  "Lesson_87_2026-04-24.pdf": {
+    "entryCount": 19,
+    "lastProcessed": "2026-06-08T21:25:34.976087Z",
+    "pageCount": 1,
+    "sha256": "9ceaf3e0855dfc29f2df4f8952b2537eeebf932e4976080dd4cd6a84726b2d4d",
+    "status": "drafted",
+    "type": "typed"
+  },
+  "Lesson_88_2026-05-01.pdf": {
+    "entryCount": 33,
+    "lastProcessed": "2026-06-08T21:25:34.980310Z",
+    "pageCount": 1,
+    "sha256": "cef6ab60ce0c61cf5a697d734e4de5f53b572d56f4c8a6e31debe49b7a375d37",
+    "status": "drafted",
+    "type": "typed"
+  },
+  "Lesson_89_2026-05-06.pdf": {
+    "entryCount": 24,
+    "lastProcessed": "2026-06-08T21:25:34.985098Z",
+    "pageCount": 1,
+    "sha256": "5cbe2051988805182b15e5fd7eea7a26b12277f886de7e6760a6af66b9905963",
+    "status": "drafted",
+    "type": "typed"
+  },
+  "Lesson_90_2026-05-08.pdf": {
+    "entryCount": 20,
+    "lastProcessed": "2026-06-08T21:25:34.989242Z",
+    "pageCount": 1,
+    "sha256": "a9d627d7d1427aa2121df27ceda60270e3c380fbdb62256ab0a9212e661b7d60",
+    "status": "drafted",
+    "type": "typed"
+  },
+  "Lesson_91_2026-05-15.pdf": {
+    "entryCount": 15,
+    "lastProcessed": "2026-06-08T21:25:34.993402Z",
+    "pageCount": 1,
+    "sha256": "2bfd56f4fce7b55644eb99d60c996479a7f9d1a3e4632e9058679d32e3e59976",
+    "status": "drafted",
+    "type": "typed"
+  },
+  "Lesson_92_2026-05-19.pdf": {
+    "entryCount": 25,
+    "lastProcessed": "2026-06-08T21:41:28.282904Z",
+    "pageCount": 1,
+    "sha256": "85cb3d6718e6d0d9a78af1815bb13c6d81060478a916ebf0a174e88763e775b7",
+    "status": "drafted",
+    "type": "typed"
+  },
+  "Lesson_93_2026-05-29.pdf": {
+    "entryCount": 21,
+    "lastProcessed": "2026-06-08T21:25:35.002335Z",
+    "pageCount": 1,
+    "sha256": "182c1a65aeb0d0fb9479b009eebd787db2f9e56d92706c224622763edc9bc658",
+    "status": "drafted",
+    "type": "typed"
+  },
+  "Lesson_DUPLICATE_2025-09-29_Lesson_X_2025-09-29.pdf": {
+    "entryCount": 1,
+    "lastProcessed": "2026-06-08T21:25:26.211235Z",
+    "pageCount": 2,
+    "sha256": "7926de585c5fafe6053d2fad2b10270f4d28a239cd5df47fbb6d5f49f97696d3",
+    "status": "drafted",
+    "type": "typed"
+  },
+  "Lesson_DUPLICATE_2025-09-29_Note_2025-09-29.pdf": {
+    "entryCount": 0,
+    "lastProcessed": "2026-06-08T21:25:32.499520Z",
+    "pageCount": 2,
+    "sha256": "b8f1f0a5ab6a2f02af84d05e61ebee980db28720f57a936da2e73b745a2ba7e5",
+    "status": "needs_vision",
+    "type": "handwritten"
+  }
+}

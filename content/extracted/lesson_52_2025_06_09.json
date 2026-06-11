@@ -1,0 +1,392 @@
+{
+  "source": {
+    "file": "Lesson_52_2025-06-09.pdf",
+    "lesson": null,
+    "date": "2025-06-09"
+  },
+  "notes": "HANDWRITTEN – agent vision extraction needed. Fill in entries array.",
+  "pages": [
+    "content/pages/note_2025_06_09/p01.png",
+    "content/pages/note_2025_06_09/p02.png"
+  ],
+  "entries": [
+    {
+      "id": "lesson_52_2025_06_09-0000",
+      "farsi": "سخنرانی",
+      "transliteration": "sakhnarāni",
+      "english": "speech",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_52_2025-06-09.pdf",
+        "lesson": 52,
+        "date": "2025-06-09",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_52_2025_06_09-0001",
+      "farsi": "تفنگ",
+      "transliteration": "tofang",
+      "english": "gun",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_52_2025-06-09.pdf",
+        "lesson": 52,
+        "date": "2025-06-09",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_52_2025_06_09-0002",
+      "farsi": "قاضی",
+      "transliteration": "ghāzi",
+      "english": "judge",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_52_2025-06-09.pdf",
+        "lesson": 52,
+        "date": "2025-06-09",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_52_2025_06_09-0003",
+      "farsi": "مهمان",
+      "transliteration": "mehmān",
+      "english": "guest",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_52_2025-06-09.pdf",
+        "lesson": 52,
+        "date": "2025-06-09",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_52_2025_06_09-0004",
+      "farsi": "میزبان",
+      "transliteration": "mizbān",
+      "english": "host",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_52_2025-06-09.pdf",
+        "lesson": 52,
+        "date": "2025-06-09",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_52_2025_06_09-0005",
+      "farsi": "معلول",
+      "transliteration": "ma'lool",
+      "english": "handicapped",
+      "partOfSpeech": "adjective",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_52_2025-06-09.pdf",
+        "lesson": 52,
+        "date": "2025-06-09",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_52_2025_06_09-0006",
+      "farsi": "میمون",
+      "transliteration": "meymoon",
+      "english": "monkey",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_52_2025-06-09.pdf",
+        "lesson": 52,
+        "date": "2025-06-09",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_52_2025_06_09-0007",
+      "farsi": "کنترل را از دست دادم",
+      "transliteration": "kontrolam ro az dast dādam",
+      "english": "I lost control",
+      "partOfSpeech": "phrase",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_52_2025-06-09.pdf",
+        "lesson": 52,
+        "date": "2025-06-09",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_52_2025_06_09-0008",
+      "farsi": "ثروت",
+      "transliteration": "servat",
+      "english": "wealth",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_52_2025-06-09.pdf",
+        "lesson": 52,
+        "date": "2025-06-09",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_52_2025_06_09-0009",
+      "farsi": "ثروتمند",
+      "transliteration": "sarvatmand",
+      "english": "wealthy",
+      "partOfSpeech": "adjective",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_52_2025-06-09.pdf",
+        "lesson": 52,
+        "date": "2025-06-09",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_52_2025_06_09-0010",
+      "farsi": "دزد",
+      "transliteration": "dozd",
+      "english": "thief",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_52_2025-06-09.pdf",
+        "lesson": 52,
+        "date": "2025-06-09",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_52_2025_06_09-0011",
+      "farsi": "مصر",
+      "transliteration": "mesr",
+      "english": "Egypt",
+      "partOfSpeech": "proper noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_52_2025-06-09.pdf",
+        "lesson": 52,
+        "date": "2025-06-09",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_52_2025_06_09-0012",
+      "farsi": "طرفدار",
+      "transliteration": "tarafdar",
+      "english": "1) fan  2) supporter",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_52_2025-06-09.pdf",
+        "lesson": 52,
+        "date": "2025-06-09",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_52_2025_06_09-0013",
+      "farsi": "حمله کردن",
+      "transliteration": "hamle kardan",
+      "english": "to attack",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_52_2025-06-09.pdf",
+        "lesson": 52,
+        "date": "2025-06-09",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_52_2025_06_09-0014",
+      "farsi": "روی کاغذ",
+      "transliteration": "rooye kāghaz",
+      "english": "1) in theory  2) on paper",
+      "partOfSpeech": "adverb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_52_2025-06-09.pdf",
+        "lesson": 52,
+        "date": "2025-06-09",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_52_2025_06_09-0015",
+      "farsi": "تاوان پس دادن",
+      "transliteration": "tāvān pas midān",
+      "english": "to pay the price for a mistake",
+      "partOfSpeech": "phrase",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_52_2025-06-09.pdf",
+        "lesson": 52,
+        "date": "2025-06-09",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_52_2025_06_09-0016",
+      "farsi": "فساد",
+      "transliteration": "fasād",
+      "english": "corruption",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_52_2025-06-09.pdf",
+        "lesson": 52,
+        "date": "2025-06-09",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_52_2025_06_09-0017",
+      "farsi": "نیروگاه",
+      "transliteration": "niroagāh",
+      "english": "power plant",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_52_2025-06-09.pdf",
+        "lesson": 52,
+        "date": "2025-06-09",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_52_2025_06_09-0018",
+      "farsi": "اغراق کردن",
+      "transliteration": "eghrāgh kardan",
+      "english": "to exaggerate",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_52_2025-06-09.pdf",
+        "lesson": 52,
+        "date": "2025-06-09",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_52_2025_06_09-0019",
+      "farsi": "میلیارد",
+      "transliteration": "milyārd",
+      "english": "billion",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_52_2025-06-09.pdf",
+        "lesson": 52,
+        "date": "2025-06-09",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_52_2025_06_09-0020",
+      "farsi": "پول نقد",
+      "transliteration": "poole naghd",
+      "english": "cash",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_52_2025-06-09.pdf",
+        "lesson": 52,
+        "date": "2025-06-09",
+        "page": 1
+      },
+      "needsReview": true
+    }
+  ]
+}

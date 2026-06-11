@@ -1,0 +1,319 @@
+{
+  "source": {
+    "file": "Lesson_34_2025-01-03.pdf",
+    "lesson": null,
+    "date": "2025-01-03"
+  },
+  "notes": "HANDWRITTEN – agent vision extraction needed. Fill in entries array.",
+  "pages": [
+    "content/pages/note_2025_01_03/p01.png"
+  ],
+  "entries": [
+    {
+      "id": "lesson_34_2025_01_03-0000",
+      "farsi": "چوب",
+      "transliteration": "choob",
+      "english": "wood / timber",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_34_2025-01-03.pdf",
+        "lesson": 34,
+        "date": "2025-01-03",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_34_2025_01_03-0001",
+      "farsi": "نجار",
+      "transliteration": "najjār",
+      "english": "a person who crafts things with wood",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_34_2025-01-03.pdf",
+        "lesson": 34,
+        "date": "2025-01-03",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_34_2025_01_03-0002",
+      "farsi": "کلبه",
+      "transliteration": "kolbe",
+      "english": "hut",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_34_2025-01-03.pdf",
+        "lesson": 34,
+        "date": "2025-01-03",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_34_2025_01_03-0003",
+      "farsi": "مهاجر",
+      "transliteration": "mohājer",
+      "english": "immigrant",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_34_2025-01-03.pdf",
+        "lesson": 34,
+        "date": "2025-01-03",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_34_2025_01_03-0004",
+      "farsi": "ترجیح",
+      "transliteration": "tarjih",
+      "english": "preference",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_34_2025-01-03.pdf",
+        "lesson": 34,
+        "date": "2025-01-03",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_34_2025_01_03-0005",
+      "farsi": "روحیه تیمی",
+      "transliteration": "roohiyye timi",
+      "english": "team spirit",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_34_2025-01-03.pdf",
+        "lesson": 34,
+        "date": "2025-01-03",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_34_2025_01_03-0006",
+      "farsi": "اجتماعی",
+      "transliteration": "ejtema'i",
+      "english": "social",
+      "partOfSpeech": "adjective",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_34_2025-01-03.pdf",
+        "lesson": 34,
+        "date": "2025-01-03",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_34_2025_01_03-0007",
+      "farsi": "از اول",
+      "transliteration": "az aval",
+      "english": "since the beginning",
+      "partOfSpeech": "adverb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_34_2025-01-03.pdf",
+        "lesson": 34,
+        "date": "2025-01-03",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_34_2025_01_03-0008",
+      "farsi": "واضح",
+      "transliteration": "vāzeh",
+      "english": "obvious",
+      "partOfSpeech": "adjective",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_34_2025-01-03.pdf",
+        "lesson": 34,
+        "date": "2025-01-03",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_34_2025_01_03-0009",
+      "farsi": "موش",
+      "transliteration": "moosh",
+      "english": "mouse",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_34_2025-01-03.pdf",
+        "lesson": 34,
+        "date": "2025-01-03",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_34_2025_01_03-0010",
+      "farsi": "وحشی",
+      "transliteration": "vahshi",
+      "english": "wild",
+      "partOfSpeech": "adjective",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_34_2025-01-03.pdf",
+        "lesson": 34,
+        "date": "2025-01-03",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_34_2025_01_03-0011",
+      "farsi": "اهلی",
+      "transliteration": "ahli",
+      "english": "domestic (animals)",
+      "partOfSpeech": "adjective",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_34_2025-01-03.pdf",
+        "lesson": 34,
+        "date": "2025-01-03",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_34_2025_01_03-0012",
+      "farsi": "آهلی کردن",
+      "transliteration": "ahli kardan",
+      "english": "to domesticate",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_34_2025-01-03.pdf",
+        "lesson": 34,
+        "date": "2025-01-03",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_34_2025_01_03-0013",
+      "farsi": "تاریخچه",
+      "transliteration": "tārikhche",
+      "english": "history of something",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_34_2025-01-03.pdf",
+        "lesson": 34,
+        "date": "2025-01-03",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_34_2025_01_03-0014",
+      "farsi": "موجودات اجتماعی",
+      "transliteration": "mojoode ejtemā'i",
+      "english": "social creatures",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_34_2025-01-03.pdf",
+        "lesson": 34,
+        "date": "2025-01-03",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_34_2025_01_03-0015",
+      "farsi": "سیرک",
+      "transliteration": "sirk",
+      "english": "circus",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_34_2025-01-03.pdf",
+        "lesson": 34,
+        "date": "2025-01-03",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_34_2025_01_03-0016",
+      "farsi": "تربیت کردن",
+      "transliteration": "tarbiyat kardan",
+      "english": "1) for animals: to train  2) for humans: to raise/educate",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_34_2025-01-03.pdf",
+        "lesson": 34,
+        "date": "2025-01-03",
+        "page": 1
+      },
+      "needsReview": true
+    }
+  ]
+}

@@ -1,0 +1,445 @@
+{
+  "source": {
+    "file": "Lesson_29_2024-12-04.pdf",
+    "lesson": null,
+    "date": "2024-12-04"
+  },
+  "notes": "HANDWRITTEN – agent vision extraction needed. Fill in entries array.",
+  "pages": [
+    "content/pages/note_2024_12_04/p01.png"
+  ],
+  "entries": [
+    {
+      "id": "lesson_29_2024_12_04-0000",
+      "farsi": "فروش",
+      "transliteration": "forush",
+      "english": "sale",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_29_2024-12-04.pdf",
+        "lesson": 29,
+        "date": "2024-12-04",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_29_2024_12_04-0001",
+      "farsi": "ویژه",
+      "transliteration": "vizhe",
+      "english": "special",
+      "partOfSpeech": "adjective",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_29_2024-12-04.pdf",
+        "lesson": 29,
+        "date": "2024-12-04",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_29_2024_12_04-0002",
+      "farsi": "تخفیف",
+      "transliteration": "takhfif",
+      "english": "discount",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_29_2024-12-04.pdf",
+        "lesson": 29,
+        "date": "2024-12-04",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_29_2024_12_04-0003",
+      "farsi": "به اسم",
+      "transliteration": "be esm",
+      "english": "by name",
+      "partOfSpeech": "phrase",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_29_2024-12-04.pdf",
+        "lesson": 29,
+        "date": "2024-12-04",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_29_2024_12_04-0004",
+      "farsi": "مصرف کردن",
+      "transliteration": "masraf kardan",
+      "english": "to consume",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_29_2024-12-04.pdf",
+        "lesson": 29,
+        "date": "2024-12-04",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_29_2024_12_04-0005",
+      "farsi": "مصرف کننده",
+      "transliteration": "masraf konande",
+      "english": "consumer",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_29_2024-12-04.pdf",
+        "lesson": 29,
+        "date": "2024-12-04",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_29_2024_12_04-0006",
+      "farsi": "مغازه",
+      "transliteration": "maghāze",
+      "english": "shop (20-100 m²)",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_29_2024-12-04.pdf",
+        "lesson": 29,
+        "date": "2024-12-04",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_29_2024_12_04-0007",
+      "farsi": "فروشگاه",
+      "transliteration": "forushgāh",
+      "english": "bigger shop / superstore",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_29_2024-12-04.pdf",
+        "lesson": 29,
+        "date": "2024-12-04",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_29_2024_12_04-0008",
+      "farsi": "دستگاه",
+      "transliteration": "dastgāh",
+      "english": "device / machine",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_29_2024-12-04.pdf",
+        "lesson": 29,
+        "date": "2024-12-04",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_29_2024_12_04-0009",
+      "farsi": "تحریم",
+      "transliteration": "tahrim",
+      "english": "sanction",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_29_2024-12-04.pdf",
+        "lesson": 29,
+        "date": "2024-12-04",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_29_2024_12_04-0010",
+      "farsi": "قاچاق کردن",
+      "transliteration": "ghāchāgh kardan",
+      "english": "to smuggle",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_29_2024-12-04.pdf",
+        "lesson": 29,
+        "date": "2024-12-04",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_29_2024_12_04-0011",
+      "farsi": "منبع",
+      "transliteration": "manba'",
+      "english": "source",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_29_2024-12-04.pdf",
+        "lesson": 29,
+        "date": "2024-12-04",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_29_2024_12_04-0012",
+      "farsi": "منابع",
+      "transliteration": "manābe",
+      "english": "sources / resources",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_29_2024-12-04.pdf",
+        "lesson": 29,
+        "date": "2024-12-04",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_29_2024_12_04-0013",
+      "farsi": "زیرساخت",
+      "transliteration": "zirsākht",
+      "english": "infrastructure",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_29_2024-12-04.pdf",
+        "lesson": 29,
+        "date": "2024-12-04",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_29_2024_12_04-0014",
+      "farsi": "استثمار",
+      "transliteration": "estesmār",
+      "english": "colonization",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_29_2024-12-04.pdf",
+        "lesson": 29,
+        "date": "2024-12-04",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_29_2024_12_04-0015",
+      "farsi": "اقتصاددان",
+      "transliteration": "eghtesāddān",
+      "english": "economist",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_29_2024-12-04.pdf",
+        "lesson": 29,
+        "date": "2024-12-04",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_29_2024_12_04-0016",
+      "farsi": "تاریخ",
+      "transliteration": "tārikh",
+      "english": "date / history",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_29_2024-12-04.pdf",
+        "lesson": 29,
+        "date": "2024-12-04",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_29_2024_12_04-0017",
+      "farsi": "شکست خوردن",
+      "transliteration": "shekast khordan",
+      "english": "to lose (more efficient)",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_29_2024-12-04.pdf",
+        "lesson": 29,
+        "date": "2024-12-04",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_29_2024_12_04-0018",
+      "farsi": "شکست",
+      "transliteration": "shekast",
+      "english": "loss (noun)",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_29_2024-12-04.pdf",
+        "lesson": 29,
+        "date": "2024-12-04",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_29_2024_12_04-0019",
+      "farsi": "مأموریت",
+      "transliteration": "ma'muriyat",
+      "english": "mission",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_29_2024-12-04.pdf",
+        "lesson": 29,
+        "date": "2024-12-04",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_29_2024_12_04-0020",
+      "farsi": "امپراطور",
+      "transliteration": "emparātoor",
+      "english": "emperor",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_29_2024-12-04.pdf",
+        "lesson": 29,
+        "date": "2024-12-04",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_29_2024_12_04-0021",
+      "farsi": "امپراطوری",
+      "transliteration": "emparātori",
+      "english": "empire",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_29_2024-12-04.pdf",
+        "lesson": 29,
+        "date": "2024-12-04",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_29_2024_12_04-0022",
+      "farsi": "چرخیدن",
+      "transliteration": "charkhidan",
+      "english": "to turn around",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_29_2024-12-04.pdf",
+        "lesson": 29,
+        "date": "2024-12-04",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_29_2024_12_04-0023",
+      "farsi": "رئیس",
+      "transliteration": "ra'is",
+      "english": "boss",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_29_2024-12-04.pdf",
+        "lesson": 29,
+        "date": "2024-12-04",
+        "page": 1
+      },
+      "needsReview": true
+    }
+  ]
+}

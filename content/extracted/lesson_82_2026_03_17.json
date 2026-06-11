@@ -1,0 +1,417 @@
+{
+  "source": {
+    "file": "Lesson_82_2026-03-17.pdf",
+    "lesson": null,
+    "date": "2026-03-17"
+  },
+  "entries": [
+    {
+      "farsi": "این خیلی رو مخه",
+      "transliteration": "in kheyli roo mokhe",
+      "english": "",
+      "partOfSpeech": null,
+      "notes": "this is very annoying.",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_82_2026-03-17.pdf",
+        "lesson": null,
+        "date": "2026-03-17"
+      },
+      "needsReview": true,
+      "id": "note_2026_03_17-0000"
+    },
+    {
+      "farsi": "امن",
+      "transliteration": "amn",
+      "english": "safe",
+      "partOfSpeech": null,
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_82_2026-03-17.pdf",
+        "lesson": null,
+        "date": "2026-03-17"
+      },
+      "needsReview": false,
+      "id": "note_2026_03_17-0001"
+    },
+    {
+      "farsi": "حساب",
+      "transliteration": "hesaab",
+      "english": "account",
+      "partOfSpeech": null,
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_82_2026-03-17.pdf",
+        "lesson": null,
+        "date": "2026-03-17"
+      },
+      "needsReview": false,
+      "id": "note_2026_03_17-0002"
+    },
+    {
+      "farsi": "زیرساخت",
+      "transliteration": "infrastructure",
+      "english": "zir saakht",
+      "partOfSpeech": null,
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_82_2026-03-17.pdf",
+        "lesson": null,
+        "date": "2026-03-17"
+      },
+      "needsReview": false,
+      "id": "note_2026_03_17-0003"
+    },
+    {
+      "farsi": "سازنده",
+      "transliteration": "saazande",
+      "english": "builder , manufacturer",
+      "partOfSpeech": null,
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_82_2026-03-17.pdf",
+        "lesson": null,
+        "date": "2026-03-17"
+      },
+      "needsReview": false,
+      "id": "note_2026_03_17-0004"
+    },
+    {
+      "farsi": "تخصص",
+      "transliteration": "takhasos",
+      "english": "expertise",
+      "partOfSpeech": null,
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_82_2026-03-17.pdf",
+        "lesson": null,
+        "date": "2026-03-17"
+      },
+      "needsReview": false,
+      "id": "note_2026_03_17-0005"
+    },
+    {
+      "farsi": "قدرت تصور",
+      "transliteration": "power of",
+      "english": "ghodrate tasavor",
+      "partOfSpeech": null,
+      "notes": "imagination",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_82_2026-03-17.pdf",
+        "lesson": null,
+        "date": "2026-03-17"
+      },
+      "needsReview": false,
+      "id": "note_2026_03_17-0006"
+    },
+    {
+      "farsi": "روزنامه",
+      "transliteration": "newspaper",
+      "english": "rooz naame",
+      "partOfSpeech": null,
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_82_2026-03-17.pdf",
+        "lesson": null,
+        "date": "2026-03-17"
+      },
+      "needsReview": false,
+      "id": "note_2026_03_17-0007"
+    },
+    {
+      "farsi": "قبول دارم",
+      "transliteration": "I agree",
+      "english": "ghabool daaram",
+      "partOfSpeech": null,
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_82_2026-03-17.pdf",
+        "lesson": null,
+        "date": "2026-03-17"
+      },
+      "needsReview": false,
+      "id": "note_2026_03_17-0008"
+    },
+    {
+      "farsi": "دامپزشک",
+      "transliteration": "vet",
+      "english": "daampezeshk",
+      "partOfSpeech": null,
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_82_2026-03-17.pdf",
+        "lesson": null,
+        "date": "2026-03-17"
+      },
+      "needsReview": false,
+      "id": "note_2026_03_17-0009"
+    },
+    {
+      "farsi": "دام",
+      "transliteration": "daam",
+      "english": "livestock",
+      "partOfSpeech": null,
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_82_2026-03-17.pdf",
+        "lesson": null,
+        "date": "2026-03-17"
+      },
+      "needsReview": false,
+      "id": "note_2026_03_17-0010"
+    },
+    {
+      "farsi": "مستند",
+      "transliteration": "mostanad",
+      "english": "documentary",
+      "partOfSpeech": null,
+      "notes": ": in ro dar nazar begir : بگیر نظر در رو این consider this, take this into account",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_82_2026-03-17.pdf",
+        "lesson": null,
+        "date": "2026-03-17"
+      },
+      "needsReview": false,
+      "id": "note_2026_03_17-0011"
+    },
+    {
+      "farsi": "محیط زیست",
+      "transliteration": "environment that we live in",
+      "english": "",
+      "partOfSpeech": null,
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_82_2026-03-17.pdf",
+        "lesson": null,
+        "date": "2026-03-17"
+      },
+      "needsReview": true,
+      "id": "note_2026_03_17-0012"
+    },
+    {
+      "farsi": "فناوری",
+      "transliteration": "تکنولوژی",
+      "english": "fan aavari",
+      "partOfSpeech": null,
+      "notes": "technology",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_82_2026-03-17.pdf",
+        "lesson": null,
+        "date": "2026-03-17"
+      },
+      "needsReview": false,
+      "id": "note_2026_03_17-0013"
+    },
+    {
+      "farsi": "سوخت فسیلی",
+      "transliteration": "fosil fuel",
+      "english": "sookht fosili",
+      "partOfSpeech": null,
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_82_2026-03-17.pdf",
+        "lesson": null,
+        "date": "2026-03-17"
+      },
+      "needsReview": false,
+      "id": "note_2026_03_17-0014"
+    },
+    {
+      "farsi": "معادله",
+      "transliteration": "moaadele",
+      "english": "equation",
+      "partOfSpeech": null,
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_82_2026-03-17.pdf",
+        "lesson": null,
+        "date": "2026-03-17"
+      },
+      "needsReview": false,
+      "id": "note_2026_03_17-0015"
+    },
+    {
+      "farsi": "حد",
+      "transliteration": "had",
+      "english": "limit",
+      "partOfSpeech": null,
+      "notes": "also this is the term in math that we use",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_82_2026-03-17.pdf",
+        "lesson": null,
+        "date": "2026-03-17"
+      },
+      "needsReview": false,
+      "id": "note_2026_03_17-0016"
+    },
+    {
+      "farsi": "بی نهایت",
+      "transliteration": "inﬁnite",
+      "english": "bi nahaayat",
+      "partOfSpeech": null,
+      "notes": ".بود خوب نهایت بی",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_82_2026-03-17.pdf",
+        "lesson": null,
+        "date": "2026-03-17"
+      },
+      "needsReview": false,
+      "id": "note_2026_03_17-0017"
+    },
+    {
+      "farsi": "شرایط",
+      "transliteration": "sharaayet",
+      "english": "conditions",
+      "partOfSpeech": null,
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_82_2026-03-17.pdf",
+        "lesson": null,
+        "date": "2026-03-17"
+      },
+      "needsReview": false,
+      "id": "note_2026_03_17-0018"
+    },
+    {
+      "farsi": "تغییر",
+      "transliteration": "taghir",
+      "english": "change",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_82_2026-03-17.pdf",
+        "lesson": null,
+        "date": "2026-03-17"
+      },
+      "needsReview": false,
+      "id": "note_2026_03_17-0019"
+    },
+    {
+      "farsi": "آهن ربا",
+      "transliteration": "magnet",
+      "english": "ahan roba",
+      "partOfSpeech": null,
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_82_2026-03-17.pdf",
+        "lesson": null,
+        "date": "2026-03-17"
+      },
+      "needsReview": false,
+      "id": "note_2026_03_17-0020"
+    },
+    {
+      "farsi": "منبع",
+      "transliteration": "manba-",
+      "english": "source",
+      "partOfSpeech": null,
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_82_2026-03-17.pdf",
+        "lesson": null,
+        "date": "2026-03-17"
+      },
+      "needsReview": false,
+      "id": "note_2026_03_17-0021"
+    },
+    {
+      "farsi": "هسته ای",
+      "transliteration": "nuclear",
+      "english": "haste i",
+      "partOfSpeech": null,
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_82_2026-03-17.pdf",
+        "lesson": null,
+        "date": "2026-03-17"
+      },
+      "needsReview": false,
+      "id": "note_2026_03_17-0022"
+    },
+    {
+      "farsi": "انرژی هسته ای",
+      "transliteration": "nuclear",
+      "english": "enerzhie haste i",
+      "partOfSpeech": null,
+      "notes": "energy",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_82_2026-03-17.pdf",
+        "lesson": null,
+        "date": "2026-03-17"
+      },
+      "needsReview": false,
+      "id": "note_2026_03_17-0023"
+    }
+  ]
+}

@@ -1,0 +1,355 @@
+{
+  "source": {
+    "file": "Lesson_53_2025-06-16.pdf",
+    "lesson": null,
+    "date": "2025-06-16"
+  },
+  "notes": "HANDWRITTEN – agent vision extraction needed. Fill in entries array.",
+  "pages": [
+    "content/pages/note_2025_06_16/p01.png"
+  ],
+  "entries": [
+    {
+      "id": "lesson_53_2025_06_16-0000",
+      "farsi": "دود",
+      "transliteration": "dood",
+      "english": "smoke (noun)",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_53_2025-06-16.pdf",
+        "lesson": 53,
+        "date": "2025-06-16",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_53_2025_06_16-0001",
+      "farsi": "تأسیسات نفتی",
+      "transliteration": "ta'sisāt nafti",
+      "english": "oil complex / oil facility",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_53_2025-06-16.pdf",
+        "lesson": 53,
+        "date": "2025-06-16",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_53_2025_06_16-0002",
+      "farsi": "گاز",
+      "transliteration": "gāz",
+      "english": "gas",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_53_2025-06-16.pdf",
+        "lesson": 53,
+        "date": "2025-06-16",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_53_2025_06_16-0003",
+      "farsi": "برق",
+      "transliteration": "bargh",
+      "english": "electricity",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_53_2025-06-16.pdf",
+        "lesson": 53,
+        "date": "2025-06-16",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_53_2025_06_16-0004",
+      "farsi": "هسته‌ای",
+      "transliteration": "haste'i",
+      "english": "nuclear",
+      "partOfSpeech": "adjective",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_53_2025-06-16.pdf",
+        "lesson": 53,
+        "date": "2025-06-16",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_53_2025_06_16-0005",
+      "farsi": "ملی‌گرا",
+      "transliteration": "meli garā",
+      "english": "nationalist",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_53_2025-06-16.pdf",
+        "lesson": 53,
+        "date": "2025-06-16",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_53_2025_06_16-0006",
+      "farsi": "فاسد",
+      "transliteration": "fāsed",
+      "english": "corrupt",
+      "partOfSpeech": "adjective",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_53_2025-06-16.pdf",
+        "lesson": 53,
+        "date": "2025-06-16",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_53_2025_06_16-0007",
+      "farsi": "دقت",
+      "transliteration": "deghat",
+      "english": "precision",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_53_2025-06-16.pdf",
+        "lesson": 53,
+        "date": "2025-06-16",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_53_2025_06_16-0008",
+      "farsi": "سازمان‌دهی شده",
+      "transliteration": "sāzmān dehi shode",
+      "english": "organized",
+      "partOfSpeech": "adjective",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_53_2025-06-16.pdf",
+        "lesson": 53,
+        "date": "2025-06-16",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_53_2025_06_16-0009",
+      "farsi": "هماهنگ",
+      "transliteration": "hamāhang",
+      "english": "organized (in sync)",
+      "partOfSpeech": "adjective",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_53_2025-06-16.pdf",
+        "lesson": 53,
+        "date": "2025-06-16",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_53_2025_06_16-0010",
+      "farsi": "موشک / پرتابه",
+      "transliteration": "mooshak / partābe",
+      "english": "missile",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_53_2025-06-16.pdf",
+        "lesson": 53,
+        "date": "2025-06-16",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_53_2025_06_16-0011",
+      "farsi": "سلاح",
+      "transliteration": "aslāhe",
+      "english": "weapon",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_53_2025-06-16.pdf",
+        "lesson": 53,
+        "date": "2025-06-16",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_53_2025_06_16-0012",
+      "farsi": "صلح",
+      "transliteration": "solh",
+      "english": "peace",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_53_2025-06-16.pdf",
+        "lesson": 53,
+        "date": "2025-06-16",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_53_2025_06_16-0013",
+      "farsi": "قطعی",
+      "transliteration": "ghat'i",
+      "english": "definite / sure (for people)",
+      "partOfSpeech": "adjective",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_53_2025-06-16.pdf",
+        "lesson": 53,
+        "date": "2025-06-16",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_53_2025_06_16-0014",
+      "farsi": "قطعاً",
+      "transliteration": "ghatan",
+      "english": "definitely (for concepts)",
+      "partOfSpeech": "adverb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_53_2025-06-16.pdf",
+        "lesson": 53,
+        "date": "2025-06-16",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_53_2025_06_16-0015",
+      "farsi": "قحطی",
+      "transliteration": "ghahti",
+      "english": "famine",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_53_2025-06-16.pdf",
+        "lesson": 53,
+        "date": "2025-06-16",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_53_2025_06_16-0016",
+      "farsi": "خاورمیانه",
+      "transliteration": "khāvare miyāne",
+      "english": "Middle East",
+      "partOfSpeech": "proper noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_53_2025-06-16.pdf",
+        "lesson": 53,
+        "date": "2025-06-16",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_53_2025_06_16-0017",
+      "farsi": "بهترین حالت",
+      "transliteration": "behtarin hālat",
+      "english": "best case scenario",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_53_2025-06-16.pdf",
+        "lesson": 53,
+        "date": "2025-06-16",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_53_2025_06_16-0018",
+      "farsi": "بدترین حالت",
+      "transliteration": "badtarin hālat",
+      "english": "worst case scenario",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_53_2025-06-16.pdf",
+        "lesson": 53,
+        "date": "2025-06-16",
+        "page": 1
+      },
+      "needsReview": true
+    }
+  ]
+}

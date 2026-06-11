@@ -1,0 +1,355 @@
+{
+  "source": {
+    "file": "Lesson_28_2024-11-22.pdf",
+    "lesson": null,
+    "date": "2024-11-22"
+  },
+  "notes": "HANDWRITTEN – agent vision extraction needed. Fill in entries array.",
+  "pages": [
+    "content/pages/note_2024_11_22/p01.png"
+  ],
+  "entries": [
+    {
+      "id": "lesson_28_2024_11_22-0000",
+      "farsi": "ترک کردن",
+      "transliteration": "tark kardan",
+      "english": "to abandon / to leave",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_28_2024-11-22.pdf",
+        "lesson": 28,
+        "date": "2024-11-22",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_28_2024_11_22-0001",
+      "farsi": "محله",
+      "transliteration": "mahalle",
+      "english": "neighbourhood",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_28_2024-11-22.pdf",
+        "lesson": 28,
+        "date": "2024-11-22",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_28_2024_11_22-0002",
+      "farsi": "مسکونی",
+      "transliteration": "maskooni",
+      "english": "residential",
+      "partOfSpeech": "adjective",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_28_2024-11-22.pdf",
+        "lesson": 28,
+        "date": "2024-11-22",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_28_2024_11_22-0003",
+      "farsi": "برج",
+      "transliteration": "borj",
+      "english": "tower",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_28_2024-11-22.pdf",
+        "lesson": 28,
+        "date": "2024-11-22",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_28_2024_11_22-0004",
+      "farsi": "آسمان خراش",
+      "transliteration": "āsmān kharāsh",
+      "english": "sky scraper",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_28_2024-11-22.pdf",
+        "lesson": 28,
+        "date": "2024-11-22",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_28_2024_11_22-0005",
+      "farsi": "ماشین شخصی",
+      "transliteration": "māshin shakhsi",
+      "english": "personal car",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_28_2024-11-22.pdf",
+        "lesson": 28,
+        "date": "2024-11-22",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_28_2024_11_22-0006",
+      "farsi": "وسیله نقلیه عمومی",
+      "transliteration": "vasileh naghliyeh omomi",
+      "english": "public transportation",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_28_2024-11-22.pdf",
+        "lesson": 28,
+        "date": "2024-11-22",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_28_2024_11_22-0007",
+      "farsi": "شهردار",
+      "transliteration": "shahrdār",
+      "english": "mayor",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_28_2024-11-22.pdf",
+        "lesson": 28,
+        "date": "2024-11-22",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_28_2024_11_22-0008",
+      "farsi": "جهان اول",
+      "transliteration": "jahān aval",
+      "english": "first world",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_28_2024-11-22.pdf",
+        "lesson": 28,
+        "date": "2024-11-22",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_28_2024_11_22-0009",
+      "farsi": "زمین",
+      "transliteration": "zamin",
+      "english": "1) earth / north  2) field / land",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_28_2024-11-22.pdf",
+        "lesson": 28,
+        "date": "2024-11-22",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_28_2024_11_22-0010",
+      "farsi": "زمینه",
+      "transliteration": "zamine",
+      "english": "field (metaphysical)",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_28_2024-11-22.pdf",
+        "lesson": 28,
+        "date": "2024-11-22",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_28_2024_11_22-0011",
+      "farsi": "وحشتناک",
+      "transliteration": "vahshhatnāk",
+      "english": "scary",
+      "partOfSpeech": "adjective",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_28_2024-11-22.pdf",
+        "lesson": 28,
+        "date": "2024-11-22",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_28_2024_11_22-0012",
+      "farsi": "پل",
+      "transliteration": "pol",
+      "english": "bridge",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_28_2024-11-22.pdf",
+        "lesson": 28,
+        "date": "2024-11-22",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_28_2024_11_22-0013",
+      "farsi": "عصر",
+      "transliteration": "asr",
+      "english": "evening / era",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_28_2024-11-22.pdf",
+        "lesson": 28,
+        "date": "2024-11-22",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_28_2024_11_22-0014",
+      "farsi": "مناسب",
+      "transliteration": "monāseb",
+      "english": "suitable",
+      "partOfSpeech": "adjective",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_28_2024-11-22.pdf",
+        "lesson": 28,
+        "date": "2024-11-22",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_28_2024_11_22-0015",
+      "farsi": "بهشت",
+      "transliteration": "behesht",
+      "english": "paradise / heaven",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_28_2024-11-22.pdf",
+        "lesson": 28,
+        "date": "2024-11-22",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_28_2024_11_22-0016",
+      "farsi": "خاکستر",
+      "transliteration": "khākestar",
+      "english": "ash",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_28_2024-11-22.pdf",
+        "lesson": 28,
+        "date": "2024-11-22",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_28_2024_11_22-0017",
+      "farsi": "خاکستری",
+      "transliteration": "khākestari",
+      "english": "grey",
+      "partOfSpeech": "adjective",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_28_2024-11-22.pdf",
+        "lesson": 28,
+        "date": "2024-11-22",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_28_2024_11_22-0018",
+      "farsi": "اختصاص دادن",
+      "transliteration": "ekhtesās dādan",
+      "english": "to allocate",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_28_2024-11-22.pdf",
+        "lesson": 28,
+        "date": "2024-11-22",
+        "page": 1
+      },
+      "needsReview": true
+    }
+  ]
+}

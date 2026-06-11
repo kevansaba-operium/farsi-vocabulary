@@ -1,0 +1,409 @@
+{
+  "source": {
+    "file": "Lesson_57_2025-07-11.pdf",
+    "lesson": null,
+    "date": "2025-07-11"
+  },
+  "notes": "HANDWRITTEN – agent vision extraction needed. Fill in entries array.",
+  "pages": [
+    "content/pages/note_2025_07_11/p01.png"
+  ],
+  "entries": [
+    {
+      "id": "lesson_57_2025_07_11-0000",
+      "farsi": "بالا آوردن",
+      "transliteration": "bālā āvardan",
+      "english": "to vomit",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_57_2025-07-11.pdf",
+        "lesson": 57,
+        "date": "2025-07-11",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_57_2025_07_11-0001",
+      "farsi": "استفراغ کردن",
+      "transliteration": "estefràgh kardan",
+      "english": "to vomit (medical)",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_57_2025-07-11.pdf",
+        "lesson": 57,
+        "date": "2025-07-11",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_57_2025_07_11-0002",
+      "farsi": "چاق / لاغر",
+      "transliteration": "chāgh / lāghar",
+      "english": "fat / skinny",
+      "partOfSpeech": "adjective",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_57_2025-07-11.pdf",
+        "lesson": 57,
+        "date": "2025-07-11",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_57_2025_07_11-0003",
+      "farsi": "تحقیق کردن",
+      "transliteration": "tahghigh kardan",
+      "english": "to research",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_57_2025-07-11.pdf",
+        "lesson": 57,
+        "date": "2025-07-11",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_57_2025_07_11-0004",
+      "farsi": "صدف",
+      "transliteration": "sadaf",
+      "english": "shellfish",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_57_2025-07-11.pdf",
+        "lesson": 57,
+        "date": "2025-07-11",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_57_2025_07_11-0005",
+      "farsi": "مروارید",
+      "transliteration": "morvārid",
+      "english": "pearl",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_57_2025-07-11.pdf",
+        "lesson": 57,
+        "date": "2025-07-11",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_57_2025_07_11-0006",
+      "farsi": "بهداشت",
+      "transliteration": "behdāsht",
+      "english": "hygiene",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_57_2025-07-11.pdf",
+        "lesson": 57,
+        "date": "2025-07-11",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_57_2025_07_11-0007",
+      "farsi": "پیامد",
+      "transliteration": "payāmad",
+      "english": "consequence",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_57_2025-07-11.pdf",
+        "lesson": 57,
+        "date": "2025-07-11",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_57_2025_07_11-0008",
+      "farsi": "دونده",
+      "transliteration": "davande",
+      "english": "runner",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_57_2025-07-11.pdf",
+        "lesson": 57,
+        "date": "2025-07-11",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_57_2025_07_11-0009",
+      "farsi": "دو",
+      "transliteration": "do",
+      "english": "run (noun)",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_57_2025-07-11.pdf",
+        "lesson": 57,
+        "date": "2025-07-11",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_57_2025_07_11-0010",
+      "farsi": "سرپایینی",
+      "transliteration": "sarpāyini",
+      "english": "declined road (downhill)",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_57_2025-07-11.pdf",
+        "lesson": 57,
+        "date": "2025-07-11",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_57_2025_07_11-0011",
+      "farsi": "سربالایی",
+      "transliteration": "sarbālāyi",
+      "english": "inclined road (uphill)",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_57_2025-07-11.pdf",
+        "lesson": 57,
+        "date": "2025-07-11",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_57_2025_07_11-0012",
+      "farsi": "ثبت نام کردن",
+      "transliteration": "sabte nām kardan",
+      "english": "to register",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_57_2025-07-11.pdf",
+        "lesson": 57,
+        "date": "2025-07-11",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_57_2025_07_11-0013",
+      "farsi": "پل",
+      "transliteration": "pol",
+      "english": "bridge",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_57_2025-07-11.pdf",
+        "lesson": 57,
+        "date": "2025-07-11",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_57_2025_07_11-0014",
+      "farsi": "ترجیح دادن",
+      "transliteration": "tarjih dādan",
+      "english": "to prefer",
+      "partOfSpeech": "verb",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_57_2025-07-11.pdf",
+        "lesson": 57,
+        "date": "2025-07-11",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_57_2025_07_11-0015",
+      "farsi": "موف",
+      "transliteration": "mof",
+      "english": "booger",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_57_2025-07-11.pdf",
+        "lesson": 57,
+        "date": "2025-07-11",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_57_2025_07_11-0016",
+      "farsi": "طعم",
+      "transliteration": "ta'm",
+      "english": "taste",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_57_2025-07-11.pdf",
+        "lesson": 57,
+        "date": "2025-07-11",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_57_2025_07_11-0017",
+      "farsi": "مزه",
+      "transliteration": "maze",
+      "english": "paste / taste (informal)",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_57_2025-07-11.pdf",
+        "lesson": 57,
+        "date": "2025-07-11",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_57_2025_07_11-0018",
+      "farsi": "تلخ",
+      "transliteration": "talkh",
+      "english": "bitter",
+      "partOfSpeech": "adjective",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_57_2025-07-11.pdf",
+        "lesson": 57,
+        "date": "2025-07-11",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_57_2025_07_11-0019",
+      "farsi": "بادام",
+      "transliteration": "bādam",
+      "english": "almond",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_57_2025-07-11.pdf",
+        "lesson": 57,
+        "date": "2025-07-11",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_57_2025_07_11-0020",
+      "farsi": "بادام زمینی",
+      "transliteration": "bādām zamini",
+      "english": "peanut",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_57_2025-07-11.pdf",
+        "lesson": 57,
+        "date": "2025-07-11",
+        "page": 1
+      },
+      "needsReview": true
+    },
+    {
+      "id": "lesson_57_2025_07_11-0021",
+      "farsi": "کره",
+      "transliteration": "kare",
+      "english": "butter",
+      "partOfSpeech": "noun",
+      "notes": "",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_57_2025-07-11.pdf",
+        "lesson": 57,
+        "date": "2025-07-11",
+        "page": 1
+      },
+      "needsReview": true
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "source": {
+    "file": "Lesson_35_2025-01-10.pdf",
+    "lesson": null,
+    "date": "2025-01-10"
+  },
+  "entries": [
+    {
+      "id": "lesson_35_2025_01_10-0000",
+      "farsi": "نامشخص",
+      "transliteration": "nāmashkhhas",
+      "english": "unknown (no pages available)",
+      "partOfSpeech": "noun",
+      "notes": "No pages rendered for this lesson",
+      "examples": [],
+      "imagePath": null,
+      "tags": [],
+      "source": {
+        "file": "Lesson_35_2025-01-10.pdf",
+        "lesson": 35,
+        "date": "2025-01-10",
+        "page": 1
+      },
+      "needsReview": true
+    }
+  ]
+}
